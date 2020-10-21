@@ -1,0 +1,7 @@
+The objective of this research is to develop a paintprogram as a prototype which can handle Thai/English characters,using the object oriented programming technique. 
+In addition tothe paint program, software tools are also developed for anygraphic programs in micro computer platforms. 
+The tools aregathered into a program library which will ease the furthersoftware development. 
+The researcher studied the concept of object orientedprogramming in the first place, then made the technical survey onfunctions of the paint program and the methods required for thosefunctions. 
+After designing and building the program library, thepaint program was developed consequently. 
+Nevertheless, thepaint program is a prototype which would be one of the best wayfor graphic program development. 
+More features on graphicsoftware can be added to the program by means of object orientedprogramming technique.

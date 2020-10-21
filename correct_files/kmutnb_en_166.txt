@@ -1,0 +1,6 @@
+Economic Analysis of Community Level Small Rice Mill
+The objective of present project is focused on analyzing economic of the developed rice mill. 
+The components of developed rice mill mainly consisted of cleaning system, husking system polishing system and sorting system. 
+The machine is able to mill paddy to brown rice, semi-milled rice, and white rice depending on the needs of consumers freely. 
+From result of testing the machine by milling Khao Dawk Mali 105 paddy which has its moisture content not more than 14%, it was found that a capacity of a developed machine is equal to 100 kg of paddy per hour, a rice milling performance of the machine is about 66%, and rice milling effectiveness of the machine is 42%. 
+For economic analysis of rice mill developed, consideration of fixed cost and variable cost in using the machine was, in case of selling all products from rice milling process to customers completely, reported that Break-even Point of the machine in milling brown rice and white rice were 1,103.76 and 6,259.08 kilogram of paddy/year, respectively, and Payback Period of the machine in selling brown rice and white rice to buyers were equal to 262.56 and 1,537 hours, respectively.

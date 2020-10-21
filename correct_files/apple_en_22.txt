@@ -1,0 +1,55 @@
+Use Pages, Numbers, and Keynote with Box
+Collaborate with others in real time on Pages, Numbers, and Keynote documents stored in Box. 
+You can also preview, edit, and create new documents online at box.com.
+Collaborate on documents using Box with these Apple devices and software versions:
+An iPhone, iPad, or Mac with iOS 12, iPadOS, or macOS Mojave or later, and Pages, Numbers, or Keynote version 10.1. 
+Box 4.3.0 or later for your iPhone or iPad, or Box Drive for Mac 1.10 or later or Box Edit for Mac 4.0 or later.
+To collaborate on Pages, Numbers, or Keynote documents online at box.com, you'll need Safari 9.1.3 or later or Google Chrome for your Mac, or Google Chrome or Microsoft Edge for your PC. 
+Get started
+Visit box.com to sign up for a personal1 Box account. 
+Already have one? If so, go to the next step.
+If you have a personal account, sign in, then click or tap your initials in the top-right corner of the browser. 
+Select Account Settings, then choose Integrations. 
+For enterprise accounts, Box Enterprise Admins can access Integrations settings in the Admin Console > Settings > Apps.
+To turn on iWork collaboration, select iWork Collaboration.
+To preview iWork documents online in Box, select iWork Previews.
+Collaborate on a Document
+Once you set up Box and turn on iWork collaboration, you can automatically edit with others in real time on any iWork document that's already stored in Box.
+To start collaborating on a new document, move or save your document into Box:
+On Mac, drag your document to the Box folder in the Finder sidebar. 
+If Box isn't in the Finder sidebar, open the Box app from the Applications folder.
+On iPhone or iPad, move or copy your document into Box using either the document manager in Pages, Numbers, or Keynote or the Files app.2
+Online in your Box account, sign in to your account, then drag the document to the All Files screen. 
+Or, click Upload, choose File, then choose the document.
+To invite others, open your document from the Box folder, click or tap the Collaboration button , then invite people via box.com. 
+After you've started collaborating, you can manage the document: 
+To see who is currently editing the document, click or tap the Collaboration button .
+To set restrictions for who can view and make changes to your document, click or tap the Collaboration button , then tap Share Settings.
+Edit when you’re offline
+If you're not connected to the internet, you can still edit a shared document. 
+Edits you make offline are saved for at least 30 days and upload to Box automatically when you go back online. 
+Other participants will see your changes once your changes have uploaded. 
+You can check the sync status of your document from the document manager on iPhone or iPad, or by choosing View > Show Sync Status on a Mac.
+To send a copy of the document with your changes to someone else before your changes are uploaded, tap the More button  on iPhone or iPad or click Share on Mac, then choose Send a Copy. 
+If you attach a document from the Files app on iPhone or iPad or the Finder on Mac, your changes won't be included. 
+If someone you're collaborating with deletes an object, Keynote slide, or Numbers sheet you’ve edited offline, those edits won't be in the document when you’re back online and the document syncs with Box.
+Preview, edit, and create iWork documents online in Box
+You can preview, edit, and create new iWork documents within a browser when signed in to your Box account.
+3 From the Files and Folders screen, here's what you can do:
+To preview an iWork document online in Box, select the document. 
+To edit an iWork document online in Box, select the document, select Open in the toolbar, then choose Pages, Numbers, or Keynote on the Web.
+To create a new iWork document online in Box, click New. 
+Then, choose a Pages document, Numbers spreadsheet, or Keynote presentation.
+Learn more
+Get help with Pages, Numbers, and Keynote.
+Get help with Box.
+Terms and privacy
+While using iWork collaboration or viewing an iWork preview or document on the web, your files will be temporarily stored on secure Apple servers.
+Your use of the iWork applications is subject to Apple's iWork on the Web Terms of Service and Privacy Policy.
+If you have a personal Box account, you can turn off Box collaboration and previews on the Integrations tab of your Account Settings. 
+If you have a Box enterprise account, please contact your organization.
+1. To use iWork collaboration with a Box enterprise account, iWork collaboration must be turned on by your organization.
+2. Make sure you've added Box to your Locations on your iPhone or iPad. 
+Once you've added Box, you can move and copy documents into Box with the document manager and the Files app.
+3. You can open a document of up to 1 GB on box.com. 
+If your document is larger than 1 GB, use Pages, Numbers, or Keynote on iPhone, iPad, or Mac to reduce its size before trying to open it on box.com.

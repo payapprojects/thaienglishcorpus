@@ -1,0 +1,14 @@
+Utilization of Rice Husk Ash-based Geopolymer in Hollow Load-bearing Concrete Masonry Block
+This research aims to study the effects of aggregate content, sodium hydroxide (NaOH) concentration and curing temperature on compressive strength and water absorption of load-bearing geopolymer concrete block. 
+Original coarse rice husk ash blended with fly ash at the percentage by weight of 50 : 50 was used as a binder. 
+Sodium silicate (Na2SiO3) and sodium hydroxide (NaOH) solutions were also mixed with the binder to produce geopolymer concrete block. 
+NaOH solution concentrations were varied at 12, 14, 16, and 18 molars. 
+Dust limestone was also used as an aggregate in the mixture at various weight ratios between the binder (rice husk ash blended with fly ash) to aggregate of 1 : 4, 1 : 6 and 1 : 8. 
+The geopolymer concrete blocks were produced by using the Cinva-Ram machine. 
+The specimens were then arranged into two groups at the temperatures of 25°C (room temperature) and 65°C for the first 24-hour curing and then all the specimens were cured in room temperature until the testing ages. 
+The geopolymer concrete block specimens were tested for compressive strength at 7, 14, and 28 days and its water absorption was tested at 28 days. 
+The results showed that higher NaOH solution concentration led to higher compressive strength and lower water absorption of geopolymer concrete block. 
+These effects were evidently found in geopolymer concrete blocks with low aggregate content than in those with high aggregate content. 
+Increase of aggregate content in the mixture also decrease compressive strength of geopolymer concrete block. 
+In addition, geopolymer concrete blocks, which were cured at 65°C for 24 hours apparently yielded higher compressive strength than those cured at 25°C (room temperature). 
+Besides, high curing temperature has a greatter effect to increase compressive strength of geopolymer concrete block with lower NaOH concentration than that with higher NaOH concentration.

@@ -1,0 +1,11 @@
+Development of Domestic Tourists Model Using Clustering and Association Rule Techniques Case Study: Phra Nakhon Si Ayutthaya Province
+The understanding of tourist needs is very complicated due to the extremely high number of tourists. 
+Accordingly, providers cannot tailor their products or services to better match customers' needs and demands in each segment. 
+This research proposes the model of domestic tourism in Phra Nakhon Si Ayutthaya province, Thailand by using machine learning techniques. 
+The principle aims of this research are to study the behaviors of related domestic tourists and to develop a clustering model using the combination of clustering and association rule techniques. 
+A data set was collected from 704 travelers who visited Phra Nakhon Si Ayutthaya. 
+It was cleaned and prepared for clustering by the TwoStep cluster analysis. 
+Then, the relevant association rules were discovered on each of these clusters. 
+The experimental results revealed that the dataset could be divided into 4 different clusters, including senior tourists coming with a company trip (15.63%); elderly tourists traveling with family (37.78%), employee tourists (23.58%) and those who do enjoy traveling (23.01%). 
+Each cluster showed as many as 8, 5, 3 and 6 association rules among their attributes with more than 80% confident. 
+With insight into tourist travel behaviors, those involved can get engaged in strategic planning of products and services that are tailored to meet the specific needs of each cluster.

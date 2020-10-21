@@ -1,0 +1,6 @@
+This thesis presents the construction of a medical instrument known as a pulse oximeter. 
+The development of noninvasive pulse oximeter for real time measurement of oxygen saturation in blood is described. 
+The optical technique is used in this instrument by passing two light beams of different wavelengths through human tissue. 
+The transmitted light intensities is detected by photodiode. 
+The implemented software is used to control and convert the detected signals to the blood owygen saturation. 
+Results obtained from the tested samples investigation have shown that this noninvasive pulse oximeter data has an arror at an acceptable level of -2 percent of oxygen saturation (SpO(,2)) compared with that of the standard instrument.

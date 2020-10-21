@@ -1,0 +1,19 @@
+Re-download GarageBand Learn to Play Artist Lessons
+Learn how to resume interrupted or re-download previously purchased Learn to Play Artist Lessons.
+If you’ve started to download Learn to Play Artist Lessons and the download is interrupted or is incomplete, you can resume the download from the Lesson Store in GarageBand. 
+You can also download previously downloaded Artist Lessons from the Apple Store (but not from the Lesson Store in GarageBand).
+Resume an interrupted Learn to Play Artist Lesson download
+Check your network connection. 
+Your network connection must be active for the download to complete.
+Quit and reopen GarageBand. 
+If GarageBand is already closed, click its icon to open it. 
+An alert appears indicating that the download will resume.
+If GarageBand is open but the Project Chooser isn’t visible, choose File > New to open it.
+In the Project Chooser, click “Learn to Play,” and then click the arrow in the lower-right corner to resume the download.
+If you’re still unable to complete the download, visit the GarageBand Learn to Play section of the Apple Software page for information and instructions on how to re-download your lesson.
+Download a purchased Learn to Play Artist Lesson again later
+Log in to your Apple Store account and view your order history.
+Click any lesson to download it again.
+Contact Apple Support
+If you’re having trouble purchasing Learn to Play Artist Lessons, contact Apple Support. 
+If you're having trouble downloading Learn to Play Artist Lessons from your Apple Store order history, see Apple Software Shopping Help.

@@ -1,0 +1,10 @@
+Shrimp Shell Deproteinization by Using Papain and Antifungal of Chitosan Against Fusarium oxysporum
+Chitosan is a deacetylation chitin derivative widely used in various fields. 
+It is also used as a fungicide instead of a chemical substance. 
+This study started with chitin preparation using a biological method in deproteinization process. 
+This method is less harmful than other chemical one, and also obtains Hydrolysate, a protein with no chemical contamination, which can be used as a protein source for animals. 
+The aim of this study was to define the optimal conditions for deproteinization of shrimp shells using commercial papain. 
+The chitin product was used for chitosan preparation and then, the chitosan was tested for antifungal activity against F. oxysporum, which is the cause of Fusarium wilt disease in many plants. 
+The results showed that the optimal conditions for deproteinization were pH 8.0, a temperature of 40°c and the ratio of shrimp shell to papain was 1 gram : 1 unit. 
+Within 60 minutes, the percentage of deproteinization and demineralization was achieved 63.54 ± 0.0171% and 45.98%, respectively. 
+The chitosan from shrimp shells exhibited F. oxysporum inhibitory activity with IC50 value of 0.762% w/v. This research obtained the optimal conditions for deproteinization of shrimp shell using papain and the chitosan which is a good inhibitor for F. oxysporum.

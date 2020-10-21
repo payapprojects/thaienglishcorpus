@@ -1,0 +1,7 @@
+A Low-Power CMOS Current-Mode True RMS-to-DC Converter
+This paper presents a low-power CMOS current-mode true RMS-to-DC converter based on the translinear principle of CMOS operating in a saturation region. 
+The technique used for the design of the realization scheme was the implicit computation method. 
+Its main conversion circuit structure consisted of a two-quadrant squaring circuit and a low-pass filter circuit. 
+The circuit can be used with both positive and negative input signals. 
+Simulation results were examined using the HSPICE program with model 0.18 μm BSIM3V3 level 49 TSMC CMOS process parameters. 
+It was found that the circuit features could operate well in a wide input range (500 nA–100 μA), with low supply voltage (1.8 V), low power dissipation (0.15 μW), and a high bandwidth (50 MHz); and the error of conversion accuracy was less than 1%, well in agreement with theory.

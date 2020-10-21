@@ -1,0 +1,5 @@
+On Fuzzy Subsets in Abel-Grassmann’s Semirings
+Let R be an Abel-Grassmann’s semiring. 
+In this paper, we introduce the concept of a fuzzy subset, fuzzy left and fuzzy right ideals in Abel-Grassmann’s semirings, and to study fuzzy left and fuzzy right ideals in Abel-Grassmann’s semirings. 
+We show that a non empty subset I of R is an Abel-Grassmann’s subsemiring (left ideal, right ideal, ideal) if and only if fI (tfI) is a fuzzy Abel-Grassmann’s subsemiring (fuzzy left ideal, fuzzy right ideal, fuzzy ideal) of R. 
+Finally we show that f is a fuzzy Abel-Grassmann’s subsemiring (fuzzy left ideal, fuzzy right ideal, fuzzy ideal) of R if and only if U (f, t) is an Abel-Grassmann’s subsemiring (left ideal, right ideal, ideal) of R.

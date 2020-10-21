@@ -1,0 +1,7 @@
+The Impact of Frequency System Change from Electrical Disturbance in Power Substation: A Case Study of MEA Power System
+In the Metropolitan Electricity Authority (MEA)’s power distribution system, there Is the possibility of power failure several times due to the under frequency relay operating only on a single power substation causing temporary blackout in that local area while others power substations nearby are still working. 
+which is still the unsolved problem. 
+This paper studies the factor of electrical disturbance by modeling power transmission systems with simulation and analysis of power system transients (ATP-EMTP) by simulating the actual distribution system in the power stations of the Metropolitan Electricity Authority to cause under frequency relay works which are: 
+1) Harmonic in the electrical system, 
+2) Switching in the presence of a fault and 3) The result of the circuit breaker operation on the substation. 
+The results from the electrical system model found that electrical disturbances caused by harmonic effects in the electrical system do not affect the frequency of the electrical system, electrical disturbances caused by the circuit breaker operating at the substation resulted in frequency shift decrease by 10.72% and the the electrical system switching by closed / opened circuit breakers while having a fault resulted in frequency shift decrease by 27.2%.

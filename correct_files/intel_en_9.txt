@@ -1,0 +1,52 @@
+Today’s computer shopper has a choice of two great software platform standards in Windows and Mac, but lines have blurred between the types of hardware, which generally share Intel® CPUs.
+In computing circles, “PC vs. Mac” has long been a topic of debate—advocates on both sides felt so intense that it was better to steer clear of the subject unless you were up for a furious debate.
+While Macs and PCs still both have passionate followings, the differences between the two types of computers have dramatically lessened over the years. 
+The result is your decision comes down to subtle preferences—but you really can’t go wrong with either choice
+It has become less a matter of hardware and software than of style and personal taste.
+The Ecosystem: Do You Think Less Is More or More Is More?
+When you buy a Mac, you’re buying a philosophy as much as a piece of computer technology.
+The same company produces the hardware and software, and the computers share an aesthetic sensibility with Apple* phones and tablets.
+Mac offers just six computer styles with a limited choice of configurations—a “best of the best approach” that eliminates the need to wade through an excessive amount of options.
+If you don’t like deliberating over RAM, disk space, and other hardware components, Mac does much of the work for you.
+With PCs, roughly a dozen major manufacturers produce the hardware, and most run the Windows operating system.
+You can have hundreds of choices of style and configurations, allowing you to find exactly what you want, though it may take more time and deliberation. 
+Whether more is more or less is often in the eye of the beholder.
+Price: Look Beyond the Price Tag
+Macs have long carried a reputation for premium pricing compared to PCs, though advocates would say that was simply the cost of higher-end components that provide better performance and reliability.
+Making an apples-to-apples comparison on price for PC vs. Mac has always been difficult, though, because PCs and Macs typically have different pre-installed software and components, such as graphics cards, ports, and processor speed. 
+The standard model Macs tend to offer less memory and hard drive space, so you need to take the specs into consideration. 
+Because of their lower cost, PCs have often been the choice for people who needed basic computing functions, like word processing and web surfing, while creative professionals who perform tasks such as design or video editing have been willing to shell out extra money for the apple of their eye.
+That said, the premium for the Apple know-how has shrunk to a couple of hundred bucks, making price a smaller consideration.
+Maintenance: Are You a Troubleshooter?
+Just as Macs offer a narrow number of choices, the systems tend to stay as they are – typically only the hard drive and RAM can be upgraded.
+PCs, coming in so many models from so many vendors, usually allow any of the individual hardware components to be switched out, from the central processing unit (CPU) to the displays. 
+Whether that matters may depend on how you use the computer, how long you plan to keep it, and whether you are adept at handling some of your own maintenance.
+Because Apple makes both the hardware and software, you have one primary place to turn when you have an issue, and issues can usually be resolved quickly. 
+With PCs, different vendors make the hardware and software, and problem solving can be more complicated.
+Partly for this season, Apple has always received high marks from Mac owners for customer service.
+Software: Your Choice May Be Up In the Clouds
+In the past, it was easy to pick a Mac or PC based on the type of software you needed. 
+Business productivity tools were domain of the Windows operating system, while editing, photo and other creativity apps were clearly a Mac world.
+And though the PC tends to dominate in the workplace, many software programs for professional use—including Microsoft* Office and the Adobe* Creative Suite—have versions for both operating systems. The software has also become a smaller issue as many people no longer load software on their computer but maintain subscriptions for software they can access via the cloud.
+If you stream videos on YouTube, for example, your browser doesn’t care what type of computer or operating system you’re using.
+Playing Games: Close the Window on This One
+Gamers have always flocked to PCs, and that won’t change anytime soon.
+PCs can now stream games from Xbox One and PlayStation 4, and the number of titles available on a PC dwarf the Mac. 
+So if gaming is more than just fun and games in your house, the PC wins hands-down.
+Getting Touchy-Feely: PCs Emphasize Speech and Touch
+For all the passion of Mac users, PC advocates can now honestly say they have a more touchy-feely relationship with their computers.
+Recent versions of the Windows operating system have embraced touch and speech, such as the new feature Cortana* in Windows* 10, which enables voice commands to schedule appointments.
+Apple has integrated its voice recognition software, Siri, into its desktop models but has been resistent to introduce a touch feature into its operating system, OS* X.
+So if you prefer speaking to your computer, or moving your finger across the screen, to a keyboard and mouse, PCs offer a clear advantage.
+Security: Mac Still Gets the Nod
+At one time, PCs were known for frequent crashes, but the Windows operating system has become significantly more reliable. 
+While Mac hardware and software is denoted by its stability, the difference here has lessened.
+The odds of getting a virus or malware with a PC remain higher than with a Mac, but this is more about the numbers game than technology. 
+About 7.5% of the computers in use are Mac, according to IDC, so hackers spend more time and creativity attacking PCs.
+That said, a sprinkling of Mac-attacks have begun to appear, such as last year’s Keyranger ransomware which attacked the OS* X operating system and encrypted all files on a hard drive until users paid an extortion fee. 
+The proper antivirus program and other safeguards will keep either system safe, but PCs will be at greater risk.
+The Choice:
+PCs and Macs do offer some clear-cut differences; which of those differences are the most important is something that each person has to decide for his or herself. 
+Due to price and availability, PCs tend to be the winner, while Macs remain the choice for the more elite or anti-Windows computer users. 
+Either way, you can’t really go wrong. 
+It truly is the golden age of computers.

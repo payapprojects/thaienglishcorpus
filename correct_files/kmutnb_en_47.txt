@@ -1,0 +1,8 @@
+Automation System Assisting Commencement Ceremony Rehearsal
+This paper presents an automation system that assists rehearsals for the commencement ceremony. 
+As individual representatives' fatigue solutions from long rehearsal hours, a working robot arm is used for delivering certificates in replacement of manual procedures. 
+The system is required to completely perform its respective duties as to get prepared for any disruptions during rehearsals. 
+The developed automation system consists of a robot arm, a certificate dispenser machine, and a hand detector, all of which must perform correspondingly. 
+The system is designed to be automatic and is controlled by a microcontroller, making it cheap, light weight, with fast-reacting robotic limbs Robotic mechanical functions must conform to the graduates' grasping motions. 
+According to the running test, the robotic arm can carry out certificate delivery with precision. 
+Furthermore, the mechanical limb is supposed to wait by itself during individual pickup before executing its further cycle.

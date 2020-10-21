@@ -1,0 +1,13 @@
+This research is aimed at: 
+1) studying websites developed with responsive techniques, 
+2) examining user behaviours towards websites developed with the aforementioned techniques, and 
+3) evaluating user satisfaction on performance of responsive websites. 
+The website included as a part this case study was the one of the Faculty of Graduate Studies, Mahidol University. 
+The new website based on System Development Life Cycle (SDLC) was developed through responsive techniques, and rendering tests were performed on various devices, such as smartphones, tablets, desktop computers, etc.
+Subsequently, comparative analysis between the use of old and new sites were performed through Google Analytics. 
+Users were enquired to indicate their overall satisfaction via an online questionnaire. 
+Samples were 1,850 prospective students, current students, alumni, researchers, and visitors. 
+The results indicated that: 
+1) Responsive web design could resolve web page rendering issues on different screen sizes: it supports correct and complete web page rendering, faster access to data, simplicity of usage, and enables the website to be modernized and more visually attractive; 
+2) Based on results of web behaviours from Google Analytics, the number of accesses from desktop computers decreased, as many users preferred to use smartphones and tablets for accessing the website, and the number of such assesses tended to increase; and 
+3) For website user satisfaction in terms of performance, satisfaction with speed to access contents on web pages was ranked in the highest position ( = 4.58), followed by satisfaction with website design ( = 4.28), and the simplicity of usage ( = 4.05), revealing high levels of user satisfaction in these domains.

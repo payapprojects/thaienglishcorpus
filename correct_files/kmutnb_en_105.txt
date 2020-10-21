@@ -1,0 +1,4 @@
+Estimating the Population Mean Using Searls Approach
+The Searls approach was employed to develop the estimation of population mean based on the coefficient of variation of the known population. 
+This approach leads to a higher efficiency of the Searls estimator than that of the traditional one. 
+This article presents the Searls approach’s methods and provides examples of the population mean estimators using the Searls approach: the estimator using the Searls approach for simple random sampling without replacement and the estimator using the Searls approach for single-stage cluster sampling with simple random sampling without replacement

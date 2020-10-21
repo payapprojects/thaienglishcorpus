@@ -1,0 +1,5 @@
+Developing a Model of Synthesis Logic Circuits Based on Gene with Genetic Algorithm
+This article mentions about applying the engineering method for studying and developing more complex gene expression by defining the terms of protein expression. 
+Using the idea of transcription process of lac operon which is similar to the electronic circuit due to the process that we can assume as the state ON and OFF by the inputs of one or two inducers to the circuit. 
+By using the genetic algorithm for searching the most optimal parameter to calculate the amount of protein product of the transcription process in various concentration of inducers. 
+The resulting optimal design of these biological logic gates can be extended to synthesis advanced sequential logic circuits.

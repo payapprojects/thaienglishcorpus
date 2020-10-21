@@ -1,0 +1,11 @@
+Bottom-spray Fluidized Bed Coating: Effect of Process Variables on Rice Kernel Coating Efficiency
+The purpose of this study was to construct a small scale batch bottom-spray fluidized bed coating apparatus. 
+The effects of several process variables on the coating efficiency were evaluated. 
+Coating experiments were performed by spraying turmeric extract solution onto Jasmine rice kernels. 
+The experimental conditions were solution spray rates of 30, 35 and 40 mL/min, atomization pressure of 1 and 1.5 bar, spray time of 8 and 10 min, time of drying after spraying of 30 and 10 sec, superficial air velocity of 2.5 m/s, drying temperatures of 55, 60 and 65°C and 80% of recycle air. 
+The coated rice quality was evaluated in terms of the moisture content, color, percentage of fissure kernels and coating efficiency. 
+The experimental results have shown that suitable conditions for producing turmeric extract coated rice were drying temperature of 55°C, the coating solution spray rate of 40 mL/min, atomization pressure of 1.5 bar, spray time of 8 min and time of drying after spraying of 10 sec. 
+The color of turmeric extract coated rice was reddish-yellow. 
+The moisture content of turmeric extract coated rice decreased with increasing the drying temperature, coating solution spray time and time of drying after spraying. 
+The increase of the drying temperature and coating solution spray rate did not affect the percentage of fissure kernels. 
+The coating efficiency of the apparatus was in the range of 78.2–82.9%.

@@ -1,0 +1,7 @@
+According to CO2 emission has increased up to now and it is a causes of the global warming in the consequence. 
+CCS (Carbon dioxide Capture and Storage) is an effective tool to mitigate CO2 emission, but surface uplifting due to reservoir expansion is a problem caused by CSS project that needs to be concerned. 
+This research aims to studies and shows a significant property of the fluids that are injected into suitable reservoirs in order to mitigate global warming problems. 
+The laboratory tests and the geomechanical model are simulated rock deformations caused by CO2 injection for CCS projects. 
+The results show that the different fluid properties produced the different rock deformations. 
+The fluids that has a high mobility and penetration resulted a high number of the rock deformations. 
+Consequently, the pore pressure is not a single factor for a calculation of the rock deformations, the fluid property also plays an important role for the rock deformation and should be paid more attention.

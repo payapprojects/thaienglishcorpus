@@ -1,0 +1,8 @@
+This thesis presents a design and development ofmanagement program for Batch Control Systems. 
+Theprogram is based on Standard ISA-S88.01-1995 (BatchControl). 
+Due to it's modular structure, the programcan be easily modified or expanded in the future. 
+Thedeveloped program can be described in to Physical ModelEditor, Recipe Editor, Graphic for Represent RecipeProcedure, Phase and Procedure Monitor, CommunicationSystem Software between Microcomputer and PLC, etc. 
+Theprogram language is based on Visual Basie. 
+MicrosoftAccess is used as database software. 
+The system which consists of IBM PC with developedsoftware and PLC has been tested in laboratory. 
+Theresult are quite satisfactory.

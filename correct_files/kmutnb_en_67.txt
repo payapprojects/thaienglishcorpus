@@ -1,0 +1,6 @@
+Effects of Functional Group and Surface Roughness on Adsorption of Carbon Dioxide in Porous Glass by Grand Canonical Monte Carlo Sim
+Adsorption of carbon dioxide in porous glass with different widths varying from 10-60 Å at 283 K are studied in this research using Monte Carlo simulation method. 
+The molecular model of porous glass is assumed to be composed of SiO4 crystal and the atoms in it are laid in different planes. 
+Two layers of crystal are parallel and perpendicular to the z-axis, the distance between these crystal layers is defined as the pore width (H). 
+The porous glass surfaces are contained either functional groups or defects, it is found that the adsorption increases rapidly at low pressures and then it gradually increases with pressure. 
+The functional groups show insignificant effect on adsorption isotherm, while an early onset in adsorption isotherm is observed in the case of surface roughness.

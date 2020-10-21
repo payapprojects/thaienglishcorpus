@@ -1,0 +1,13 @@
+Two-dimension Flim Cutting by Quality Grade
+The plastic film manufacturing industry: One of the manufacturing processes, including cutting the film to the size that according to customer requirements, due to a variety of customers, including width, length, grade and due date, etc. 
+This research aims to 1) form a mathematical model that use the genetic algorithm that create the optimizing patterns. 
+2) Developing the cutting film programs which following the patterns speed performance that had developed by the generating pattern and the application speed in the context of the cutting blade changed. 
+To find the guidelines of the research on Two−dimension Film Cutting by Quality Grade, the first step is to studies the genetic algorithm theory related research and education in the management of the cutting two−dimensional material as much as possible. 
+The second step is to analyze the research in the context of the proposed research. 
+The third step is to educate deeply in the research context. 
+Step four is synthesizing the mathematical model. 
+The fifth is testing the feasibility of the mathematical model that synthesis. 
+Step six Programming and testing with the actually work. 
+Step seven testing with the human computation. 
+And the eighth compare and analyze the results from the management’s technology with the old ways that is used the human computing. 
+The result on this research that is developed by the synthesized mathematical model decreased the calculating time when compare with the man is 51 times (5185%) and reduce blades changed time in the manufacturing 13 percent less on average.

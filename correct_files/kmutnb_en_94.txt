@@ -1,0 +1,11 @@
+Optimization of Surface Cleaning Process for Flexible Printed Circuit Substrates Using Plasma
+Flexible printed circuits are currently a key component of touch screen panels for mobile phones. 
+The parts need a strict quality control to prevent dust from covering the circuit surface. 
+Plasma cleaning of electronic circuits is an effective method to clean off small dust particles from the work surface. 
+However, the improper setup of plasma cleaning process can lead to the burnt surface as a result. 
+Hence, this research applies a technique of experimental design to determine an optimal condition of plasma cleaning process for flexible printed circuit substrates. 
+Factors examined in the experiments were the amount of argon, power of radio frequency and speed of plasma cleaning. 
+A response variable was the contact angle of deionized liquid on the workpiece surface. 
+According to the experimental results, the optimal cleaning condition comprised of using 8 dm3/min argon gas, 140 W radio frequency and 35 mm/s cleaning speed. 
+By using this condition, the contact angle was in the range of 10 to 30 degrees, which caused no burning on the workpiece surface. 
+After applying such condition to a production line, the burning defect can be reduced from 24.8% to 3.21% of 3 million parts produced per month, which is equivalent to the reducing of 744,000 to 96,300 defectives found monthly.

@@ -1,0 +1,7 @@
+This research studied the effect of fly ash on chloride diffusion coefficient and compressive strength of both recycled and natural aggregate concretes exposed to marine environment for 5 years. 
+Mae-Moh fly ash was used to replace Portland cement at the percentages of 0, 15, 25, 35, and 50 by the weight of binder with various water to binder (W/B) ratios of 0.40 and 0.45 in recycled aggregate mixtures and a W/B ratio of 0.45 in natural aggregate mixtures. 
+Concrete cube specimens of 200×200×200 mm3 were cast and cured in fresh water for 28 days and then were placed in a tidal zone of marine environment. 
+The compressive strengths of the concrete exposed to marine environment for 5 years as well as the total chloride diffusion coefficients of the specimens were determined. 
+The Results revealed that the compressive strengths of recycled aggregate concretes decreased after being exposed in marine environment for 5 years, whereas those of natural aggregate concretes and fly ash increased after 28 days of curing. 
+Evidently, higher in fly ash contents would lower chloride diffusion coefficients of both recycled and natural aggregate concretes. 
+Furthermore, use of fly ash as low as 15% replacement by weight in recycled aggregated concretes could provide lower chloride diffusion coefficient compared to Portland cement containing natural aggregate concrete with W/B of 0.45.

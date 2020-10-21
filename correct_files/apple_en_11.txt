@@ -1,0 +1,67 @@
+How Power Nap works on your Mac
+Power Nap allows your Mac to perform useful activities while it's asleep.
+What does Power Nap do?
+If your Mac supports Power Nap, these activities can occur while your Mac is asleep:
+Mail receives new messages.
+Contacts keep up to date with changes made on other devices.
+Calendar receives new invitations and calendar updates.
+Reminders keep up to date with changes made on other devices.
+Notes keep up to date with changes made on other devices.
+Documents stored in iCloud keep up to date with changes made on other devices.
+Photo Stream keeps up to date with changes made on other devices.
+Find My Mac updates the location of the Mac, so you can find it while it's asleep.
+VPN on demand continues working so that your corporate email updates securely. 
+(Power Nap supports VPN connections that use a certificate to authenticate, not VPN connections that require entering a password.)
+Mobile Device Management can remotely lock and wipe your Mac. 
+And these activities can occur while your Mac is asleep and plugged in to an AC power outlet:
+Software updates download.
+Mac App Store items (including software updates), download in the background.
+Time Machine performs backups.
+Spotlight performs indexing.
+Help Center content updates.
+Wireless base stations can wake your Mac using Wake on Wireless.
+During Power Nap, your Mac plays no system sounds, including the Play Sound or Send Message feature of Find My Mac. 
+If your Mac has a hard drive (HDD) or a Fusion drive, you might hear sounds from the drive as it comes on during a Power Nap update, during operation, and when the drive turns off. 
+You have the option to turn Power Nap off.
+When Power Nap is turned on, your computer might be warm to the touch, even if it's sleeping. 
+If your Mac exceeds a predefined temperature, Power Nap operations are suspended so that your Mac doesn't overheat. 
+When your Mac wakes up, it’s ready to go.
+Which Mac computers can use Power Nap?
+You can use Power Nap on these Mac models:
+MacBook (Early 2015 and later)
+MacBook Air (Late 2010 and later)
+Requires OS X Mountain Lion v10.8.2 and later
+MacBook Pro (all models with Retina display)
+Mac mini (Late 2012 and later)
+iMac (Late 2012 and later)
+Mac Pro (Late 2013)
+Turn Power Nap on or off
+The Power Nap setting is in the Energy Saver pane of System Preferences.
+Desktop computers
+Choose Apple menu > System Preferences, then click Energy Saver. 
+Use the "Enable Power Nap" checkbox to turn Power Nap on or off. 
+The default setting is on if your desktop Mac uses flash storage (not including Fusion Drive).
+Energy Saver on desktop computers
+Notebook computers
+Choose Apple menu > System Preferences, then click Energy Saver.
+Click the Battery tab, then use the "Enable Power Nap while on battery power" checkbox to control whether your Mac uses Power Nap while on battery power. 
+The default setting is off.
+Click the Power Adapter tab, then use the "Enable Power Nap while plugged into a power adapter" checkbox to control whether your Mac uses Power Nap while using AC power. 
+The default setting is on.
+Energy Saver on notebook computers
+Learn more
+Power Nap responds to your battery power state
+The year your notebook computer was released determines how Power Nap responds to your battery power state.
+Computers with 2013 or a later year in the model name use Power Nap until the battery is drained. 
+Computers with 2012 or an earlier year in the model name suspend Power Nap if the battery has a charge of 30% or less. 
+Power Nap resumes when you connect to AC power.
+To increase battery life while using Power Nap, disconnect any USB, Thunderbolt, or FireWire devices that may draw power from the computer. 
+Learn more about maximizing battery life.
+Power Nap checks for updates at specific intervals
+When your computer isn't connected to AC power, Power Nap communicates and transfers data for only a few minutes per Power Nap cycle. 
+When connected to AC power, communications and data transfers are continuous.
+Mail, Notes, Contacts, Calendar, Reminders, Photo Stream, Find My Mac, and iCloud documents are checked every hour. 
+To receive updates during Power Nap, Mail and Notes must be open before your Mac sleeps.
+Time Machine backups are attempted hourly until a successful backup has been completed.
+Software Updates are checked daily.
+Mac App Store downloads are checked once a week.

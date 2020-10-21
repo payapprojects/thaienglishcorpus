@@ -1,0 +1,8 @@
+Heat Transfer Enhancement in Turbulent Tube Flow Through Delta-winglet Tapes
+This article presents the influence of Delta-Winglet Tapes (DWT) placed in a uniform heat-fluxed tube on thermal and flow resistance characteristics. 
+In the current experiment, the DWTs with inclination angle (β) of 45º are inserted into the tube with three winglet blockage ratios (b/D = 0.1, 0.15 and 0.2) and three relative winglet-pitches (P/D = 1, 2 and 3). 
+Air as the test fluid flows through the tube for Reynolds number of about 4,200–25,800. 
+The experimental results reveal that the DWT can considerably enhance the heat transfer rate up to 4.06 times above the smooth tube whereas the friction factor is up to 31.63 times. 
+The increase in b/D leads to higher heat transfer and friction loss while the increment in P/D provides the reversing trend. 
+The thermal enhancement factor of the DWT is in the range of 1.16–1.51 where its maximum regarded as the optimum point is at b/D = 0.15 and P/D = 1. 
+Nusselt number (Nu) and friction factor (f ) correlations for the DWT are also determined.

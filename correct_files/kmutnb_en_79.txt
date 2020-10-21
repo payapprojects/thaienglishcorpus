@@ -1,0 +1,7 @@
+Locating the Optimal Emergency Services Stations on Highway Using Maximal Covering Location Model: Case Study Nakhon Pathom Province
+The objective of this research is to locate emergency highway service stations for roadside and medical emergencies in Nakhon Pathom province by using the Maximal Covering Location Model (MCLP). 
+The important parameters include the number of highway routes, 17 alternate routes in 30 zones, population in areas along the highway, the number of accidents and distances between the emergency service stations and the residential places in 74 districts. 
+To determine the optimal emergency stations, two coverage demands are considered; population trends and the number of accidents in the area. 
+Three types of service stations, classified by their coverages, are experimentally tested including small, medium, and large emergency service stations within 10 km, 15 km, and 20 km distances respectively. 
+As a result, 8 emergency service stations are needed for the maximum population coverage of 99.39% within 20 km., which handles 99.47% of total accidents.
+

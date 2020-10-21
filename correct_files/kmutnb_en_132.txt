@@ -1,0 +1,11 @@
+Behaviour of Structural Composite Hybrid Panels Under Combined Bending and Axial Compression Loads
+This research deals with performance studies of load bearing hybrid composite walls under combined bending and axial compression loads developed at Rajamangala University of Technology Tawan-Ok. 
+The hybrid composite wall consists of fiber cement board as a sandwich-board and light-weight foamed concrete mixed with Expandable Polystyrene foam (EPS) in waffle-arrangement as a core material. 
+The testing programme includes sixteen structural composite panels and were tested under a combination of axial compression and flexural bending loads. 
+Tested specimens were divided into two types; type A - without a steel skeleton and type B - with a cold-form C75×45 skeleton placed in the middle of the panel. 
+Based on the test results, it was found that deflections of panels type A were higher than that of specimen type B due to the presence of a steel skeleton. 
+The maximum failure loads of panel specimen type B exhibited higher loads than that of specimen type A. 
+This is because the presence of cold-form steel in specimen type B caused a higher stiffness and thus a higher load bearing capacity. 
+Moreover, it is also found that the serviceability loads of panel type A and type B are 1.22 kN and 2.04 kN, respectively. 
+Based on the analysis of the test results, the P-M interaction diagram can be obtained by considering the reduction factor for the design procedure. 
+For conservative design, the reduction factor (ϕ) = 0.3 is recommended by comparing the ratio between serviceability load and load at failure which are 31.2% and 36.7% for specimens type A and type B, respectively.

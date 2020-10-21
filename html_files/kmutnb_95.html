@@ -1,0 +1,300 @@
+
+<!DOCTYPE html>
+
+<html>
+<head>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<title>การศึกษาความเป็นไปได้ของการใช้รถประจำทางไฟฟ้าสำหรับการขนส่งมวลชนระยะไกล Feasibility of Electric Bus Implementation for Long-distance Public Transportation </title>
+<meta content="วารสารวิชาการพระจอมเกล้าพระนครเหนือ" name="description"/>
+<meta content="jkmutnb; kmutnb" name="keywords"/>
+<meta content="Open Journal Systems 2.4.3.0" name="generator"/>
+<link href="http://ojs.kmutnb.ac.th/public/journals/7/journalFavicon_en_US.png" rel="icon" type="image/png"/> <!-- Base Jquery -->
+<script src="//www.google.com/jsapi" type="text/javascript"></script>
+<script type="text/javascript">
+		<!--
+		// Provide a local fallback if the CDN cannot be reached
+		if (typeof google == 'undefined') {
+			document.write(unescape("%3Cscript src='http://ojs.kmutnb.ac.th/lib/pkp/js/lib/jquery/jquery.min.js' type='text/javascript'%3E%3C/script%3E"));
+			document.write(unescape("%3Cscript src='http://ojs.kmutnb.ac.th/lib/pkp/js/lib/jquery/plugins/jqueryUi.min.js' type='text/javascript'%3E%3C/script%3E"));
+		} else {
+			google.load("jquery", "1.4.4");
+			google.load("jqueryui", "1.8.6");
+		}
+		// -->
+	</script>
+<!-- Compiled scripts -->
+<script src="http://ojs.kmutnb.ac.th/lib/pkp/js/lib/jquery/plugins/jquery.tag-it.js" type="text/javascript"></script>
+<script src="http://ojs.kmutnb.ac.th/lib/pkp/js/lib/jquery/plugins/jquery.cookie.js" type="text/javascript"></script>
+<script src="http://ojs.kmutnb.ac.th/lib/pkp/js/functions/fontController.js" type="text/javascript"></script>
+<script src="http://ojs.kmutnb.ac.th/lib/pkp/js/functions/general.js" type="text/javascript"></script>
+<script src="http://ojs.kmutnb.ac.th/lib/pkp/js/classes/Helper.js" type="text/javascript"></script>
+<script src="http://ojs.kmutnb.ac.th/lib/pkp/js/classes/ObjectProxy.js" type="text/javascript"></script>
+<script src="http://ojs.kmutnb.ac.th/lib/pkp/js/classes/Handler.js" type="text/javascript"></script>
+<script src="http://ojs.kmutnb.ac.th/lib/pkp/js/controllers/SiteHandler.js" type="text/javascript"></script><!-- Included only for namespace definition -->
+<script src="http://ojs.kmutnb.ac.th/lib/pkp/js/controllers/UrlInDivHandler.js" type="text/javascript"></script>
+<script src="http://ojs.kmutnb.ac.th/lib/pkp/js/controllers/grid/GridHandler.js" type="text/javascript"></script>
+<script src="http://ojs.kmutnb.ac.th/lib/pkp/js/controllers/AutocompleteHandler.js" type="text/javascript"></script>
+<script src="http://ojs.kmutnb.ac.th/lib/pkp/js/lib/jquery/plugins/jquery.pkp.js" type="text/javascript"></script>
+<script type="text/javascript">
+		<!--
+		$(function(){
+			fontSize("#sizer", "body", 9, 16, 32, ""); // Initialize the font sizer
+		});
+		// -->
+	</script>
+<script type="text/javascript">
+		<!--
+		// initialise plugins
+		
+		$(function(){
+			
+			$(".tagit").live('click', function() {
+				$(this).find('input').focus();
+			});
+		});
+		// -->
+		
+	</script>
+<script src="http://ojs.kmutnb.ac.th/js/relatedItems.js" type="text/javascript"></script>
+<script src="http://ojs.kmutnb.ac.th/js/inlinePdf.js" type="text/javascript"></script>
+<script src="http://ojs.kmutnb.ac.th/js/pdfobject.js" type="text/javascript"></script>
+<!-- Modern Template Plugin -->
+<link href="http://ojs.kmutnb.ac.th/plugins/themes/modern/css/bootstrap.min.css" rel="stylesheet" type="text/css"/>
+<link href="http://ojs.kmutnb.ac.th/plugins/themes/modern/css/style.css" rel="stylesheet" type="text/css"/>
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js" type="text/javascript"></script>
+<script type="text/javascript">
+    //Load the new jQuery locally if it could not be loaded from the CDN
+    if (typeof jQuery == 'undefined' || jQuery.fn.jquery != '1.9.1')
+    {
+        document.write(unescape("%3Cscript src='http://ojs.kmutnb.ac.th/plugins/themes/modern/js/jquery-1.9.1.min.js' type='text/javascript'%3E%3C/script%3E"));
+    }
+    </script>
+<script type="text/javascript">
+    //Ensure the new jQuery doesn't conflict. 
+    var jQueryNew = window.jQuery.noConflict(true);
+	function shows_data(){
+		$("#setvalue").show();
+		$("#shows").hide();
+		$("#hides").show();
+	}
+	function hides_data(){
+		$("#setvalue").hide();
+		$("#hides").hide();
+		$("#shows").show();
+	}
+	
+    </script>
+<script src="http://ojs.kmutnb.ac.th/plugins/themes/modern/js/bootstrap.min.js" type="text/javascript"></script>
+</head>
+<body>
+<div class="container" id="container">
+<h1>
+<img alt="Page Header" height="225" src="http://ojs.kmutnb.ac.th/public/journals/7/pageHeaderTitleImage_en_US.png" width="1170"/>
+</h1>
+<div class="navbar">
+<div class="navbar-inner">
+<div class="container">
+<ul class="nav">
+<li id="home"><a href="http://ojs.kmutnb.ac.th/index.php/kjournal/index">Home</a></li>
+<li id="about"><a href="http://ojs.kmutnb.ac.th/index.php/kjournal/about">About</a></li>
+<li id="login"><a href="http://ojs.kmutnb.ac.th/index.php/kjournal/login">Login</a></li>
+<li id="register"><a href="http://ojs.kmutnb.ac.th/index.php/kjournal/user/register">Register</a></li>
+<!--<li id="search"><a href="http://ojs.kmutnb.ac.th/index.php/kjournal/search">Search</a></li>-->
+<li id="search"><a href="http://ojs.kmutnb.ac.th/index.php/index/search">Search</a></li>
+<li id="current"><a href="http://ojs.kmutnb.ac.th/index.php/kjournal/issue/current">Current</a></li>
+<li id="archives"><a href="http://ojs.kmutnb.ac.th/index.php/kjournal/issue/archive">Archives</a></li>
+<li id="announcements"><a href="http://ojs.kmutnb.ac.th/index.php/kjournal/announcement">Announcements</a></li>
+<li id="navItem"><a href="http://ojs.kmutnb.ac.th/index.php/kjournal/issue/view/43">Online First</a></li>
+<li id="navItem"><a href="https://drive.google.com/drive/folders/1A4kycQi0xhL48hqh4DxNKuAXBjcc4I5I?ogsrc=32">Download Templates</a></li>
+</ul><!-- /nav -->
+</div>
+</div>
+</div>
+<div class="row-fluid" id="body">
+<div class="span3 well well-small" id="leftSidebar">
+<link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css" rel="stylesheet"/>
+<a href="#" id="shows" onclick="shows_data();"><i class="fa fa-eye fa-fw"></i> Show about the authors</a>
+<a href="#" id="hides" onclick="hides_data();" style="display:none;"><i class="fa fa-eye-slash fa-fw"></i> Hide about the authors</a>
+<!-- -----------------------------------------------------
+			  <ul class="nav nav-list">          
+				<li class="block" id="sidebarRTAuthorBios"></li>
+						<li class="nav-header">
+								View
+						</li>
+					  <li id="authorBio">
+						<p>
+																						
+						</p>
+						<p></p>
+				</li>
+			</ul>
+			 ----------------------------------------------------- -->
+<ul class="nav nav-list" id="setvalue" style="display:none;">
+<li class="block" id="sidebarRTAuthorBios">
+<li class="nav-header">
+					About The Authors
+			</li>
+<li id="authorBio">
+<p>
+<em>Suchart Siengchin</em><br/>
+						&lt;p&gt;Department of Mechanical and Process Engineering, Sirindhorn International Thai-German Graduate School of Engineering, King&lt;br /&gt;Mongkut’s University of Technology North Bangkok, Bangkok, Thailand&lt;/p&gt;		<br/>Thailand	</p>
+<p></p>
+</li><li class="divider"></li><li class="separator"></li><li class="divider"></li><li id="authorBio">
+<p>
+<em>Teerawat Boonyasopon</em><br/>
+						&lt;p&gt;Department of Information and Production Technology, College of Industrial Technology, King Mongkut’s University of Technology&lt;br /&gt;North Bangkok, Bangkok, Thailand&lt;/p&gt;		<br/>Thailand	</p>
+<p></p>
+</li><li class="divider"></li><li class="separator"></li><li class="divider"></li><li id="authorBio">
+<p>
+<em>Chanchai Tongprasit</em><br/>
+						&lt;p&gt;Department of Design Management and Business Development, Faculty of Architecture and Design, King Mongkut’s University of&lt;br /&gt;Technology North Bangkok, Bangkok, Thailand&lt;/p&gt;		<br/>Thailand	</p>
+<p></p>
+</li><li class="divider"></li><li class="separator"></li><li class="divider"></li><li id="authorBio">
+<p>
+<em>Pawinee Boonyasopon</em><br/>
+						&lt;p&gt;Department of Design Management and Business Development, Faculty of Architecture and Design, King Mongkut’s University of&lt;br /&gt;Technology North Bangkok, Bangkok, Thailand&lt;/p&gt;		<br/>Thailand	</p>
+<p></p>
+</li><li class="divider"></li><li class="separator"></li><li class="divider"></li><li id="authorBio">
+<p>
+<em>Kanyagkorn Piboon</em><br/>
+						&lt;p&gt;Department of Design Management and Business Development, Faculty of Architecture and Design, King Mongkut’s University of&lt;br /&gt;Technology North Bangkok, Bangkok, Thailand&lt;/p&gt;		<br/>Thailand	</p>
+<p></p>
+</li><li class="divider"></li><li class="separator"></li><li class="divider"></li><li id="authorBio">
+<p>
+<em>Tweesak Roopsing</em><br/>
+						&lt;p&gt;Department of Industrial Business Administration, Faculty of Business Administration, King Mongkut’s University of Technology North&lt;br /&gt;Bangkok, Bangkok, Thailand&lt;/p&gt;		<br/>Thailand	</p>
+<p></p>
+</li><li class="divider"></li><li class="separator"></li><li class="divider"></li><li id="authorBio">
+<p>
+<em>Somnoek Wisuttipaet</em><br/>
+						Institute of Technological Development for Industry, King Mongkut’s University of Technology North Bangkok, Bangkok, Thailand		<br/>Thailand	</p>
+<p></p>
+</li>
+</li>
+</ul>
+</div>
+<div class="span6" id="main">
+<!--<div class="breadcrumb">
+	<a href="http://ojs.kmutnb.ac.th/index.php/kjournal/index">Home</a> &gt;
+			<a href="http://ojs.kmutnb.ac.th/index.php/kjournal/article/view/1423" class="current">Open Journal Systems</a></div>-->
+<div class="breadcrumb">
+<a href="http://ojs.kmutnb.ac.th/index.php/kjournal/index" target="_parent">Home</a> &gt;
+		<a href="http://ojs.kmutnb.ac.th/index.php/kjournal/issue/view/90" target="_parent">Vol 27, No 4 (2017)</a> &gt;		<a class="current" href="http://ojs.kmutnb.ac.th/index.php/kjournal/article/view/1423/0" target="_parent">Siengchin</a>
+</div>
+<!--<h2>Open Journal Systems</h2>-->
+<div id="topBar">
+</div>
+<div id="articleTitle"><h3>การศึกษาความเป็นไปได้ของการใช้รถประจำทางไฟฟ้าสำหรับการขนส่งมวลชนระยะไกล<br/>Feasibility of Electric Bus Implementation for Long-distance Public Transportation<br/></h3></div>
+<div id="authorString"><em>Suchart Siengchin, Teerawat Boonyasopon, Chanchai Tongprasit, Pawinee Boonyasopon, Kanyagkorn Piboon, Tweesak Roopsing, Somnoek Wisuttipaet</em></div>
+<br/>
+<div id="articleAbstract">
+<h4>Abstract</h4>
+<br/>
+<div><p>งานวิจัยนี้มีวัตถุประสงค์เพื่อศึกษาความเป็นไปได้ของการใช้รถประจำทางไฟฟ้าสำหรับการขนส่งมวลชนในระยะไกล โดยการศึกษาข้อมูล การสำรวจและรวบรวมความคิดเห็นจากผู้ที่เกี่ยวข้องในการส่งเสริมการใช้รถประจำทางไฟฟ้ามาใช้เพื่อการขนส่งสาธารณะระหว่างจังหวัด นำมาวิเคราะห์ความคุ้มค่าทางเศรษฐศาสตร์ของการลงทุนใช้รถประจำทางไฟฟ้า โดยเลือกเส้นทางระหว่างจังหวัดจำนวน 3 เส้นทางคือ กรุงเทพฯ–พัทยา กรุงเทพฯ–หัวหิน และกรงุ เทพฯ–จังหวัดนครราชสีมาผลการศึกษาสรปุ 5 ด้านด้งนี้ 1) ด้านนโยบายส่งเสริมยานยนต์ไฟฟ้าภาครัฐมีนโยบายส่งเสริมให้ประเทศไทยเป็นศูนย์กลางยานยนต์ไฟฟ้าในอาเซี่ยน ส่งเสริมให้มีการใช้และการผลิตที่เน้นผู้ประกอบการไทยมีการวิจัยพัฒนาตลอดจนสนับสนุนให้มีการลงทุน 2) ด้านการใช้งานรถโดยสารและการให้บริการ ซึ่งก็ยังมีข้อจำกัดในเรื่องระยะทางไกลแต่การเก็บประจุของแบตเตอรี่ยังมีอายุน้อยในการชาร์ทแต่ละครั้ง 3)ด้านการใช้สถานีชาร์ทมีการอัดประจุทั้งแบบธรรมดาและการอัดประจุแบบเร็ว และการสลับแบตเตอรี่ 4)ด้านการยอมรับของผู้ประกอบการผู้ประกอบการมีความสนใจในการปรับเปลี่ยนมาผลิตรถประจำทางไฟฟ้าแต่ก็ยังกังวลในเรื่องความคุ้มค่า สมรรถนะรถการซ่อมบำรุงและการหยุดชาร์ทไฟระหว่างทาง และ 5) ด้านความคุ้มค่าทางเศรษฐศาสตร์และการเงิน สามารถลดการนำเข้าน้ำมันที่ใช้ในการขนส่งมวลชนและสามารถลดต้นทุนด้านมลพิษได้ ส่วนทางด้านการเงินการลงทุนนั้น ที่ราคาน้ำมัน 23.50 บาท ค่าไฟฟ้า 5 บาท/kWh จะยังไม่มีความคุ้มค่าเมื่อเทียบกับรถที่ใช้น้ำมันหรือก๊าซ NGV สำหรับข้อเสนอแนวทางและมาตรการสนับสนุนเชิงนโยบายได้กำหนดเป็น 3 ระยะคือ ระยะที่ 1 (พ.ศ. 2560–2561) เป็นการเตรียมโครงสร้างพื้นฐานและความพร้อมเพื่อรองรับการใช้งานรถบัสไฟฟ้าระหว่างจังหวัดระยะที่ 2 (พ.ศ. 2562–2564) ช่วงการพัฒนาและดำเนินการด้านการพัฒนาเทคโนโลยี ด้านการสนับสนุนทางการเงินด้านนโยบายและกฎหมายและด้านสังคมและบุคคลากร ระยะที่ 3 (พ.ศ. 2565–2579) ช่วงขยายผลการใช้รถไฟฟ้าระยะไกลให้แพร่หลาย</p><p>This study purposes to delve into electric bus feasibility for long-distance transport services. The investigation was conducted through collecting specific information, surveying and gathering opinions from those involved in promoting the wider use of electric vehicles for provincial public transportation. The economic optimum analysis in the investment was explored through comparisons of three inter-provincial transit routes: Bangkok–Pattaya, Bangkok–Hua Hin and Bangkok–Nakhon Ratchasima. The study results are as follows: First, the government has a measure relevant to promoting Thailand as an Asian hub for electric automobile manufacturing, putting efforts to foster domestic use as well as vehicle production by Thai entrepreneurs. This measure supports investment, research and experimental development carried out under the project. Second, regarding the implementation and putting transit electric buses into service operations, restrictions can typically be found in distance limitations coupled with a low limit of battery storage and charging capacity. Third, current charging systems encompass in-depot, fast charging and battery replacement solutions. Fourth, operators seem to be interested in the future deployment of electric buses; nevertheless, ongoing concerns fall in the issues of cost-effectiveness, bus capacity, maintenance and the amount of recharging time at each stop. Finally, preferences of electric buses in public transport can reduce reliance on imported petroleum and help eliminate pollutant emissions in combustion processes. Still, it is not deemed the most economically efficient means when compared to their gasoline- and diesel-powered counterparts, given the oil price set at 23.50 baht and electricity price around 5 baht per kWh. Policy support measures can be determined into 3 major phases. Phase 1 (B.E. 2560–2561) features the readiness of the infrastructure needed for electric vehicles in service as to support efficient interprovincial transportation. Phase 2 (B.E. 2562–2564) outlines activities and development of technology, legislation, funding opportunities along with personnel competencies. The final phase (B.E. 2565–2579) stresses on the widespread electric vehicle adoption for further facilitating long-distance travel.</p></div>
+<br/>
+</div>
+<div id="articleSubject">
+<h4>Keywords</h4>
+<br/>
+<div>
+<!-- modify -->
+<input id="input_value" type="hidden" value="&lt;p&gt;ความเป็นไปได้ของการใช้รถประจำทางไฟฟ้า, การขนส่งมวลชนระยะไกล&lt;br /&gt;Feasibility of Electric Bus Implementation, Long Distance Public Transportation&lt;/p&gt;"/>
+<div id="show_data"></div>
+<script>
+					var datas=$("#input_value").val();
+					$("#show_data").html(datas);
+				</script>
+</div>
+<br/>
+</div>
+	
+	
+		
+	
+	
+				
+			Full Text:
+									<a class="file" href="http://ojs.kmutnb.ac.th/index.php/kjournal/article/view/1423/1156" target="_parent">PDF</a>
+<br/>
+<br/>
+		DOI: <a href="http://dx.doi.org/10.14416/j.kmutnb.2017.11.009" id="pub-id::doi">10.14416/j.kmutnb.2017.11.009</a>
+<br/><br/>
+	ISSN: 2465-4698
+
+
+</div><!--main-->
+<div class="span3 well well-small" id="rightSidebar">
+<ul class="nav nav-list">
+<li class="block custom">
+<p><a href="https://www.facebook.com/%E0%B8%A7%E0%B8%B2%E0%B8%A3%E0%B8%AA%E0%B8%B2%E0%B8%A3%E0%B8%A7%E0%B8%B4%E0%B8%8A%E0%B8%B2%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B8%88%E0%B8%AD%E0%B8%A1%E0%B9%80%E0%B8%81%E0%B8%A5%E0%B9%89%E0%B8%B2%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B8%99%E0%B8%84%E0%B8%A3%E0%B9%80%E0%B8%AB%E0%B8%99%E0%B8%B7%E0%B8%AD-394685787377779/" target="_blank"><img alt="" src="/public/site/images/admin/24aaffa670e634a7da9a087bfa83abe6_200x200.png"/></a></p>
+</li><li class="divider"></li><li class="block" id="sidebarHelp">
+<a class="blockTitle" href="javascript:openHelp('http://ojs.kmutnb.ac.th/index.php/kjournal/help')">Journal Help</a>
+</li><li class="divider"></li><li class="block" id="sidebarUser">
+<li class="nav-header">User</li>
+<li><form action="http://ojs.kmutnb.ac.th/index.php/kjournal/login/signIn" method="post">
+<table>
+<tr>
+<td><label for="sidebar-username">Username</label></td>
+<td><input class="textField" id="sidebar-username" maxlength="32" name="username" size="12" type="text" value=""/></td>
+</tr>
+<tr>
+<td><label for="sidebar-password">Password</label></td>
+<td><input class="textField" id="sidebar-password" maxlength="32" name="password" size="12" type="password" value=""/></td>
+</tr>
+<tr>
+<td colli="2"><input id="remember" name="remember" type="checkbox" value="1"/> <label for="remember">Remember me</label></td>
+</tr>
+<tr>
+<td colli="2"><input class="button" type="submit" value="Login"/></td>
+</tr>
+</table>
+</form></li>
+</li><li class="divider"></li><li class="block" id="sidebarNavigation">
+<li class="nav-header">Journal Content</li>
+<li class="nav-header sub-header">Search</li>
+<li><form action="http://ojs.kmutnb.ac.th/index.php/kjournal/search/search" id="simpleSearchForm" method="post">
+<table id="simpleSearchInput">
+<tr>
+<td>
+<input class="textField" id="simpleQuery" maxlength="255" name="simpleQuery" size="15" type="text" value=""/>
+</td>
+</tr>
+<tr>
+<td><select class="selectMenu" id="searchField" name="searchField" size="1">
+<option label="All" value="query">All</option>
+<option label="Authors" value="authors">Authors</option>
+<option label="Title" value="title">Title</option>
+<option label="Abstract" value="abstract">Abstract</option>
+<option label="Index terms" value="indexTerms">Index terms</option>
+<option label="Full Text" value="galleyFullText">Full Text</option>
+</select></td>
+</tr>
+<tr>
+<td><input class="button" type="submit" value="Search"/></td>
+</tr>
+</table>
+</form></li>
+<li class="nav-header sub-header">Browse</li>
+<ul class="nav nav-list">
+<li><a href="http://ojs.kmutnb.ac.th/index.php/kjournal/issue/archive">By Issue</a></li>
+<li><a href="http://ojs.kmutnb.ac.th/index.php/kjournal/search/authors">By Author</a></li>
+<li><a href="http://ojs.kmutnb.ac.th/index.php/kjournal/search/titles">By Title</a></li>
+<li><a href="http://ojs.kmutnb.ac.th/index.php/index">Other Journals</a></li>
+</ul>
+</li><li class="divider"></li><li class="block" id="sidebarInformation">
+<li class="nav-header">Information</li>
+<ul class="nav nav-list">
+<li><a href="http://ojs.kmutnb.ac.th/index.php/kjournal/information/readers">For Readers</a></li> <li><a href="http://ojs.kmutnb.ac.th/index.php/kjournal/information/authors">For Authors</a></li> <li><a href="http://ojs.kmutnb.ac.th/index.php/kjournal/information/librarians">For Librarians</a></li> </ul>
+</li>
+</ul>
+</div>
+</div> <!-- /body -->
+</div> <!-- /content -->
+<script>
+            var _gaq=[['_setAccount','UA-XXXXX-X'],['_trackPageview']];
+            (function(d,t){var g=d.createElement(t),s=d.getElementsByTagName(t)[0];
+            g.src=('https:'==location.protocol?'//ssl':'//www')+'.google-analytics.com/ga.js';
+            s.parentNode.insertBefore(g,s)}(document,'script'));
+        </script>
+</body>
+</html>

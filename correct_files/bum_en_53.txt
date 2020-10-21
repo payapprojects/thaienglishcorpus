@@ -1,0 +1,8 @@
+Virtual Colonoscopy (CT Scan)
+Virtual Colonoscopy is the examination of the body and internal organs by high speed computer X-ray through the abdomen. 
+The software creates a 3D virtual image of the colon with minute details without the need for insertion of the colonoscope through the anus. 
+The accuracy of virtual colonoscopy highly depends on colon preparation. 
+Limited consumption of food and use of a laxative to clear up the colon are necessary for clear images for computer analysis. 
+Besides producing virtual images, the procedure can help the doctor screen for polyps within the colon. 
+Virtual colonoscopy and provide an instant and accurate diagnosis similar to that produced by traditional colonoscopy.
+ 

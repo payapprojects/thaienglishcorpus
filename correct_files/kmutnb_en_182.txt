@@ -1,0 +1,9 @@
+Risk Assessment of Thermal Hazard and Reactivity of Hydrogen Peroxide by Differential Scanning Calorimetry
+Hydrogen peroxide is a strong oxidizing agent containing a peroxide functional group that easily decomposes. 
+In this research, a commercial grade of 50% w/w hydrogen peroxide was evaluated for thermal hazard and reactivity by differential scanning calorimetry. 
+It was found that the calculated activation energy using the Flynn/Wall/Ozawa equation was 72.0 kJ/mol. 
+The risk assessment of thermal hazard evaluated in terms of the averages of adiabatic decomposition temperature rise and time-tomaximum rate, were 363.4 K and 36.0 seconds, respectively. 
+The risk assessment of reactivity, evaluated from instantaneous power density was 40.7 kW/cm3. 
+The instability and the harzadous chemical reaction rating have shown at the level of 4. 
+It can be concluded that the 50% w/w of hydrogen peroxide by itself with possibility of detonation, explosive decomposition or chemical reaction explosion at normal temperature and pressure. 
+Therefore, the storage, transportation and usage must be done with extra caution and by qualified person who has been trained or by the chemist who is knowledgeable in chemical.

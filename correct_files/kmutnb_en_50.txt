@@ -1,0 +1,10 @@
+Software Engineering Prospective on Digital Game-Based Learning for Thailand Education 4.0
+Nowadays, there is technology awareness and adaptation in social, economic and education because of disruptive technology. 
+Game is the result in digital edge in which people in any genders, ages, and education levels are able to access. 
+Game is widely attracted by all people. 
+On the other hand, there is anxiety over game that it may lead to aggressive behaviour of the individual and may affect the society. 
+This article investigated some research relating to game-based learning in Thailand. 
+The software engineering perspective required for the development of learning game with quality is presented. 
+Game is realised as a tool for teaching and learning both inside and outside a classroom. 
+Game development is relied on both software engineering principles and learning outcome of the subject. 
+The author aims to make the better understanding and to create the optimistic attitudes in the evolution of education in order to adapt to and use technology in an appropriate way.

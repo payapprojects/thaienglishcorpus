@@ -1,0 +1,6 @@
+The Vehicle Routing Problem with Time Windows (VRPTW) is a kind of important variant of VRP with adding time windows constraints to the model. 
+The VRPTW is classified as an NP-hard problem. 
+Hence, the use of exact optimization techniques may be hard to solve these problems in acceptable CPU times, when the problem involves real-world data sets that are very large. 
+To solve this problem, this paper suggests a hybrid genetic algorithm (hybrid GA) combined with Push Forward Insertion Heuristic (PFIH) to make an initial solution instead of traditional GA and three local searches to neighborhood search and improving method. 
+The proposed algorithm was tested on fourteen instances from an online data set in the Solomon`s 56 benchmark problems-selected randomly. 
+The results indicate the good quality of the proposed algorithm.

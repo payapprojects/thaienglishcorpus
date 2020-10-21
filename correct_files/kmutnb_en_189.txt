@@ -1,0 +1,7 @@
+Synthesis of Waveguide Band-Pass Filter using K-inverter Technique for Microwave Engineering Education
+This research presents a synthesis of waveguide band-pass filter using the K-inverter technique for microwave engineering education. 
+The simulator based on the K-inverter technique was developed using the GUI function of MATLAB®. 
+The band pass filter was synthesized using the Chebyshev approximation theory and the K-inverter technique to design the structure of inductive iris filter in waveguide. 
+The designed BPF filter was implemented in operating frequency range of 8.35–8.65 GHz and tested in comparison to a commercial simulator. 
+The simulated results of designed waveguide BPF filter using developed simulator are consistent to commercial simulator and filter theory. 
+The designed waveguide band-pass filter using the K-inverter technique can be implemented and used effectively as a prototype filter in engineering education.

@@ -1,0 +1,11 @@
+Virtualization technology consolidates a number of servers to work together in a single hardware platform. 
+Since memory is a shared resource in the virtual environment, it is necessary to allocate memory to all virtual servers. 
+Initially, static memory allocation was the only way to allocate memory to virtual servers. 
+At present, it is possible to have dynamic memory allocation, which has been introduced by Microsoft Hyper-V. 
+However, this allocation requires some resources to be performed that cause overhead costs regarding energy consumption. 
+Therefore, this research was performed in order to find differences in the power consumption in the virtual server environment when using static and dynamic memory allocation. 
+The experiment was set up to measure power consumption on I/O and memory-intensive applications in the same virtual server environment; 
+one experiment used static memory allocation and the other used dynamic memory allocation. 
+We found that the power consumption of the dynamic memory allocation was 5–10% more than that of the static memory allocation, and this number can be reduced to 0.16–1.02% by setting the memory buffer value to 20%. 
+In application requirements focusing on energy savings, it is recommended that the static memory allocation should be applied to both I/O and memory-intensive applications . 
+If the dynamic memory allocation is a must in virtual machines, we recommend setting up the memory buffer value to 20% for the best results in terms of energy consumption with virtual servers.

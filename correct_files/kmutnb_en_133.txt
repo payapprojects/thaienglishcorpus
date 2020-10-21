@@ -1,0 +1,13 @@
+Analysis of Impact of Climate Change on Forest Fire Potential in Chiang Mai by Using of Regression Model
+This study aims to analyze the impact of climate change on future forest fire potential in Chiang Mai Province, analyzed by regression analysis with the linear and non-linear approach. 
+Following the approach used to observe weather data and burn scar area from both MODIS sensor and forest fire hotspot. 
+In a part of burn area trend analysis in the future used absolute humidity data from WRF-ECHAM5 model, which used into following regression model. 
+The result of the comparative analysis, nonlinear regression models are more flexible and appropriate than linear regression analysis. 
+Climatic factors that can be applied to the regression equation are relative humidity only. 
+While other climate variables could not be imported because the results were not statistically unacceptable. 
+When applied the acceptable nonlinear regression model with the relative humidity data from the WRF-ECHAM5 regional climate model, it was found that relative humidity decreased by 1.3%, and there is high yearly variation in relative humidity, which leads to the decrease in the forest fires potential in the future when the modeled relative humidity is applied to the non-linear regression equation. 
+However, the analysis found that the variability of extreme climate in the future is more likely to occur every 5 years, and is likely to affect the variability and severity of the potential forest fires. 
+In addition, the potential for future forest fires is much faster than ever before. 
+As a result of the humidity in January and February tend to decrease while other months tend to increase humidity.
+
+

@@ -1,0 +1,8 @@
+Study for Adsorption of Gas Mixture in Activated Carbon by Grand Canonical Monte Carlo Simulation
+Adsorption isotherm and adsorption selectivity of carbon dioxide-methane mixture in slit-shaped pore model are investigated in this study. 
+The simulation has been carried out by Grand Canonical Monte Carlo Simulation (GCMC) method. 
+The adsorption isotherm of gas mixture in different pore widths is studied at various temperatures from 293.15 to 318.15 K. 
+We also vary the mole fraction of gas mixture. 
+It is found that the adsorption and selectivity increase with total pressure, while they decrease when the temperature increases. 
+The adsorption also decreases when the pore width increases. 
+When the mole fraction of carbon dioxide in gas mixture increases, the adsorption increases while the selectivity decreases significantly.

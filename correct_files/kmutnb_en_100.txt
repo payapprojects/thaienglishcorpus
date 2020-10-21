@@ -1,0 +1,10 @@
+Thailand 4.0 Policy Perception among Residents in Chiang Mai and Lampang Provinces
+The purpose of this study is to investigate people’s understanding of the government’s Thailand 4.0 policy vision among people living within Chiang Mai and Lampang provinces. 
+Questionnaires were administered for data gathering from the subjects (n=544). 
+The frequency distribution, percentages, Chi square test and the Multivariate General Linear Model were applied in statistical analysis. 
+As results, 65.9 percent of respondents had a moderate level of knowledge related to the concept while 34.1 percent reported their least understanding. 
+The majority (66.4) percent demonstrated a moderate level of overall knowledge on living in the revolutionary time of Industry 4.0, the counterpart (33.6 percent) showed the least awareness about the domain. 
+Furthermore, 65.3 percent exposed a moderate level of comprehension on “Thailand 4.0 education” whereas the remaining 34.7 percent indicated their lowest level of understanding. 
+The Chi-Square test was conduct to determine existing relationships between sex, age, education, occupation and the dependent variable, i.e. understanding of Thailand 4.0. 
+Correspondingly, significant relationships were found between them. 
+The multivariate general linear model revealed the inverse linear associations between independent variables (sex , age, career) and different aspects of understanding on Thailand 4.0.

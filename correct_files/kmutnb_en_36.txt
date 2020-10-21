@@ -1,0 +1,11 @@
+Study on Thermal Properties of Plastering Mortar Mixed with Paraffin and Polyethylene Glycol Type Phase Change Material
+This manuscript presents the research results from a study of the temperature and heat retention of plaster mortar mixed with two types of phase change materials: Paraffin 6035 (58°C melting point) and Polyethylene Glycol 1450 (melting point between 42–46°C). 
+The plaster mortar used in the experiment consisted of Ordinary Mortar (OM), paraffin wax mortar (PPM), and polyethylene glycol (PEGM) mortar mixed in different proportions. 
+The specimen preparation began with the plastering surface of the concrete block, installing temperature gauges (thermocouple) at various positions of the sample, and wrapping the sample with plastic sheeting until the testing date. 
+For the laboratory testing, the test specimen was put in a temperature chamber with a spotlight as a heat source until the specimen surface temperature reached 60°C and then stopped. 
+The change in temperature was recorded every 5 seconds during the experiment. 
+The test results were analyzed in order to determine the optimal mixing ratio for further field testing. 
+In the field test, the mortars with mixed proportions selected from the laboratory test were plastered on the surfaces of the concrete block walls with a thickness of 1.5 cm. Real-time temperature changes in the environment were measured for 5 days at the same time for all samples. 
+It was found that the plaster walls with the phase change material showed better heat retention and delayed the time to reach the peak temperature, which also led to a lowering of the internal temperatures.
+
+

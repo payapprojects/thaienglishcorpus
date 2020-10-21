@@ -1,0 +1,94 @@
+How to erase a disk for Mac
+Use Disk Utility to erase (format) a hard disk, SSD, flash drive, or other storage device.
+Erasing your disk: For most reasons to erase, including when reformatting a disk or selling, giving away, or trading in your Mac, you should erase your entire disk.
+Erasing a volume on your disk: In other cases, such as when your disk contains multiple volumes (or partitions) and you don't want to erase them all, you can erase specific volumes on the disk.
+Erasing a disk or volume permanently deletes all of its files. 
+Before continuing, make sure that you have a backup of any files that you want to keep.
+How to erase your disk
+Start up from macOS Recovery. 
+Then select Disk Utility from the Utilities window and click Continue.
+If you're not erasing the disk your Mac started up from, you don't need to start up from macOS Recovery: just open Disk Utility from the Utilities folder of your Applications folder. 
+The macOS Utilities window in Recovery
+Choose View > Show All Devices from the menu bar in Disk Utility. 
+The sidebar now shows your disks (devices) and any containers and volumes within them. 
+The disk your Mac started up from is at the top of the list. 
+In this example, Apple SSD is the startup disk:
+Erasing a disk and choosing a scheme in Disk Utility
+Select the disk that you want to erase. 
+-Don't see your disk? 
+Click Erase, then complete these items:
+Name: Type the name that you want the disk to have after you erase it.
+Format: Choose APFS or Mac OS Extended (Journaled). 
+Disk Utility shows a compatible format by default.
+Scheme: Choose GUID Partition Map.
+Click Erase to begin erasing your disk and every container and volume within it. 
+You might be asked to enter your Apple ID. 
+Forgot your Apple ID? 
+When done, quit Disk Utility.
+If you want your Mac to be able to start up from the disk you erased, reinstall macOS on the disk.
+How to erase a volume on your disk
+Start up from macOS Recovery. 
+Then select Disk Utility from the Utilities window and click Continue.
+If you're not erasing the volume your Mac started up from, you don't need to start up from macOS Recovery: just open Disk Utility from the Utilities folder of your Applications folder.  
+The macOS Utilities window in Recovery
+In the sidebar of Disk Utility, select the volume that you want to erase. 
+The volume your Mac started up from is named Macintosh HD, unless you changed its name. 
+Don't see your volume?
+Click Erase, then complete these items:
+Name: Type the name that you want the volume to have after you erase it.
+Format: Choose APFS or Mac OS Extended (Journaled). 
+Disk Utility shows a compatible format by default.
+If you see an Erase Volume Group button, the volume you selected is part of a volume group. 
+In that case, you should erase the volume group. 
+Otherwise, click Erase to erase just the selected volume. 
+You might be asked to enter your Apple ID. 
+Forgot your Apple ID?
+When done, quit Disk Utility.
+If you want your Mac to be able to start up from the volume you erased, reinstall macOS on that volume.
+Reasons to erase
+You can erase at any time, including in circumstances such as these:
+You want to permanently erase all content from your Mac and restore it to factory settings. 
+This is one of the final steps before selling, giving away, or trading in your Mac.
+You're changing the format of a disk, such as from a PC format (FAT, ExFAT, or NTFS) to a Mac format (APFS or Mac OS Extended).
+You received a message that your disk isn't readable by this computer.
+You're trying to resolve a disk issue that Disk Utility can't repair.
+The macOS installer doesn't see your disk or can't install on it. 
+For example, the installer might say that your disk isn't formatted correctly, isn't using a GUID partition scheme, contains a newer version of the operating system, or can't be used to start up your computer.
+The macOS installer says that you may not install to this volume because it is part of an Apple RAID.
+About APFS and Mac OS Extended
+Disk Utility in macOS High Sierra or later can erase using either the newer APFS (Apple File System) format or the older Mac OS Extended format, and it automatically chooses a compatible format for you.
+How to choose between APFS and Mac OS Extended
+Disk Utility tries to detect the type of storage and show the appropriate format in the Format menu. 
+If it can't, it chooses Mac OS Extended, which works with all versions of macOS. 
+If you want to change the format, answer these questions:
+Are you formatting the disk that came built into your Mac?
+If the built-in disk came APFS-formatted, Disk Utility suggests APFS. 
+Don't change it to Mac OS Extended.
+Are you about to install macOS High Sierra or later for the first time on the disk?
+If you need to erase your disk before installing High Sierra or later for the first time on that disk, choose Mac OS Extended (Journaled). 
+During installation, the macOS installer decides whether to automatically convert to APFS—without erasing your files.
+Are you preparing a Time Machine backup disk or bootable installer?
+Choose Mac OS Extended (Journaled) for any disk that you plan to use as a Time Machine backup disk or as a bootable installer.
+Will you be using the disk with another Mac?
+If the other Mac isn't using macOS High Sierra or later, choose Mac OS Extended (Journaled). 
+Earlier versions of macOS don't work with APFS-formatted volumes.
+How to identify the format currently in use
+If you want to know which format is currently in use, use any of these methods:
+Select the volume in the Disk Utility sidebar, then check the information shown on the right. 
+For more detail, choose File > Get Info from the Disk Utility menu bar.
+Open System Information and select Storage in the sidebar. 
+The File System column on the right shows the format of each volume.
+Select the volume in the Finder, then choose File > Get Info from the menu bar. 
+The Get Info window shows the Format of that volume.
+If your disk or volume doesn't appear, or the erase fails
+Shut down your Mac, then unplug all nonessential devices from your Mac.
+If you're erasing an external drive, make sure that it's connected directly to your Mac using a cable that you know is good. 
+Then turn the drive off and back on.
+If your disk or volume still doesn't appear in Disk Utility, or Disk Utility reports that the erase process failed, your disk or Mac might need service. 
+If you need help, please contact Apple Support.
+Learn more
+If you can't start up from macOS Recovery, you can use a different startup disk instead.
+If Disk Utility shows a Security Options button in the Erase window, you can click that button to choose between a faster (but less secure) erase and a slower (but more secure) erase. 
+Some older versions of Disk Utility offer the option to zero all data instead. 
+These secure-erase options aren't offered or needed for solid-state drives (SSDs) and flash storage.
+How to erase your iPhone, iPad, or iPod touch

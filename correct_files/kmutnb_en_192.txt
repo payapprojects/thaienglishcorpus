@@ -1,0 +1,6 @@
+Stratum Boundaries Construction Using K-means Clustering Algorithm in Stratified Random Sampling
+This research presented the stratum boundaries construction techniques by K-means clustering algorithm for estimating the population mean in stratified random sampling. 
+Samples are selected by simple random sampling method without replacement and allocated in accordance with the population size in each stratum. 
+In this study, the population was separated into 4, 5 and 6 strata with the maximum correlation coefficients between the auxiliary variable and the variable of interest equal to 0.50, 0.70 and 0.90 and sample sizes of 50, 100, 150, 200 and 300. 
+The efficiency of the estimator by the proposed strata construction relative to the estimate by Dalenius & Hodges strata construction method is used in the estimator evaluation. 
+The estimator when constructing the strata by K-means clustering algorithm was more efficient in all simulation cases.

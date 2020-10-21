@@ -1,0 +1,10 @@
+Peak Flow Prediction Using an Antecedent Precipitation Index Method in Loei River Basin
+This study aimed to establish the relationship between an Antecedent Precipitation Index (API) and runoff discharge in Loei River Basin in order to forecast the maximum peak flow in the area. 
+The study area covers an upstream watershed area of Amphoe Muang Loei, Loei Province with the total drainage area of 1,276 km2. 
+The data used for the analysis consists of hourly rainfall data from 8 rain gauge stations and hourly discharge data from 4 runoff measuring stations collected from 2009 to 2012. 
+The rainfall data and runoff data of 2009 is used to find a relationship equation between API and discharge. 
+The relationship equations show that the predicted peak discharge is accurate with the measured data with an error of 0.2–15%. 
+Flood hydrographs of the runoff measuring stations are computed using the relationship equations. 
+The computed flood hydrographs were reliable prediction. 
+However, the computed peak flow period occurs earlier than the existing data. 
+The proposed equation, and , can be used to predict peak flow during flood period of Wang Saphung District and Muang District, Loie Province, respectively.

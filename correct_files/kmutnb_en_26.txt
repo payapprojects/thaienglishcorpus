@@ -1,0 +1,2 @@
+In this article, we propose ideas of pattern formation in nature and in laboratories, examples of quasipattern formation, relation between Fibonacci sequence and golden number, arrangement of sunflower seeds, and efficiency of arrangement of sunflower seeds. 
+Under some conditions, such arrangement presents the dense packing of seeds and the least free space.

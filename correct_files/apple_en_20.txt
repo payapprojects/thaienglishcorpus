@@ -1,0 +1,110 @@
+Get help with video issues on external displays connected to your Mac
+Try these steps if the image on an external display connected to your Mac is blank or doesn't look the way you expect.
+Before you begin
+You can resolve many display issues by updating the software on your Apple devices, cables, and adapters. 
+If you can see an image on your screen, check for software updates using the Mac App Store:
+Connect your external display and any Apple video cables or adapters that you use with it.
+From the Apple menu, choose App Store.
+Click the Updates button in the App Store window.
+Install any macOS or firmware updates that are listed.
+If you're using a display, hub, extender, or adapter not made by Apple, check with the manufacturer for any updates that might be available.
+If you're trying to connect a 4K display or Ultra HD TV with your Mac, make sure your computer meets the requirements for using these external displays.
+If your software and firmware are up to date, or if you can't see the image on your screen, try the steps below for your specific issue.
+Blank or unusable
+display
+Fuzzy or blurry
+images
+Contrast or color
+issues
+Thunderbolt 3
+(USB-C)
+If the display image is blank or unusable
+Try these steps if you don't see an image on your display. 
+These steps can also help if the image on your screen repeatedly turns on and off (flickers), if horizontal lines appear (snow), or if the image is distorted (torn or scrambled). 
+These steps likely won't help if the issue is only happening in one app. 
+If you see similar issues in only one window or app, check with the app's developer for updates or more help.
+Check connections
+Check the connections to your Mac and external displays:
+If you're using an Apple notebook, try connecting its power adapter.
+Make sure the external display's power cable is securely connected and that your display is turned on.
+If you're using a Mac Pro (Late 2013) make sure your displays are connected to the right ports.
+If you're using a display hub, switchbox, or "KVM," try connecting your display's video cable directly to your Mac instead.
+Disconnect the video cable where it plugs into your Mac, then plug it back in to reseat the connection.
+If you're using a video adapter, unplug the video adapter from your Mac, then plug it back in to reseat the connection.
+If you're using more than one video adapter to connect your display (the adapters are "chained" together), try connecting the display using only one adapter if possible. 
+Some video adapters can't be connected together. 
+For example, a mini DisplayPort to DVI adapter can't be connected to a DVI to HDMI adapter.
+If your display has more than one video connection, see if using another connection on the display works. 
+If possible, check to see if using a different display or a different adapter works.
+Try using a different cable that you know is in working order. 
+Check with the display's manufacturer to make sure you're using the cable they recommend.
+Restart the Mac with the display connected.
+Detect your display
+If you're using an external display, sleep and wake your Mac to make it check for connected displays:
+Press the power button on your computer to put it to sleep, or choose Apple menu > Sleep.
+Wait a few moments, then press a key on your keyboard or click your mouse or trackpad to wake your Mac.
+If you're using more than one display, and you can see the image on one of the displays, you can also use Displays preferences to check for connected displays.
+Adjust video settings
+If there's no image on your display, try adjusting your display's brightness or contrast. 
+If there's still no image, or the image appears torn or scrambled, try selecting a different video resolution in System Preferences.
+Adjust brightness
+If you're using an Apple Display, press the increase brightness key F2 key image  on your Apple keyboard. 
+To adjust the brightness of a secondary display, press Control-F2.
+If you're using a display that's not made by Apple, check the documentation that came with your display to see if it includes built-in controls for adjusting its brightness or contrast.
+Change your display resolution
+From the Apple menu, choose System Preferences.
+Click the Displays icon.
+Click Default for display. 
+If you see more than one resolution listed, choose a resolution and refresh rate. 
+If the display turns off when you change resolutions, press the escape key to undo the change. 
+displays preferences window
+If you can't change the resolution of your display because you can't see an image, restart your Mac in safe mode to reset the display resolution to defaults.
+If starting in safe mode doesn't resolve the issue, reset your Mac's NVRAM and SMC to reset the video ports on your Mac to their defaults.
+Check for third-party display software
+If your display works only when your Mac is started in safe mode, and you have display-related software installed, check with the software's developer for updates, or try temporarily uninstalling it.
+If an image appears fuzzy or blurry
+If images or text on your display appear pixelated or blurry, check these things.
+Check your display resolution
+Make sure your display resolution in System Preferences is set to its default. 
+If you're using a resolution that's scaled, the image might be magnified to fit the display. 
+This can cause the image to look blurry in some apps.
+From the Apple menu, choose System Preferences.
+Click the Displays icon.
+Select Default for display.
+displays preferences window
+If you use a monitor or an HDTV connected with an HDMI cable, you might see a difference in video quality if your display is set to television mode. 
+Check your display for a "monitor mode" setting to get the best video quality.
+Retina displays
+If an app you're using appears low resolution on your Retina display, check to see if an update to the app is available. 
+Most apps have been updated to use the higher pixel densities of Retina displays.
+Lower-resolution images on some web pages might also appear "softer" when viewed on a Retina display. 
+This is because Retina displays have a higher pixel density and not all websites use Retina-ready images.
+For example, the images below look different when viewed on a Retina display, but the same on a non-Retina display. 
+This happens because the Retina-ready image has a higher pixel density:
+Standard image	Retina-ready image
+Learn more about Retina displays
+If you see contrast or color issues
+If your entire display image seems too dark or too bright, you can adjust the brightness and contrast from the Displays pane of System Preferences, or by using your display's built-in controls.
+Adjust brightness and contrast
+To adjust the brightness of your Apple display, press the brightness key F2 key image or F2 key on your keyboard. 
+You can also use the brightness adjustment for each connected display in System Preferences > Displays.
+Displays not made by Apple sometimes have brightness and color adjustments built into the display. 
+Check the documentation for your display to see if it includes built-in controls.
+When you connect a display, projector, or HDTV using an HDMI cable, you might see a difference in video quality if your display is set to television mode. 
+Check your device for a "monitor mode" setting to achieve the best video quality.
+You can also calibrate each display from the Color tab of Displays preferences to get the best color and brightness from your display.
+If you see bright or dark pixels
+If individual pixels on your display seem too bright or too dark, see these articles for more help: 
+About LCD display pixel anomalies for Apple products released in 2010 and later
+About LCD display pixel anomalies for Apple products released before 2010
+Connecting displays with Thunderbolt 3 (USB-C)
+The Apple Thunderbolt 3 (USB-C) to Thunderbolt 2 Adapter connects Mac models with Thunderbolt 3 (USB-C) ports to older devices that use Thunderbolt (10Gbps) or Thunderbolt 2 (20Gbps). 
+For example, this is the adapter that you should use to connect your MacBook Pro to an Apple Thunderbolt Display or a third-party Thunderbolt 2 storage device.
+This adapter doesn't support connections to Mini DisplayPort displays, including the following Apple adapters and displays: 
+Apple Mini DisplayPort to Dual-Link DVI Adapter
+Apple Mini DisplayPort to DVI Adapter
+Apple Mini DisplayPort to VGA Adapter
+Apple LED Cinema Display
+If you're using the Thunderbolt 3 (USB-C) to Thunderbolt 2 Adapter to connect to a compatible display and the display doesn't show an image, try unplugging the adapter and plugging it back in.
+Get more help
+If you've tried these steps and your display still isn't working, contact Apple Support to get more help. 

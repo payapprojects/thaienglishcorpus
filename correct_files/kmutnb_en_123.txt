@@ -1,0 +1,9 @@
+The Influence of NaOH Concentration on Compressive Strength of Fly Ash Concrete
+This research studied the influence of NaOH concentration on the compressive strength of fly ash concrete. 
+Fly ash was used to replace Portland cement type I at the percentages of 40, 50, and 60 by weight of binder. 
+Sodium hydroxide (NaOH) solution was introduced as an alkaline activator at various molar concentrations of 0.00, 0.25, 0.50, and 0.75 molar. 
+Concrete cube specimens of 100×100×100 mm3 had been cast. 
+The specimens were cured in tab water for 3, 7, 14, 28, and 60 days and their compressive strengths were determined. 
+Based on the results, compressive strength of fly ash concretes tended to increase as the concentration of NaOH solution increase for no more than 0.50 molar. 
+Higher amount of fly ash in concretes also reduced their compressive strengths and a greater reduction was found in concretes without any activator of NaOH solution. 
+In summary, the use of NaOH solution at 0.50 molar concentration in concrete containing fly ash at 50% by weight of binder would be optimal due to its highest compressive strength, which was 22% higher than that of the control concrete.

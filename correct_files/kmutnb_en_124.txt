@@ -1,0 +1,6 @@
+The Development of Hazardous Route Map in Thailand
+The aim of this research paper is to test the possibility of combining the navigation system with the data collected to show Thailand’s black spots for people traveling by car. 
+The study uses the rate-quality control method to analyze the statistical data collected between B.E. 
+2551–2554 in order to show Thailand’s most dangerous roads. 
+This research has improved the Global Positioning System device with the most functional and user-friendly interface to warn drivers of the accident spots where they are most at risk of being involved in an accident. 
+The result of this research shows that the system has the capability to detect hazardous driving events and warn drivers of the potential dangers from the 1 km distance to the incident black spot.

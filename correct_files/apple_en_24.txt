@@ -1,0 +1,193 @@
+About the security content of iOS 8.4
+This document describes the security content of iOS 8.4.
+For the protection of our customers, Apple does not disclose, discuss, or confirm security issues until a full investigation has occurred and any necessary patches or releases are available. 
+To learn more about Apple Product Security, see the Apple Product Security website.
+For information about the Apple Product Security PGP Key, see How to use the Apple Product Security PGP Key.
+Where possible, CVE IDs are used to reference the vulnerabilities for further information.
+To learn about other security updates, see Apple security updates.
+iOS 8.4
+Application Store
+Available for: iPhone 4s and later, iPod touch (5th generation) and later, iPad 2 and later
+Impact: A malicious universal provisioning profile app may prevent apps from launching
+Description: An issue existed in the install logic for universal provisioning profile apps, which allowed a collision to occur with existing bundle IDs. 
+This issue was addressed through improved collision checking.
+CVE-ID
+CVE-2015-3722 : Zhaofeng Chen, Hui Xue, and Tao (Lenx) Wei from FireEye, Inc.
+Certificate Trust Policy
+Available for: iPhone 4s and later, iPod touch (5th generation) and later, iPad 2 and later
+Impact: An attacker with a privileged network position may be able to intercept network traffic
+Description: An intermediate certificate was incorrectly issued by the certificate authority CNNIC. 
+This issue was addressed through the addition of a mechanism to trust only a subset of certificates issued prior to the mis-issuance of the intermediate. 
+Further details are available about the security partial trust allow list.
+Certificate Trust Policy
+Available for: iPhone 4s and later, iPod touch (5th generation) and later, iPad 2 and later
+Impact: Update to the certificate trust policy
+Description: The certificate trust policy was updated. 
+The complete list of certificates may be viewed at the iOS Trust Store.
+CFNetwork HTTPAuthentication
+Available for: iPhone 4s and later, iPod touch (5th generation) and later, iPad 2 and later
+Impact: Following a maliciously crafted URL may lead to arbitrary code execution
+Description: A memory corruption issue existed in handling of certain URL credentials. 
+This issue was addressed with improved memory handling.
+CVE-ID
+CVE-2015-3684 : Apple
+CoreGraphics
+Available for: iPhone 4s and later, iPod touch (5th generation) and later, iPad 2 and later
+Impact: Opening a maliciously crafted PDF file may lead to an unexpected application termination or arbitrary code execution
+Description: Multiple memory corruption issues existed in the handling of ICC profiles. 
+These issues were addressed through improved memory handling.
+CVE-ID
+CVE-2015-3723 : chaithanya (SegFault) working with HP's Zero Day Initiative
+CVE-2015-3724 : WanderingGlitch of HP's Zero Day Initiative
+CoreText
+Available for: iPhone 4s and later, iPod touch (5th generation) and later, iPad 2 and later
+Impact: Processing a maliciously crafted text file may lead to an unexpected application termination or arbitrary code execution
+Description: Multiple memory corruption issues existed in the processing of text files. 
+These issues were addressed through improved bounds checking.
+CVE-ID
+CVE-2015-1157
+CVE-2015-3685 : Apple
+CVE-2015-3686 : John Villamil (@day6reak), Yahoo Pentest Team
+CVE-2015-3687 : John Villamil (@day6reak), Yahoo Pentest Team
+CVE-2015-3688 : John Villamil (@day6reak), Yahoo Pentest Team
+CVE-2015-3689 : Apple
+coreTLS
+Available for: iPhone 4s and later, iPod touch (5th generation) and later, iPad 2 and later
+Impact: An attacker with a privileged network position may intercept SSL/TLS connections
+Description: coreTLS accepted short ephemeral Diffie-Hellman (DH) keys, as used in export-strength ephemeral DH cipher suites. 
+This issue, also known as Logjam, allowed an attacker with a privileged network position to downgrade security to 512-bit DH if the server supported an export-strength ephemeral DH cipher suite. 
+The issue was addressed by increasing the default minimum size allowed for DH ephemeral keys to 768 bits.
+CVE-ID
+CVE-2015-4000 : The weakdh team at weakdh.org, Hanno Boeck
+DiskImages
+Available for: iPhone 4s and later, iPod touch (5th generation) and later, iPad 2 and later
+Impact: A malicious application may be able to determine kernel memory layout
+Description: An information disclosure issue existed in the processing of disk images. 
+This issue was addressed through improved memory management.
+CVE-ID
+CVE-2015-3690 : Peter Rutenbar working with HP's Zero Day Initiative
+FontParser
+Available for: iPhone 4s and later, iPod touch (5th generation) and later, iPad 2 and later
+Impact: Processing a maliciously crafted font file may lead to an unexpected application termination or arbitrary code execution
+Description: Multiple memory corruption issues existed in the processing of font files. 
+These issues were addressed through improved input validation.
+CVE-ID
+CVE-2015-3694 : John Villamil (@day6reak), Yahoo Pentest Team
+CVE-2015-3719 : John Villamil (@day6reak), Yahoo Pentest Team
+ImageIO
+Available for: iPhone 4s and later, iPod touch (5th generation) and later, iPad 2 and later
+Impact: Processing a maliciously crafted .tiff file may lead to an unexpected application termination or arbitrary code execution
+Description: A memory corruption issue existed in the processing of .tiff files. 
+This issue was addressed with improved bounds checking.
+CVE-ID
+CVE-2015-3703 : Apple
+ImageIO
+Available for: iPhone 4s and later, iPod touch (5th generation) and later, iPad 2 and later
+Impact: Multiple vulnerabilities exist in libtiff, the most serious of which may lead to arbitrary code execution
+Description: Multiple vulnerabilities existed in libtiff versions prior to 4.0.4. They were addressed by updating libtiff to version 4.0.4.
+CVE-ID
+CVE-2014-8127
+CVE-2014-8128
+CVE-2014-8129
+CVE-2014-8130
+Kernel
+Available for: iPhone 4s and later, iPod touch (5th generation) and later, iPad 2 and later
+Impact: A malicious application may be able to determine kernel memory layout
+Description: A memory management issue existed in the handling of HFS parameters which could have led to the disclosure of kernel memory layout. 
+This issue was addressed through improved memory management.
+CVE-ID
+CVE-2015-3721 : Ian Beer of Google Project Zero
+Mail
+Available for: iPhone 4s and later, iPod touch (5th generation) and later, iPad 2 and later
+Impact: A maliciously crafted email can replace the message content with an arbitrary webpage when the message is viewed
+Description: An issue existed in the support for HTML email which allowed message content to be refreshed with an arbitrary webpage. 
+The issue was addressed through restricted support for HTML content.
+CVE-ID
+CVE-2015-3710 : Aaron Sigel of vtty.com, Jan Souček
+MobileInstallation
+Available for: iPhone 4s and later, iPod touch (5th generation) and later, iPad 2 and later
+Impact: A malicious universal provisioning profile app can prevent a Watch app from launching
+Description: An issue existed in the install logic for universal provisioning profile apps on the Watch which allowed a collision to occur with existing bundle IDs. 
+This issue was addressed through improved collision checking.
+CVE-ID
+CVE-2015-3725 : Zhaofeng Chen, Hui Xue, and Tao (Lenx) Wei from FireEye, Inc.
+Safari
+Available for: iPhone 4s and later, iPod touch (5th generation) and later, iPad 2 and later
+Impact: Visiting a maliciously crafted website may compromise user information on the filesystem
+Description: A state management issue existed in Safari that allowed unprivileged origins to access contents on the filesystem. 
+This issue was addressed through improved state management.
+CVE-ID
+CVE-2015-1155 : Joe Vennix of Rapid7 Inc. 
+working with HP's Zero Day Initiative
+Safari
+Available for: iPhone 4s and later, iPod touch (5th generation) and later, iPad 2 and later
+Impact: Visiting a maliciously crafted website may lead to account takeover
+Description: An issue existed where Safari would preserve the Origin request header forcross-origin redirects, allowing malicious websites to circumvent CSRF protections. 
+The issue was addressed through improved handling of redirects.
+CVE-ID
+CVE-2015-3658 : Brad Hill of Facebook
+Security
+Available for: iPhone 4s and later, iPod touch (5th generation) and later, iPad 2 and later
+Impact: A remote attacker may cause an unexpected application termination or arbitrary code execution
+Description: An integer overflow existed in the Security framework code for parsing S/MIME e-mail and some other signed or encrypted objects. 
+This issue was addressed through improved validity checking.
+CVE-ID
+CVE-2013-1741
+SQLite
+Available for: iPhone 4s and later, iPod touch (5th generation) and later, iPad 2 and later
+Impact: A remote attacker may cause an unexpected application termination or arbitrary code execution
+Description: Multiple buffer overflows existed in SQLite's printf implementation. 
+These issues were addressed through improved bounds checking.
+CVE-ID
+CVE-2015-3717 : Peter Rutenbar working with HP's Zero Day Initiative
+SQLite
+Available for: iPhone 4s and later, iPod touch (5th generation) and later, iPad 2 and later
+Impact: A maliciously crafted SQL command may allow unexpected application termination or arbitrary code execution
+Description: An API issue existed in SQLite functionality. 
+This was addressed through improved restrictions.
+CVE-ID
+CVE-2015-7036 : Peter Rutenbar working with HP's Zero Day Initiative
+Telephony
+Available for: iPhone 4s and later, iPod touch (5th generation) and later, iPad 2 and later
+Impact: Maliciously crafted SIM cards may lead to arbitrary code execution
+Description: Multiple input validation issues existed in the parsing of SIM/UIM payloads. 
+These issues were addressed through improved payload validation.
+CVE-ID
+CVE-2015-3726 : Matt Spisak of Endgame
+WebKit
+Available for: iPhone 4s and later, iPod touch (5th generation) and later, iPad 2 and later
+Impact: Visiting a malicious website by clicking a link may lead to user interface spoofing
+Description: An issue existed in the handling of the rel attribute in anchor elements. 
+Target objects could get unauthorized access to link objects. 
+This issue was addressed through improved link type adherence.
+CVE-ID
+CVE-2015-1156 : Zachary Durber of Moodle
+WebKit
+Available for: iPhone 4s and later, iPod touch (5th generation) and later, iPad 2 and later
+Impact: Visiting a maliciously crafted website may lead to an unexpected application termination or arbitrary code execution
+Description: Multiple memory corruption issues existed in WebKit. 
+These issues were addressed through improved memory handling.
+CVE-ID
+CVE-2015-1152 : Apple
+CVE-2015-1153 : Apple
+WebKit
+Available for: iPhone 4s and later, iPod touch (5th generation) and later, iPad 2 and later
+Impact: Visiting a maliciously crafted webpage may lead to an unexpected application termination or arbitrary code execution
+Description: An insufficient comparison issue existed in SQLite authorizer which allowed invocation of arbitrary SQL functions. 
+This issue was addressed with improved authorization checks.
+CVE-ID
+CVE-2015-3659 : Peter Rutenbar working with HP's Zero Day Initiative
+WebKit
+Available for: iPhone 4s and later, iPod touch (5th generation) and later, iPad 2 and later
+Impact: A maliciously crafted website can access the WebSQL databases of other websites
+Description: An issue existed in the authorization checks for renaming WebSQL tables which could have allowed a maliciously crafted website to access databases belonging to other websites. 
+This was addressed through improved authorization checks.
+CVE-ID
+CVE-2015-3727 : Peter Rutenbar working with HP's Zero Day Initiative
+Wi-Fi Connectivity
+Available for: iPhone 4s and later, iPod touch (5th generation) and later, iPad 2 and later
+Impact: iOS devices may auto-associate with untrusted access points advertising a known ESSID but with a downgraded security type
+Description: An insufficient comparison issue existed in Wi-Fi manager's evaluation of known access point advertisements. 
+This issue was addressed through improved matching of security parameters.
+CVE-ID
+CVE-2015-3728 : Brian W. Gray of Carnegie Mellon University, Craig Young from TripWire

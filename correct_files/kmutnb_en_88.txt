@@ -1,0 +1,5 @@
+Synthesis of Silver Nanoparticles in Skim Natural Rubber for Dye-sensitized Solar Cell
+This research focuses on synthesis of silver nanoparticles (AgNPs) in the skim natural rubber latex and study the doping pattern of AgNPs onto mesoporous nanocrystalline layers of TiO2 to improve the efficiency of Dye-Sensitized Solar Cell (DSSC). 
+By the surface plasmon resonance effect of silver nanoparticles, the photocurrent of DSSC test devices can be increased. 
+The result shows that the ratio of AgNPs to ethanol and the doping pattern in TiO2 film significantly affect the photocurrent density. 
+DSSC test devices employing the ratio of AgNPs to ethanol 1 : 500 and the AgNPs doped between three layers of TiO2 film yield the best photoconversion efficiency of 4.3%, increased by 58.9% in comparison with those without AgNPs doping.

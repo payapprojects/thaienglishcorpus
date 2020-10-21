@@ -1,0 +1,12 @@
+The objective of this study was to examine the optimum conditions for coffee oil extraction from used coffee grounds (UCG) of Coffea canephora var. 
+robusta and Coffea arabica with hexane solvent through response surface methodology. 
+The operating variables of the extraction process were optimized by Central Composite Design (CCD), a subset of Response Surface Methodology (RSM), and it was analyzed by Minitab R.17 software. 
+The factors in this study including solvent to solid ratio (4 : 1–8 : 1 mL/g), extraction temperature (35–45ºC) and extraction time (15–45 min), a five-level rotatable CCD were used for experimental design. 
+A total of experimental conditions was 20 experiments. 
+These data were analyzed by non-linear quadratic correlation model. 
+The experimental results showed that each factor was correlated significantly with the other factors. 
+The optimum variables of extraction were as follows: solvent to solid ratio of 8.14 mL/g, extraction temperature of 46.97ºC and extraction time of 27.22 minutes, and the maximum oil yielded under these conditions was 13.04%. 
+The experiments performed under these conditions showed that the extracted oil yield was up to 13.08±0.20%, which related accurately with the prediction value. 
+The extracted coffee oil was characterized for their properties of free fatty acids, density, and viscosity. 
+The acid value of the extracted oil was about 3.70 mgNaOH/gOil suitable for esterification process. 
+The oil properties revealed the viscosity (49.65 cP at 40ºC) and the density of about 948 kg/m3.at 15ºC.

@@ -1,0 +1,8 @@
+Effect of Copper and Iron Loading on Zeolite Y for Carbon Dioxide Adsorption
+The concentration of carbon dioxide is increasing significantly and it affected global warming. 
+Therefore; this research was to study CO2 adsorption and metal loading on zeolite Y. 
+Bagasse ash was used as a source of silica instead of sodium silicate for NaY synthesis. 
+CO2 adsorption efficiency was improved using copper and iron loading into zeolite via incipient wetness impregnation method. 
+The results showed that at 300°C with 5.5 wt.%Cu/Zeolite Y could adsorb 67.06% of CO2 and 1 wt.%Fe/Zeolite Y could adsorb 61.14%. 
+Moreover, Cu and Fe loading with 5.5wt%Cu-1wt.%Fe/Zeolite Y reached high CO2 adsorption at 82.40%. 
+For the adsorption temperature of 100°C, 300°C and 600°C, the highest efficiency of CO2 adsorption was at 100°C.

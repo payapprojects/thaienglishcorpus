@@ -1,0 +1,79 @@
+Thanks to digital audio workstation software, the right laptop can make or record professional-quality music tracks1.
+Whether you’re recording bass guitar or hip-hop or a classical quartet, you can now produce practically any kind of music on a laptop computer. 
+But while any laptop can be used to produce music on some level, the more serious your ambitions, the more selective you need to be when choosing a laptop for music production.
+First, let’s figure out what you’re going to do with music on this laptop, then we’ll run down the basic options and identify the most important software and peripherals.
+Recording, Producing/Composing, or Performing?
+Musicians use laptops in different ways. 
+Many employ a traditional approach, recording tracks from microphones and instruments, then mixing them to create the final product. 
+Hip-hop, pop, and EDM musicians typically use the laptop itself to produce most of the actual sounds—programming the sounds into a sequencer or playing them on a MIDI keyboard or touchpads connected to the laptop. 
+But they still record vocals and some other sounds using microphones, and mix those with computer-generated audio and often with snippets of other artists’ recordings. 
+DJs typically do all of the above and also use the laptop as a performance device, often triggering everything with a controller that has touchpads and a couple of turntable-style discs for scratching.
+All of these applications use software packages called digital audio workstations, or DAWs. 
+Some DAWs are targeted more at recording, others more at generating music in the laptop itself. 
+Here’s a great guide to selecting a DAW.
+The folk singer/songwriter who wants to carry a laptop with her on the subway to record gigs in Brooklyn has different needs than the producer who wants to put together hip-hop beats in his home studio in Atlanta. 
+So the first step should be deciding what your work requires. 
+Is portability important? Are your productions going to be fairly simple or complex? Is your laptop going to be used in a music live performance?
+Screen Size
+The screen is important because it determines the size of your visual workspace. 
+The more complex your productions, the more workspace you need. 
+Almost any laptop screen will let you monitor 6 to 10 tracks of music comfortably, but managing 30 tracks is nearly impossible on a small screen.
+Smaller screens (10–13” diagonally) will nestle easily in backpacks. 
+For basic recording and mixing, a small display is fine.
+Midsized laptops (14–16”) generally represent a balance between portability and performance.
+Large laptops (17–18”) are great for music producers who need to monitor dozens of tracks at once, which is the norm with hip-hop, pop, and EDM productions.
+Mobility
+If you’re planning to use your laptop for live recording or performing, a smaller model is usually a better choice because it’s easier to carry and takes up less space on stage. 
+Another consideration in these applications is battery life. 
+This isn’t important in homes or clubs where there’s an outlet nearby, but might be vital for mobile recording. 
+Also, if you’re planning to use your laptop for a performance or to record in clubs, it’s a good idea to choose a model with a backlit keyboard.
+Mac or Windows?
+MacBooks are fast and reliable, yet there are some equally powerful Windows laptops, typically at more affordable prices. 
+This choice depends mainly on two factors: your budget and which software you prefer to use. 
+Note that professional music studios tend to use Macs, so if you plan to work in conjunction with pro studios—recording a few tracks in a large room, perhaps, or hiring a pro to mix or master your recording—a Mac might be a safer choice, although audio files from Windows machines can be transferred to Mac OS and vice-versa.
+More information can be found in our PC vs Mac article ›
+Processor
+Music production can put a heavy load on a CPU, or processor, which is the heart of any computer. 
+Get the best, most capable processor within your budget because it’s rarely possible to upgrade it later. 
+The more complicated your productions, the more the CPU matters. 
+Mixing a tune with 30 tracks, multiple sampled instruments, and lots of digital audio effects demands a powerful computer.
+There are two measures of processor performance to keep in mind. 
+One is the number of cores. 
+Each core can process data independently, so adding cores dramatically increases processing power. 
+A quad-core processor is the best choice for music production. 
+The other measure is clock speed, which typically runs from about 2.4 to 4.2 GHz. The faster the better.
+Typically, a more compact laptop will have a less-powerful processor, but that’s not always true.
+RAM
+RAM, or random-access memory, stores programs and data temporarily when your computer is on. 
+The more complex the program, the more RAM it requires.
+For music production, you need at least 8 GB and preferably 16 GB of RAM, especially if you’re working with a lot of recorded tracks and/or virtual instruments, or applying multiple effects to your tracks. 
+Luckily, RAM is one of the more upgradeable components of a computer, but every laptop has its limits. 
+It’s best to choose one that can accommodate at least 16 GB of RAM.
+Storage: HDD or SSD?                                                                                    
+Audio files take up a lot of storage space: Just one complicated tune can easily fill 1 GB. 
+This is why it’s a good idea to have at least 1TB of available storage.
+How that storage is arranged is a different issue. 
+Your options are a conventional hard drive (HDD) that relies on one or more internal spinning discs, a solid-state drive (SSD) with no moving parts, or an external HDD, which connects to your laptop through USB.
+An SSD can read and write data much faster than an HDD and it’s quieter and more reliable. 
+However, an SSD is typically about five times as costly per GB as an HDD. 
+One solution, if your laptop permits it, is to have a 128 or 256 GB SSD plus a 1TB HDD. 
+This way, boot-up and loading of programs from the SSD are ultra-fast, and you have plenty of storage for music files on the HDD.
+Another solution is to keep your music files—or at least your archived ones—on an external HDD. 
+This method adds complexity, but it lets you add more storage when you need it, and it does let you opt for a smaller, slimmer computer.
+Ports
+To interface a laptop with microphones, instruments, and other audio gear, you’ll need an audio interface, which will connect to the laptop through a USB port. 
+If you’re producing music directly on the laptop, you’ll also use USB to connect a keyboard, MIDI pads (for tapping out rhythms), and DJ controllers. 
+Many music pros like to use control surfaces, which provide a physical interface much like a mixing board, instead of controlling their recording and audio mixing using a mouse.
+Laptops come with at least two USB ports, but obviously you may want more, especially if you want to connect peripherals such as a wired keyboard or mouse, or an external hard drive. 
+Any computer’s USB ports can be augmented by connecting a USB hub, but for portable users, that will be one more piece of gear to carry.
+Speakers/headphone jacks
+Surprisingly, these features don’t matter much in a laptop used for music production. 
+The speakers built into laptops are very low-quality devices that are only there for situations where you have nothing else to listen through. 
+Nothing will sound good through them, and if you try to tailor your mixes to sound good through them, the music will probably sound strange when played on good speakers. 
+You can use the headphone jack built into the laptop, but in most laptops, the amplifier connected to the headphone jack is of low quality and may throw off the sound of your headphones a bit.
+Fortunately, most audio interfaces have headphone jacks as well as connections that allow you to hook up a set of high-quality powered monitor speakers that will let you do great-sounding mixes. 
+Because isn’t it a little crazy to invest hours in choosing the right laptop, and hundreds of hours in producing a piece of music, only to listen to it through poor-quality speakers?
+Final Tracks
+Once you’ve chosen the laptop, audio interface, and the DAW software that’s best for your needs, you’ll be ready to create studio-quality music productions. 
+In fact, a lot of the music you hear on the radio is created using nothing more. 
+All you need to add is your own creativity and imagination.

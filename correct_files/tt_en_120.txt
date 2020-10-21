@@ -1,0 +1,6 @@
+Laser - induced fluorescence technique has been widely used in chemical and photobiological analysis for over the past 10 years. 
+During recent years it has received great interest from various investigators as a potentially useful tool for medical, especially in cancer diagnosis. 
+The fundamental is that the difference of fluorescence spectrum between cancer tissue and normal tissue. 
+In this research work, the second - harmonic wave with wavelength at 532 nm which obtained from a pulsed Nd:YAG laser with a pulsewidth of 9.2 ns and a pulse energy of 2.6 mJ/pulse was used as the light source. 
+Fluorescence measurements for both normal and cancer tissues of breast on 6 patients obtained from the National Cancer Institute were performed. 
+The experimental results show that the fluorescence spectra of cancerous breast tissue are higher than those of normal breast tissue.

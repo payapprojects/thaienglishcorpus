@@ -1,0 +1,45 @@
+If Safari doesn't load a page or webpage items are missing
+Check Safari extensions, or try removing cookies, cache, and other website data if a webpage or site doesn't load on your Mac.
+Use the steps in this article if this happens in Safari on your Mac:
+You can’t log in to a secure website.
+A webpage repeatedly reloads or redirects.
+A message on a webpage tells you to remove or reset cookies.
+Some images, videos, or other items aren't displayed on a webpage, but other page elements load.
+Check Parental Controls
+If you're logged into a user account that is restricted by Parental Controls or other web filtering software, some pages or page elements might not load if those sites aren't allowed. 
+For example, embedded videos might not display if they're hosted on a site other than the one you're viewing. 
+Check with your administrator to see if you can get access to the site that you're trying to view.
+Check Safari extensions
+Some Safari extensions that block ads or other website content can prevent some page elements from displaying. 
+You can temporarily turn off extensions, then re-load the page to see if this is the issue.
+Choose Safari > Preferences.
+Click Extensions.
+Select an extension, then deselect the checkbox "Enable… extension." 
+Repeat this step for every extension that's currently installed.
+Reload the page by choosing Choose View > Reload in Safari. 
+If the webpage loads correctly, one or more extensions was blocking the content from loading. 
+Re-enable an extension, then reload the page again to determine which extension is blocking the content you want to view.
+If the website still doesn't load with all of your extensions disabled, try the next steps in this article.
+If Safari doesn't load pages from a specific site
+If only one webpage or website isn't working, you can remove data related to that site to see if it fixes the issue. 
+Use these steps to remove cookies, cache, and other data stored by Safari for a specific site:
+Choose Safari > Preferences.
+Click the Privacy icon.
+Click the Details button.
+Search for the name or domain of the website whose data you want to remove.
+In the results list, click the domain (like example.com) that has data you want to remove.
+Click Remove.
+When you're finished, click Done and close the preferences window.
+remove history, cookies, cache, website data, for a specific site
+If you used the Private Browsing feature of Safari when visiting a website, you might not see the site listed here. 
+If Safari doesn't load pages from multiple sites
+In OS X Yosemite, you can delete website data for the past hour, or past few days if websites or pages stopped loading recently.
+Choose History > Clear History and Website Data.
+In the sheet that appears, choose the range of data you want to remove from the Clear pop-up menu.
+Click Clear History.
+remove history, cookies, cache, website data
+If you want to remove website data for all of the sites and pages you've ever visited, choose "all history" from the Clear pop-up menu. 
+The option to Remove All Website Data in the Privacy pane of Safari preferences does this, too. 
+These options also reset your browsing history and Top Sites.
+Learn more
+To learn more about cache, cookies, and other website data, open Safari and search for the word "history" or "privacy" from the Help menu.

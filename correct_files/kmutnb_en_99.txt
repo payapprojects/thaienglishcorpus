@@ -1,0 +1,6 @@
+Chromatic Numbers of Welded Graphs
+The purposes of this research are 
+1) to find upper and lower bounds of the chromatic numbers of welded graphs in terms of the chromatic numbers of their original graphs, and 
+2) to find conditions which make the chromatic numbers of welded graphs in terms of the chromatic numbers of their original graphs. 
+The results are as follows: for any welded graph, the sum of the chromatic numbers of their original graphs is the upper bound of the chromatic number of the welded graph, and the maximum of the chromatic numbers of their orginal graphs is the lower bound of the chromatic number of the welded graph. 
+Moreover, the condition for complete original graphs and the condition for complete patches are obtained, which make the chromatic numbers of welded graphs in terms of the chromatic numbers of their original graphs.

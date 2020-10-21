@@ -1,0 +1,6 @@
+Fibroscan
+Fibroscan’s ultrasound elastrography uses low frequency elastic waves to deliver highly accurate assessments of liver fibrosis.
+Formerly, patients who had to undergo biopsies every two or three years felt threatened by the name of the procedure, but they are now able to return home immediately after the scanning. 
+The instrument is positioned in order to emit elastic ultrasound waves to the liver. 
+The fibroscan software then converts the velocity of the echoes into values that the doctor can use to further predict the disease. 
+The whole procedure takes only about 10 minutes and the results can help doctors to instantly determine a treatment plan.

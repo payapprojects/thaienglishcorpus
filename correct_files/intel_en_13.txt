@@ -1,0 +1,78 @@
+Find a laptop that allows you to realize the full potential of your photo editing software.
+Skilled photographers and professional graphic designers know that only part of their work is completed when a picture is taken – creating compelling images inevitably requires at least some time at a computer with photo-editing software. 
+Hardly anyone, including amateur shutterbugs using their smartphones, presents their images to the world completely unadorned. 
+But it’s really in the hands of upper-echelon creative professionals that editing software sings. 
+Imperfections that strip images of their power and reality can be corrected. 
+Unique elements can be added that provide otherworldly qualities that change the way people react to an image of a person, place or thing. 
+No matter what your goals, the most advanced photo-editing software can only attain its full creative potential when teamed with the appropriate hardware. 
+There is a plethora of editing software available, and you must weigh a number of considerations in selecting among many good options. 
+In the same way, hardware choices have expanded dramatically, requiring photographers and graphic artists to consider functionality and desired effects when choosing the device they’ll edit upon.
+Desktops Edge Over Laptops Disappear
+Even people who have been using photo editing software for a relatively short time probably remember a time when desktop computers were the only option for serious craftspeople. 
+Today, however, new laptop models boast speed and storage that rival high-end desktops, suiting those whose editing work must be done in the field, at multiple locations, or taken to clients or colleagues.
+Built-in high-resolution screens up to Ultra HD 4K provide stunning color, contrast and detail that discerning photo editors require. 
+In short, modern laptops have all the advantages of heavy-duty desktop photo editing in a lightweight package weighing only 3-4 pounds.
+Laptops Provide More Capabilities Than Tablets
+As desktop computers become less common, laptops can seem a no-brainer choice for graphic artists and photographers. 
+It’s a different case when considering tablets. 
+While the line between high-end tablets and laptops is blurring, there are several important considerations to keep in mind when image-quality and impact is paramount.
+For starters, laptops are larger, with more technology capabilities that can make tablets feel limited and cumbersome. 
+Laptops provide full-sized keyboards, the ability to connect external hard drives and disc burners, and bigger screens with more room for the editing software’s control bars and menus.
+While that can all be important, the key differentiator between laptops and tablets is the laptops’ ability to run full versions of professional-level photo editing software such as Adobe Photoshop*, Adobe Lightroom*, Corel PHOTO-PAINT*, or popular free programs like GIMP. 
+Even the highest-quality tablets provide a smaller toolbox of photo editing functions. 
+For example, most mobile devices are limited to review and light editing of JPEG or PNG files. 
+While that is adequate for people who simply want a record of their vacation, upper-echelon creatives will routinely prefer to work with high-resolution RAW files, which allow them to fine-tune detailed images. 
+A more demanding level of image wizardry requires a laptop capable of a full-powered photo editing software, which permits the photographer or graphic artist to explore every creative avenue.
+Gap Closes Between Mac OSX or Windows* 10
+Until recently, a Mac running OSX was considered the default choice for anyone who needed the highest levels of photo editing. 
+Creatives were more than willing to pay a premium for beautiful design, stunning screen resolution, great stability and security.
+While Apple MacBook Pros* remain a sound choice for the most sophisticated photo-editing computer, Windows* 10 has closed the gap considerably. 
+At a much lower price point, this operating system offers many of the same capabilities as the Mac. 
+Both PCs and Macs provide intuitive, powerful, and user-friendly laptops, which can run major applications such as Adobe Creative Suite and Microsoft* Office. 
+Both devices feature Intel® Core™ processors that furnish the power that high-quality software requires. 
+And both Macs and PCs offer a wide-range of configurations, such as the MacBook Pro Air* and 2 in 1s running Windows* 10.
+Screen: Size Matters (and So Does Resolution)
+Recommendation: 15-inch, 1920 x 1080p, matte finish
+A laptop’s display is both the creative canvas and control panel for photo editing.
+Creatives who use a smaller device can make due with a high-quality 13-inch display like those found on the MacBook Pro Retina and Microsoft Surface Pro* convertible. 
+Generally, though, a 15-inch screen is the minimum size for those doing demanding photo editing on larger devices. 
+A 17-inch screen may not be necessary, though it can eliminate the need for an external display. 
+No matter the screen size, matte or anti-glare finishes can reduce eyestrain and visual distractions.
+In terms of resolution, 1920 x 1080 pixels, which provide full high definition, is the starting point, and is usually sufficient for minimal needs. 
+Demanding photographers and graphic artists will typically opt for higher resolutions -- 2560 x 1600p, 3200 x 1800p, or even 4K Ultra HD.
+Touch screens are not strictly necessary for photo editing. 
+However, they are useful for creatives who prefer to work with a stylus in a 2 in 1 convertible or peripheral drawing pad like Wacom’s popular Bamboo*.
+Processor: Get as Much Horsepower As Possible
+Photo editing software requires a lot of computing horsepower. 
+Processors are classified in two ways: by the number of cores (physical or virtual); and frequency in GHz (the clock speed).
+While both are important, cores are the best way to calculate power and working capacity. 
+More cores mean more power, so when image-quality matters it’s wise to get the best-performing processor you can afford. 
+Clock speed, while secondary, should not be discounted. 
+Basically, the higher the clock frequency, the better the chip performs. 
+Photo editing requires processors in the 2.5 to 3.5 GHz range or higher. 
+Graphics Card/GPU: Faster Processing
+Recommendation: Integrated chip graphics for casual users, special graphics chips with 60 FPS (frames for second) for power users.
+Graphics processors offload work from the main CPUs, providing faster processing and better quality display, while also allowing you to move objects around the editing workspace faster.
+A card from a respected maker like NVIDIA or ATI adds $60 to $200 to the price of a system. 
+Popular models include the basic NVIDIA GeForce GTX 950M, the mid-range GTX 960M, the GT840M, and the high end GTX 980M.
+Memory: Check Your Gigs
+Recommendation: 8 GB for average recreational use, 16 GB for power users
+Creatives require sufficient memory to run powerful programs at an adequate speed. 
+RAM, or random access memory, enables photo files to run quickly and multiple instructions to run at once without lagging. While recreational users can get by with 8GB, professional graphic artists and skilled photographers typically need at least 16GB to head off crashes, freezes and unexpected shutdowns.
+Storage: Eliminate Bottlenecks
+Recommendation: 1 TB hard disk drive, 7200 RPM, 512 GB Solid State Drive (SSD), hybrid with least 128 GB SSD
+An insufficient amount of storage creates an I/O bottleneck that slows down processing, editing, and image uploads. 
+At the same time, storage is needed to handle thousands of high-res images. 
+RAW files from a single wedding can easily take up 10GB.
+A Hard Disk Drive (HDD), one type of storage, is a conventional spinning disk.
+A 1TB hard drive can comfortably support any operating system, leaving at least 700GB for other programs and data. 
+A Solid-State Drive (SSD), another type of storage, is built using chips. 
+SSDs let memory-intensive apps load and run much faster, with blazing read speeds of about 1400 MB/s and write speeds of 280+ MB/s. 
+Ports and Connectivity: Don’t Shortchange Yourself
+Recommendation: SD card and slot, at least three USB 3.0 or 3.1 ports, Thunderbolt™ on Macs, choice of DisplayPort, HDMI, or VGA output
+The rule of thumb is to get as many inputs and outputs as possible. 
+It will permit you to much more easily move photos into your laptop, store them in external storage drives, and burn them to CDs or DVDs. 
+A wealth of ports will also let you easily add large external monitors, a tablet and stylus, and ergonomic keyboards and mice, which can make long editing sessions more comfortable.
+Choose Your Performance Level
+Start your search for the perfect photo editing laptop. 
+Check out the list of good, better, & best spec options (in our opinion!) for CPUs, GPUs, and SSDs in a range of performance levels.

@@ -1,0 +1,5 @@
+Factors Affecting Decisions to Register New Industrial Businesses
+Economic growth is the ultimate goal of all the government in the world. 
+An important driver of economic growth is the investments in new industrial businesses. 
+Therefore, this study analyses the factors affecting the decision to register new industrial business the Vector Autoregression model (VAR). 
+Results of this study lead to policy recommendations for the Thai.

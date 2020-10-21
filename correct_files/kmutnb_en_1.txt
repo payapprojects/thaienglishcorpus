@@ -1,0 +1,9 @@
+Improvement of Post Peak Behavior of Light Weight Foam Soil with Polypropylene Fiber
+This paper presents the improvement of lightweight foam mixed soil (LFS) with polypropylene fibers in soft clay area. 
+The study emphasizes the reducing brittle property and increasing the ductile behavior in material. 
+A series of the unconfined compression test was conducted on LFS samples with different polypropylene fibers 0, 1, 2, 3 and 4%, cement content 100, 150 and 200 kg/m3. 
+The unit weight of samples was set with 8, 10 and 12 kN/m3, and different fibers lengths were 6 and 12 mm. 
+The curing time of 7 and 28 days were conducted, respectively. 
+The results found that the adding fibers seem better performance on the deformation characteristic where the post-peak behavior could be enhanced as by increasing of the toughness and the residual strength with increasing fiber content, and the reduction rate on loss of post-peak. 
+However, the influence of fiber content and the length of fiber has insignificant effect on the increasing the value of unconfined compressive strength.
+

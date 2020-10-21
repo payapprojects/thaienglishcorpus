@@ -1,0 +1,39 @@
+Change your iCloud feature settings
+You can change which iCloud features you’re using on any of your devices by turning features on or off. 
+You can also turn off iCloud completely.
+When you turn off an iCloud feature on a device, information stored only in iCloud for that feature is no longer available on the device. 
+If you turn off Mail, Contacts, Calendars, Notes, Reminders, or iCloud Photos on just one device, you can still view and change your information on iCloud.com and on another device you set up for that feature.
+Sometimes when you turn off an iCloud feature on a device, you can choose to keep a copy of the feature’s information on that device. 
+The copied information isn’t kept in sync with iCloud. 
+If you turn off Mail, Contacts, Calendars, and Tasks in iCloud for Windows on a Windows computer, information stored in iCloud remains available in Microsoft Outlook, but it isn’t kept up to date with your other devices. 
+Before you turn off a particular feature on all of your devices, or before turning off iCloud completely, you can make a copy of the information you keep in iCloud on your computer. 
+If you want to delete information and backups stored in iCloud, learn how to manage your iCloud storage.
+Turn iCloud features on or off
+Depending on which device settings you want to change, do one or more of the following.
+On your iPhone, iPad, or iPod touch
+If you're using iOS 10.3 or later:
+Go to Settings > [your name]. 
+Tap iCloud.
+Tap to turn iCloud features on or off.
+On your Mac
+Choose Apple  menu > System Preferences, then click Apple ID. 
+If you’re using macOS Mojave or earlier, you don’t need to click Apple ID. 
+Click iCloud.
+Select or deselect each feature.
+Some features aren’t available or are listed differently in earlier macOS versions.
+On your Windows PC
+Open iCloud for Windows.
+Select or deselect each feature. 
+Click Apply.
+Some features aren’t available on your PC, or are listed differently, depending on whether your computer has Microsoft Outlook 2016 or earlier installed.
+If you have Outlook installed, use iCloud Mail, Contacts, Calendars, and Tasks in Outlook. 
+If you turn off Mail, Contacts, Calendars, and Tasks, the iCloud information remains available in Microsoft Outlook, but it isn’t kept up to date with iCloud. 
+If you don't have Outlook installed, use iCloud Mail, Contacts, Calendars, and Reminders in your web browser on iCloud.com.
+iCloud reminders are called Tasks in Outlook 2016.
+If you select Bookmarks, and your computer has Google Chrome or Mozilla Firefox installed, you can click Options to select the Windows browsers whose bookmarks you want to keep up to date with bookmarks in Safari on your iOS devices and Mac computers set up for iCloud Safari. 
+Learn more about the browsers supported by iCloud for Windows.
+Turn off iCloud
+To stop using iCloud on all or only some of your devices, follow these steps.
+If you sign out of iCloud (or delete iCloud), iCloud no longer backs up the information on your iPhone, iPad, or iPod touch. 
+-You can still back up your device from your computer.
+If you turned on automatic download of music, app, or book purchases in iTunes preferences or in Settings on your iOS device, your iTunes purchases are still downloaded to your devices.

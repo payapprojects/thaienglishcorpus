@@ -1,0 +1,48 @@
+AirPlay system requirements
+Learn which devices are compatible with AirPlay and AirPlay 2.
+About AirPlay and AirPlay 2
+AirPlay lets you stream audio from one Apple device to an AirPlay-compatible speaker. 
+You can also stream video and mirror the screen on your iOS device or Mac to an Apple TV.
+AirPlay 2 adds the ability to play music across multiple speakers throughout your home, or play something different in every room. 
+You can stream video to AirPlay 2-compatible smart TVs, or use Siri on your iOS device to play a movie or TV show in the room where you want to watch it.
+1 It's never been easier to control what's playing in every part of your home. 
+To use AirPlay 2, update your devices to the latest software version and add your AirPlay 2-compatible speakers or smart TVs to the Home app on your iOS device. 
+Find speakers, receivers, and smart TVs that are compatible with AirPlay 2.
+AirPlay 2-compatible devices
+AirPlay-compatible devices
+AirPlay 2 system requirements
+The following devices support streaming audio with AirPlay 2. 
+If your device meets the requirements below, but you can't use AirPlay, learn what to do.
+Devices you can AirPlay 2 audio from
+iPhone, iPad, or iPod touch with iOS 11.4 or later
+Apple TV 4K or Apple TV HD with tvOS 11.4 or later2
+HomePod with iOS 11.4 or later
+Mac or PC with iTunes 12.8 or later 
+Mac with macOS Catalina
+Devices you can AirPlay 2 video from
+iPhone, iPad, or iPod touch with iOS 12.3 or later
+Mac with macOS Mojave 10.14.5 or later
+Devices you can stream to
+Apple TV 4K or Apple TV HD with tvOS 11.4 or later
+HomePod with iOS 11.4 or later
+Speakers connected to the Audio Out port on AirPort Express 802.11n (2nd Generation) with the latest firmware update
+AirPlay 2-compatible smart TVs1 with the label:
+Speakers and receivers with "Works with Apple AirPlay" on the speaker packaging3
+AirPlay system requirements
+The following devices support streaming with AirPlay. 
+If your device meets the requirements below, but you can't use AirPlay, learn what to do.
+Devices you can stream from
+iPhone, iPad, or iPod touch
+Mac 
+iTunes on Mac or PC
+Apple TV 4K or Apple TV HD2
+Devices you can stream to
+HomePod
+Apple TV 4K, Apple TV HD, and Apple TV (2nd or 3rd generation)
+Speakers connected to the Audio Out port on AirPort Express
+Speakers with “Works with Apple AirPlay” on the speaker packaging
+To use Siri to play and control video on a smart TV, you need an AirPlay 2-compatible smart TV that supports HomeKit. 
+HomeKit isn't supported on Samsung smart TVs.
+You can only AirPlay audio from Apple TV.
+Some third-party speakers might require a firmware update to support AirPlay 2 streaming. 
+Go to the manufacturer's website to learn more.

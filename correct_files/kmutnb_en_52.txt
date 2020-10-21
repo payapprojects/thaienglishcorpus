@@ -1,0 +1,9 @@
+Electric overhead travelling cranes play an important materials handling role in industry. 
+They are used to move material of varying weights, with varying frequencies , and for varying the lengths of continuous operation. 
+Each industry has different needs in each of these areas. 
+Because of the critical role of overhead travelling cranes, they should not be classified only according to lift capacity. 
+Consideration should be also be given to working potential (hours/times/day) and continuous working ability. 
+In general, the standards that are used around the world to classify electric hoists follow those developed by the FEM (European Federation of Materials Handling). 
+These are widely accepted, especially in the countries of the European Union. 
+This standard is primarily divided into four categories: light duty hoists, medium duty hoists, heavy duty hoists, and very heavy duty hoists. 
+The classification of the hoists within these categories is based on frequency of use (times per day), length of use (hours per time ), and the amount of time during the work that the hoist operates at full load. These allow for proper consideration of the differing needs of each industry.

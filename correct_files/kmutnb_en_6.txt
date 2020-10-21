@@ -1,0 +1,8 @@
+Thin Layer Drying Model of Carrot Using a Heat Pump Vacuum Dryer
+This thesis article was purposed to study the thin layer drying model of carrot by using a heat pump vacuum dryer for predicting the moisture ratio of drying product. 
+In experiment, carrot was sliced at size as; thickness 0.5 cm, diameter 3 cm, initial moisture content 10.11 d.b. 
+It was dried with constant temperature at 60 ํC, drying pressure at 0.2, 0.5 and 0.7 bar, hot air velocity constant at 1.2 m/s and collected mass of drying product at interval 5 minute. 
+The drying process was finished when mass of carrot slices was constant. 
+From experimental result, moisture content and moisture ratio was decreased with increased drying time, drying time was decreased with decreased drying pressure. 
+At drying condition with temperature 60 ํC, drying pressure 0.2 bar, moisture content was rapidly decreased and drying time was fastest about 330 minutes. 
+The results analysis of thin layer drying models by using non-linear regression method it was found that, the Midilli model was good agreement with experimental data for carrot slices drying at temperature 60 ํC and drying pressure 0.2, 0.7 bar by using a heat pump vacuum dryer.

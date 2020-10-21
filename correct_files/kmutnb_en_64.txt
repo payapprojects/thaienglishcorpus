@@ -1,0 +1,6 @@
+Synthesis of Carbon Nanomaterials Using Stainless Steel Type 304 as Substrate and Catalyst by Chemical Vapor Deposition Method
+This research aim is to study the direct synthesis of carbon nanomaterials by chemical vapor depositionusing 304 stainless steel as both catalyst and substrate at 650°C. 
+The ratio of mixing gases (acetylene, hydrogen and nitrogen) in chamber is controlled to constant value at 1:1:2 with a total flow rate of 400 ml/min for 20 min. 
+Besides that, the surface treatment of 304 stainless steel substrate was performed in the atmospheric of hydrogen and nitrogen before providing acetylene as a carbon source for 15 min. 
+The microphotograph results from FE-SEM and TEM can be used in order to investigate the physical morphology of the obtained carbon nanomaterials. 
+Three types of carbon nanomaterials that can be synthesized are carbon nanotubes, carbon fibers and bamboo carbon nanotubes.

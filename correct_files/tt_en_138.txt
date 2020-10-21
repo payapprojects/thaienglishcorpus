@@ -1,0 +1,8 @@
+Neural networks is one of many techniques used in classification. 
+A situation which prevents good performance in this task is the limited number of available samples, since neural networks is not able to learn efficiently from the training samples in order to reach a satisfactory performance. 
+This work presents techniques which could be used to improve performance of the classification under such constrain. 
+The data used for the work were time series in control chart pattern recognition and heart disease data. 
+From original sources with sufficient number of samples, the sample sets were then reduced considerably and unproportionally in each class. 
+These hampered the performance to no more than 83.33% and 80.00% accuracy respectively. 
+Techniques known as samples duplication, cross-validation, leave-one-out cross validation and synergistic neural networks were then utilized in order to compensate for the limited samples. 
+The results reveals that samples duplication together with synergy of neural networks yielded the highest improvement for the classification of control chart pattern recognition data while samples duplication did so for the heart disease data with the accuracy level of 93.33% and 86.67% respectively.

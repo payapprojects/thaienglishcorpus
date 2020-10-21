@@ -1,0 +1,7 @@
+Adsorption Methylene Blue Dye by Chitosan Flake: Equilibrium and Applied to Use for Industrial Factory
+The equilibrium adsorption of methylene blue dye onto chitosan flake has been studied in the batch adsorption model of Langmuir, Freundlich and Dubinin-Radushkevich isotherms. 
+The effect of initial concentration in range 24.4–110.2 mg/L was studied. 
+It was found that tendency of adsorption capacity increased with increasing initial concentration of methylene blue. 
+The adsorption energy was determined by Dubinin-Radushkevich constant. 
+In addition, an equilibrium adsorption capacity of sorption has been evaluated with Langmuir isotherm and operating line methods which can be applied for industrial factory very well. 
+At flow rate 1 m3/hr, removal of methylene blue and amount to use of chitosan flake was 7.2 g/hr and 2.0 kg/hr, respectively.

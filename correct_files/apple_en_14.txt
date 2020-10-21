@@ -1,0 +1,22 @@
+Use Mission Control on your Mac
+Mission Control offers a bird's-eye view of all your open windows, desktop spaces, and any apps in full screen or Split View, making it easy to switch between them. 
+Open Mission Control
+Swipe up with three or four fingers on your trackpad, or double-tap the surface of your Magic Mouse with two fingers.
+Open the Mission Control app, which is in your Applications folder.
+Press the Mission Control key  on your Apple keyboard or Touch Bar.
+Add spaces and switch between them
+The Spaces bar at the top of the Mission Control window contains thumbnails of each desktop space and each window that is in full screen or Split View.
+To add a space, move your pointer to the Spaces bar, then click the add button  on the right:
+When you have multiple spaces, you can switch between them by clicking the thumbnails the top of the Mission Control window. 
+Or use these methods, which work even when you're not in Mission Control:
+Swipe left or right with three or four fingers on your trackpad, or swipe left or right with two fingers on your Magic Mouse.
+Press Control–Right Arrow or Control–Left Arrow on your keyboard.
+Move windows to spaces
+When you have more than one space, you can move windows to and from each space. 
+Just drag the window onto the other space's thumbnail in the Spaces bar.
+If you drag a window onto an empty area of the Spaces bar, that window opens in full screen in its own new space:
+If you drag a window onto the thumbnail of a full-screen app, that window joins the other window in Split View:
+Move or remove spaces
+To move a space, drag its thumbnail to the left or right of another space in the Spaces bar.
+To remove a space, press and hold the Option key, then click the x in a circle or the double arrows in a circle next to the space's thumbnail in the Spaces bar. 
+Any windows in that space then automatically move to your first desktop space.

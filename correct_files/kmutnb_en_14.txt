@@ -1,0 +1,7 @@
+A Study of Forward and Inverse Kinematics for 6−Link Robot Arm (Staubli RX 90) 
+In order to command a robot to move to a desired position, the position and orientation of the end effector are required to calculate an appropriate rotating angle for each link. 
+On the other hand, a sequence of rotating angles for each link can be fed directly into the robot to move to the desired location. 
+This research focuses on a calculation and validation of forward and inverse kinematics of a Staubli RX 90 robot arm performing a writing task. 
+A path trajectory for writing an English alphabet is first generated and fed as an input command to the robot. 
+While the robot is moving, rotating angles from each link are collected to validate an accuracy of the kinematics analysis. 
+Comparisons between experimental results and calculations of forward and inverse kinematics in simulation have shown that the analysis of forward and inverse kinematics of Staubli RX 90 is correctly verified with some acceptable angle errors in link number 5.

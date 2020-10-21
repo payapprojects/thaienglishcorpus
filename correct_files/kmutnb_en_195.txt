@@ -1,0 +1,9 @@
+The purpose of this cross-sectional study was to integrate the fault tree analysis and analytic hierarchy process for assessing the medical waste management practices and associated risk perceptions in eight health promoting hospitals in NongKhae, Saraburi province. 
+A cross-sectional study was conducted during July 2017 to April 2018. 
+The 4 stages of treating medical waste consist of segregation; storage; transportation; and disposal of health-care waste. 
+The fault tree analysis and analytic hierarchy process technique were used for determining the relative weight of hazard probability of occurrence. 
+Very high potential risks are found on all the 4 dimensions whereas non-compliance with standard procedures occurs in 3 categories: the segregation, transportation and disposal of infectious waste. 
+These aspects of medical waste handling processes were analyzed and determined in high-risk levels: lack of containers for infectious waste separation; improper vehicles and means of waste conveyance; and waste incinerators’ insufficient control of temperature during the burn. 
+The moderate risk level was determined in these aspects: infectious waste separation, storage, and transportation, as well as absence of sufficient supervision and lack of specific storage areas for avoiding contamination and the spread of pathogenic microorganisms. 
+To sum up, treatment and disposal of healthcare waste may pose health risks. 
+The governing board and management of health promoting hospitals should establish safety measures for infectious waste treatment in order to efficiently address the risks that are likely to arise from routine operational procedures.

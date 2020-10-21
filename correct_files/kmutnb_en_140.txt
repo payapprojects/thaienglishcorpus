@@ -1,0 +1,8 @@
+Effect of Load Transfer Platform Stiffness on Differential Settlement of Deep Cement Mixing Pile Supported Embankment
+This study aimed at investigating the settlement behavior of Deep Cement Mixing (DCM) improved ground under embankment loading with the different types of Load Transfer Platform (LTP). 
+The settlement behavior was studied by field embankment construction with instrumentation. 
+The load transfer mechanism was investigated by numerical analysis. 
+From the obtained results, it was found that the load transfer mechanism (arching effect) could be improved by increasing the LTP stiffness with cement admixture. 
+Larger portion of embankment load was transferred to the DCMs. 
+The settlement of the surrounding soil consequently decreased. 
+Therefore, increase of LTP stiffness could reduce the differential settlement between DCM and the surrounding soil.

@@ -1,0 +1,4 @@
+The purposes of this study were to develop a confidence interval of different median for two Population with Free-distributions by Price Bonett Boostrap-t method and compare the perfomance of the proposed Price Bonett Boostrap-t method with other methods. 
+Simulation by the Monte Carlo technique is repeated 5,000 times in the case of calculation of median confidence intervals using the bootstrap technique. 
+The rounds of random sampling with the bootstrap method are 5,000 times, which simulates both data from the population with free-distributions and the size of each sample by using the R program. 
+The results indicated that the Price Bonett Boostrap-t method performance was better than the Price Bonett method and Percentile Bootstrap method which were 17 from 24 situations of this study.

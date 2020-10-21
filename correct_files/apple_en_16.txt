@@ -1,0 +1,36 @@
+Change your Apple ID password
+Follow these steps to change your Apple ID password.
+On your iPhone, iPad, or iPod touch with iOS 10.3 or later
+Tap Settings > [your name] > Password & Security.
+Tap Change Password.
+Change password screen on iPhone
+Enter your current password or device passcode, then enter a new password and confirm the new password. 
+Tap Change or Change Password.
+Sign in with your new Apple ID password to access Apple features and services. 
+Learn more about how to change your Apple ID and update other account information.
+On your Mac with macOS Catalina
+Choose Apple menu  > System Preferences, then click Apple ID.
+Click Password & Security.
+Click Change Password. 
+Before you can reset your Apple ID password, you'll be required to enter the password used to unlock your Mac. 
+On your Mac with macOS Mojave or earlier
+Choose Apple menu  > System Preferences, then click iCloud.
+Choose Account Details.
+Click Security > Reset Password. 
+Before you can reset your Apple ID password, you'll be required to enter the password used to unlock your Mac. 
+On the web
+Sign in to your Apple ID account page.
+In the Security section, click Change Password.
+Enter your current password, then enter a new password and confirm the new password. 
+Click Change Password.
+Sign in with your new Apple ID password to access Apple features and services. 
+If you forgot your password
+If you don't remember your Apple ID password, follow these steps to reset it. 
+After you reset your password, you need to update your Apple ID and password in each service that you’re signed in to.
+Learn more about passwords and your Apple ID
+Your Apple ID is the account you use to access Apple services like the App Store, Apple Music, iCloud, iMessage, FaceTime and more.
+When you create a new password, keep the following in mind:
+Your new Apple ID password must contain at least eight characters, a number, an uppercase letter, and a lowercase letter. 
+You can't use spaces, the same character three times in a row, your Apple ID, or a password you've used in the last year.
+Learn more about password requirements and how to keep your Apple ID secure. 
+FaceTime is not available in all countries or regions.

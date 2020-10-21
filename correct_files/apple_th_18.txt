@@ -1,0 +1,21 @@
+Java สำหรับ OS X 2014-001: วิธีเปิดใช้งานปลั๊กอินเว็บ Java SE 6 ที่ Apple จัดให้และคุณสมบัติ Web Start อีกครั้ง
+เรียนรู้วิธีเปิดใช้งานปลั๊กอินเว็บ Java SE 6 ปลั๊กอินเว็บ Java SE 6 ที่ Apple จัดให้และคุณสมบัติ Web Start อีกครั้งใน Lion และ OS X Lion และใหม่กว่า
+หากหลังการติดตั้ง Java สำหรับ OS X 2014-001 และเวอร์ชั่นล่าสุดของ Java 7 จาก Oracle คุณต้องปิดใช้งาน Java 7 เปิดใช้งานปลั๊กอินเว็บ Java SE 6 ที่ Apple จัดให้และฟังก์ชั่น Web Start อีกครั้ง โดยทำตามขั้นตอนเหล่านี้
+หมายเหตุ: คุณต้องเข้าสู่ระบบในฐานะผู้ดูแลระบบ 
+หากถูกขอให้ป้อนรหัสผ่านผู้ดูแลระบบของคุณหลังจากป้อนคำสั่ง ให้ป้อนรหัสผ่าน จากนั้นกดปุ่ม Return หรือ Enter
+เปิด Terminal ที่อยู่ในโฟลเดอร์ยูทิลิตี้
+ป้อนคำสั่งนี้ จากนั้นกดปุ่ม Return หรือ Enter:
+sudo mkdir -p /Library/Internet\ Plug-Ins/disabled 
+ป้อนคำสั่งนี้ จากนั้นกดปุ่ม Return หรือ Enter:
+sudo mv /Library/Internet\ Plug-Ins/JavaAppletPlugin.plugin /Library/Internet\ Plug-Ins/disabled
+ป้อนคำสั่งนี้ จากนั้นกดปุ่ม Return หรือ Enter:
+sudo ln -sf /System/Library/Java/Support/Deploy.bundle/Contents/Resources/JavaPlugin2_NPAPI.plugin /Library/Internet\ Plug-Ins/JavaAppletPlugin.plugin 
+เมื่อต้องการเปิดใช้งาน Java SE 6 Web Start ใหม่ ป้อนคำสั่งนี้ จากนั้นกดปุ่ม Return หรือ Enter:
+sudo ln -sf /System/Library/Frameworks/JavaVM.framework/Commands/javaws /usr/bin/javaws
+เรียนรู้เพิ่มเติม
+ขั้นตอนต่อไปนี้จะเลิกทำคำสั่งด้านบนและกู้คืน Java 7 ใน OS X Lion และใหม่กว่า
+ปิดใช้งานการเปิด Java SE 6 Web Start:
+ป้อนคำสั่งนี้  จากนั้นกดปุ่ม Return หรือ Enter:
+sudo ln -sf /System/Library/Frameworks/JavaVM.framework/Versions/Current/Commands/javaws /usr/bin/javaws
+เมื่อถูกขอ ป้อนรหัสผ่านผู้ดูแลระบบของคุณ จากนั้นกดปุ่ม Return หรือ Enter
+เปิดใช้งานปลั๊กอินแอปเพล็ต Java 7 ใหม่โดยการ ดาวน์โหลดและติดตั้ง Oracle Java 7 JRE เวอร์ชั่นล่าสุด

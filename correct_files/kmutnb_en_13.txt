@@ -1,0 +1,7 @@
+This applied research was conducted by employing both methods from a quantitative research and a qualitative one in the innovative ways. 
+The research investigates on the satellite data of four bands sent from SMMS (Small Multi−Mission Satellite). 
+Each band was analyzed to create color composition indices of the Western areas of Thailand. 
+The four bands consisted of Band 1 (Blue Band) which had a wavelength of between 0.43−0.52 micrometers, Band 2 (Green Band) which had a wavelength of between 0.52−0.60 micrometers, Band 3 (Red Band) which had a wavelength of between 0.63−0.69 micrometers, and Band 4 (Near Infrared Band) which had a wavelength of between 0.76−0.90 micrometers. 
+Then, the satellite data were three−layered overlaid in non−repeated arrangements. 
+Any band showing grayscale would have been substituted by 3 additive primary colors which were blue, green, and red. 
+The arrangements were permutated into 24 indices: 123, 124, 132, 134, 142, 143, 213, 214, 231, 234, 241, 243, 312, 314, 321, 324, 341, 342, 412, 413, 421, 423, 431 and 432.

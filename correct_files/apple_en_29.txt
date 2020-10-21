@@ -1,0 +1,110 @@
+Connect and use your AirPods and AirPods Pro
+You can listen to music, make phone calls, use Siri, and more with your AirPods.
+Use your iPhone to set up your AirPods
+If you're setting up your AirPods for the first time, make sure that your device is up to date. 
+Then follow these steps:
+Go to the Home screen.
+Open the case—with your AirPods inside—and hold it next to your iPhone.
+A setup animation appears on your iPhone.
+Tap Connect. 
+If you have AirPods Pro, read the next three screens.
+If you have AirPods Pro or AirPods (2nd generation) and you already set up "Hey Siri" on your iPhone, then "Hey Siri" is ready to use with your AirPods. 
+If you haven't set up "Hey Siri" already and you have AirPods Pro or AirPods (2nd generation), you'll be guided through the setup.
+Tap Done.
+If you're signed in to iCloud, your AirPods are set up automatically with any of your supported devices that are signed in to iCloud with the same Apple ID.
+If you can't set up your AirPods, get help.
+Learn how to set up your AirPods with a Mac or a non-Apple device, like an Android phone.
+Listen with your AirPods
+When you take your AirPods out of the case, they're on and ready to use. 
+When you put them in your ears, your AirPods automatically play the audio from your device. 
+If you take an AirPod out, audio pauses. 
+Take them both out and audio stops. 
+If you're listening with one AirPod and you take it out, the AirPod pauses. 
+If you put it back in your ear within 15 seconds, play resumes automatically.
+Learn how to get a customized and comfortable fit by choosing the best-sized ear tips for your AirPods Pro.
+AirPods are connected to your iPhone and Apple Watch at the same time. 
+Sound automatically switches between them.
+When not using AirPods or AirPods Pro, store them in the charging case. 
+Storing AirPods loose in your pocket or bag can result in damage.
+Follow these steps to use your AirPods to play audio from a different device or to switch the audio to different headphones or speakers.
+On your iOS device
+Open Control Center.
+Touch and hold the audio card in the upper-right corner of Control Center to control audio.
+Tap , then choose the device you want from the list.1
+On your Mac
+Click the volume control  in the menu bar and choose your AirPods Pro2 or other speakers under Output Device.
+Control audio with your AirPods Pro
+To play and pause your audio content, press the force sensor on the stem of an AirPod. 
+To resume playback, press again.
+To skip forward, double-press the force sensor on the stem of an AirPod.
+To skip back, triple-press the force sensor.
+To change the volume, say "Hey, Siri," then say something like "Turn down the volume." 
+Or drag the volume slider in the app you're listening to, on the Lock screen, or in Control Center. 
+You can also open Now Playing on your Apple Watch and turn the Digital Crown to adjust volume.
+AirPods Pro let you control how much you hear your surroundings. 
+Press and hold the force sensor to switch between Active Noise Cancellation and Transparency mode. 
+You can select which modes the press-and-hold action switches between in Settings > Bluetooth > AirPods Pro > Press and Hold AirPods.
+Control audio with your AirPods (1st or 2nd generation)
+You can use your AirPods to use Siri and to control the playback of audio content.
+With AirPods (2nd generation), by default, you use Siri by saying "Hey Siri". 
+And when you double-tap an AirPod, you either play audio or skip forward.
+With AirPods (1st generation), by default, you double-tap to use Siri. 
+Regardless of which model of AirPods you have, you can set each AirPod to do one of these when you double-tap it:
+Use Siri3
+Play and pause your audio content
+Skip to the next track 
+Go back to the previous track
+Learn how to choose what you want each AirPod to do when you double-tap it.
+Use Siri
+With AirPods Pro and AirPods (2nd generation), you can say "Hey Siri."
+With AirPods Pro, you can set an AirPod to use Siri when you touch and hold the force sensor.
+With AirPods (1st and 2nd generation), you can double-tap to use Siri.
+You can use Siri with your AirPods to ask questions and make phone calls. 
+Siri can also control your music and check on your AirPods. 
+Here are some examples of Siri requests:
+"Play my Favorites playlist."
+"Turn up the volume."
+"How do I get home from here?"
+"Skip to the next song."
+"Pause music."
+"How is the battery on my AirPods?"
+Find more Siri examples.
+Use the phone and get messages
+When a call comes in while you're wearing either AirPod, Siri can announce the call. 
+To answer with AirPods Pro, press the force sensor. 
+To answer with AirPods (1st or 2nd generation), double-tap an AirPod. 
+Later, you can press the force sensor on an AirPod Pro or double-tap an AirPod to hang up or switch to another call.
+Siri can read your incoming messages through your AirPods Pro.
+Charge your AirPods and case
+To charge your AirPods, put them in the case and close the lid.
+4 AirPods shut down and charge whenever they're in the case.
+You can charge your AirPods Pro in their wireless charging case with a Qi-certified charger. 
+While the case is charging wirelessly, you can tap the status light to see the charge status. 
+A green light means that the case—and AirPods, if they're inside—is charged more than 80 percent. 
+You can also plug the case in to an Apple Lightning to USB cable—either USB-C or USB A.  
+You can charge your AirPods (1st or 2nd generation) in the Wireless Charging Case or AirPods Charging Case. 
+If you have the Wireless Charging Case, you can charge wirelessly with a Qi-certified charger. 
+You can charge either case by plugging it in to an Apple Lightning to USB cable.
+Learn more about charging.
+What you need
+If you have AirPods Pro, you need at least one of these: 
+iPhone or iPod touch with iOS 13.2 or later
+iPad with iPadOS 13.2 or later
+Apple Watch with watchOS 6.1 or later
+Apple TV with tvOS 13.2 or later
+Mac with macOS 10.15.1 or later
+If you have AirPods (2nd generation), you need at least one of these:
+iPhone, iPad, or iPod touch with iOS 12.2 or later
+Apple Watch with watchOS 5.2 or later
+Apple TV with tvOS 12.2 or later
+Mac with macOS 10.14.4 or later
+If you have AirPods (1st generation), you need at least one of these:
+iPhone, iPad, or iPod touch with iOS 10 or later
+Apple Watch with watchOS 3 or later
+Apple TV with tvOS 11 or later
+Mac with macOS Sierra or later
+AirPods appear only when they're nearby and ready to use.
+If you don't see the volume control in the menu bar, learn how to add it.
+If double-tapping to use Siri doesn't work, go to Settings > Siri & Search and make sure that Allow Siri When Locked is on.
+If you have both AirPods (2nd generation) and AirPods (1st generation), make sure that you keep them separate. 
+Your AirPods won't charge if you put one of each model in a charging case.

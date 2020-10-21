@@ -1,0 +1,12 @@
+The objective of this thesis is to apply the GeographicInformation Systems technique for the study on land uses andrelated problems, factors that may determine or constrain to landuses, analysis of potentials and trends as well asrecommendations on land use planning in Trat Province. 
+Thesoftware or the applied program is PC ARC/INFO. 
+The thesis found that Trat Province is on the undulatingbringing about diversity and richness of natrual resources whichare the basic factors for economic development. 
+In the past,these natural resources have been utilized for such activities asagriculture, mining, fisheries and tourism, in particularprecious stone mining which is the most important cause of Landuse changes and has affected other land uses. 
+Spatial analysis in Trat Province has revealed that most ofthe problems are relating to natrual resources which are dealingwith physical aspects. 
+This also has an impact on Socio-economicproblems, in particular soil, water and forest resources. Themost severe problems are found in the district of Khao Saming, BoRai and part of Leam Ngop. 
+The land use planning of Trat Province will emphasize onphysical problem solving. 
+The concept is that agricultrualdevelopment should be in line with tourism development andenvironmental conservation. 
+The future land use plan to the year2011 is proposed to divide Trat Province into 3 zones :preservation, conservation and development areas. 
+In addition, aphysical development plan to support the mentioned land use planwill involve communications network development plan, economiccenter and infrastructure development plan of Trat Province. 
+Concerning to the application of GIS for Trat Province'sland use planning, it is found that the system effectively andefficiently facilitates the spatial analysis. 
+However, it isimportant that users must fully understand the planning processand have the basic knowledge in computer as well as the softwareso that the GIS system can be fully utilized for planningactivity.

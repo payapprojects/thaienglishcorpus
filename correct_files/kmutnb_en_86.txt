@@ -1,0 +1,7 @@
+Extraction of Active Compounds from Thai Herbs: Steam Distillation and Solvent Extraction
+Recently, distillation and solvent extraction are widely used in herbal extraction. 
+Distillation process is based on of phase change of both active compounds and water, whereas the solvent extraction process is based on solubility principle as like dissolves like concept. 
+Hence, three techniques of distillation, water distillation, water and steam distillation, and direct steam distillation are briefly provided in details, including an innovation process as instant controlled pressure drop (DIC). 
+Various techniques of solvent extraction such as infusion, percolation, soxhlet extraction, maceration, enfleurage, supercritical fluid extraction, Microwave Assisted Extraction (MAE), and Ultrasound Assisted Extraction (UAE) are briefly described, including pros and cons. 
+Moreover, factors of solvent selection and solvent polarity are also commented. 
+Hopefully, these information from this article will be useful in your herb of interest.

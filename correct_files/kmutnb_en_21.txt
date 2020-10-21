@@ -1,0 +1,12 @@
+Field Strength Assessment of Recycled Base Course by Dynamic Cone Penetration (DCP) Test
+During pavement rehabilitation, there is a need to assess the field strength of base course for quality inspection. 
+The indirect approach for controlling the strength is field density test by sand cone method and unconfined compression test on field compacted sample. 
+However the field and laboratory strengths are different due to the effects of gradation and compaction energy. 
+The Dynamic Cone penetration (DCP) has been extensively used to evaluate the field penetration resistance of base and subbase layers. 
+In this research, the DCP was investigated and used to assess the field strength of recycled base course from pavement in−place recycling. 
+The calibration of DCP and unconfined compression tests were performed on base course model under various Reclaimed Asphalt Pavement (RAP), cement and moisture contents. 
+A new modified Penetration index (PI*) have been proposed for DCP test of compacted soil−RAP−cement. 
+The correlation equation between PI* and qu have presented and discussed. 
+The field tests were performed for investigating the performance of pavement recycling of base course by using DCP test. 
+The pavement rehabilitation of Highway 24 in Nakhon Ratchsima, Thailand has assessed by DCP test. 
+The field strength by DCP test has reported and compared with those of field hand compaction strength and strength requirement for soil cement base.

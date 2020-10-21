@@ -1,0 +1,7 @@
+This research studied the chloride diffusion coefficient of recycled aggregate concretes containing fly ash exposed to marine environment for 3 years. 
+Mae-Moh fly ash were used to replace Portland cement at the percentages of 0, 15, 25, 35, and 50 by weight of binder with the water to binder (W/B) ratios of 0.40, 0.45, and 0.50 in the mixtures. 
+Concrete cube specimens of 200×200×200 mm3 were cast and placed in the tidal zone of marine environment for 3 years. 
+Chloride diffusion coefficients of the specimens were determined according to Fick’s second law of diffusion. 
+The research found that chloride diffusion coefficients of recycled aggregate concretes containing fly ash were significantly lower than those of recycled aggregate concretes without any fly ash. 
+Smaller in W/B ratio also lessened chloride penetration coefficient especially in recycled aggregate concretes without any fly ash. 
+Considering ACI 201.2R recommendation, use of Mae-Moh fly ash to replace Portland cement between 15 and 25 percent by weight of binder with the W/B ratio of 0.40 in the mixture would be suggested to satisfy both compressive strength and chloride penetration resistance of recycled aggregate concretes exposed to marine environment.

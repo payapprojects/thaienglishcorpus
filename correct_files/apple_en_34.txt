@@ -1,0 +1,94 @@
+Convert Numbers spreadsheets to PDF, Microsoft Excel, and more
+To open a Numbers spreadsheet in another app, convert it in Numbers first. 
+You can also open Microsoft Excel spreadsheets and other file types in Numbers.
+You can convert and open spreadsheets in Numbers on iPhone, iPad, iPod touch, Mac, or online at iCloud.com.
+iPhone or iPad
+Mac
+iCloud
+Convert and open spreadsheets in Numbers on iPhone or iPad
+You can work with a variety of file formats in Numbers on your iPhone or iPad. 
+Check which formats are compatible with Numbers on iPhone and iPad.
+Convert a Numbers spreadsheet in Numbers on iPhone or iPad
+If you want to open a Numbers spreadsheet in another app like Microsoft Excel, use Numbers to convert the spreadsheet into the appropriate format.
+In Numbers, open the spreadsheet that you want to convert, then tap the More button .
+Tap Export.
+Choose a format for your spreadsheet. 
+For example, if you want to open your Numbers spreadsheet in Microsoft Excel, choose Excel.
+Choose how you want to send your spreadsheet, like with Mail or Messages.
+Open a file in Numbers on your iPhone or iPad
+To open a file like a Microsoft Excel spreadsheet on your iPhone or iPad, tap the file in the spreadsheet manager. 
+If you don’t see the spreadsheet manager, tap the Back buttonDocuments button (on an iPhone or iPod touch) or Spreadsheets (on an iPad), then tap the file that you want to open. 
+If a file is dimmed, it’s not in a compatible format.
+You can also open a file in Numbers from a different app like the Files app, or from an email:
+Open the other app, then select the spreadsheet or attachment.
+Tap the Share button .
+Tap Copy to Numbers. The original file remains intact.
+After the file opens, you might get a message that the file was last edited in an app other than the most recent version of Numbers. 
+Tap Done to open the file in Numbers. 
+Convert and open spreadsheets in Numbers for Mac
+You can work with a variety of file formats in Numbers for Mac. 
+Check which formats are compatible with Numbers for Mac.
+Convert a Numbers spreadsheet in Numbers for Mac
+If you want to open a Numbers spreadsheet in another app like Microsoft Excel, use Numbers to convert the spreadsheet to an appropriate format.
+In Numbers, open the Numbers spreadsheet that you want to convert.
+Choose File > Export To, then select the format. 
+In the window that appears, you can choose a different format or set up any additional options. 
+For example, you can require a password to open an exported PDF, or choose the format for an exported Excel spreadsheet.
+Click Next. 
+Enter a name for your file and select a folder to save it to.
+Click Export.
+To send a file in a specific format through Mail, Messages, AirDrop, or Notes, choose Share > Send a Copy, choose how you want to send the spreadsheet, then choose a format.
+Open a file in Numbers for Mac
+You can open a file from the Finder or from the Numbers app:
+From the Finder, Control-click the file, then choose Open With > Numbers. 
+If Numbers is the only spreadsheet app on your Mac, you can just double-click the file.
+From the Numbers for Mac app, choose File > Open, select the file, then click Open. 
+If a file is dimmed, it’s not a compatible format.
+When the file opens, you might get a message that the spreadsheet will look different. 
+For example, Numbers notifies you when fonts are missing. 
+You might see also see warnings when you open spreadsheets created in older versions of Numbers.
+Convert and open spreadsheets in Numbers for iCloud
+Numbers for iCloud lets you open, edit, and share your files from a supported browser on a Mac or PC. 
+Check which formats are compatible with Numbers for iCloud.
+Convert a Numbers spreadsheet in Numbers for iCloud
+Sign in to iCloud.com with your Apple ID.
+Click Numbers.
+In the spreadsheet manager, click the More button  on the file you want to convert, then choose Download a Copy. 
+If you have the spreadsheet open, click the Tools button  in the toolbar, then choose Download a Copy.
+Choose a format for the spreadsheet. 
+The file begins to download to your browser’s download location.
+Open a file in Numbers for iCloud
+Sign in to iCloud.com with your Apple ID.
+Click Numbers.
+Drag the file you want to upload into the spreadsheet manager in your browser. 
+Or click the Upload button , select the file, then click Choose.
+Double-click the file in the spreadsheet manager.
+Check file format compatibility
+Formats you can open in Numbers
+You can open these file formats in Numbers on iPhone, iPad, Mac, and online at iCloud.com:
+All Numbers versions
+Microsoft Excel: Office Open XML (.xlsx) and Office 97 or later (.xls)
+Comma Separated Values (.csv)
+Tab-delimited or fixed-width text files
+Formats you can convert Numbers spreadsheets into
+Numbers on iPhone or iPad:
+Microsoft Excel Office Open XML (.xlsx) 
+PDF
+Comma Separated Values (.csv)
+Tab Separated Values (.tsv)
+Numbers for Mac:
+Numbers ’09
+Microsoft Excel: Office Open XML (.xlsx) and Office 97 or later (.xls)
+PDF
+Comma Separated Values (.csv)
+Tab Separated Values (.tsv)
+Numbers for iCloud:
+Microsoft Excel Office Open XML (.xlsx) 
+PDF
+Comma Separated Values (.csv)
+Learn more
+Numbers on iPhone, iPad, Mac, and online at iCloud.com use the same file format. 
+If you create or edit a spreadsheet in Numbers on one platform, you can open it in Numbers on any of the other platforms.
+You can update to current versions of Numbers on your iPhone, iPad, or iPod touch from the App Store. 
+To update Numbers for Mac, use the App Store app on your Mac.
+If you convert a Numbers spreadsheet into Numbers ’09-compatible spreadsheet, learn more about changes that happen when you export to iWork ’09.

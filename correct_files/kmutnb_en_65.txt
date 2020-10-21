@@ -1,0 +1,6 @@
+Effects of Electrolytes on Zinc Deposition onto a Nickel Foam
+The electrodeposition of zinc on nickel foam was prepared to use as an anode. 
+The effects of potassium hydroxide (KOH) or zinc sulfate (ZnSO4) on the deposition of Zn dendrite at different current density were investigated. 
+The morphology characterization of Zn dendrite was performed using Scanning Electron Microscope (SEM). 
+The Zn anode prepared at the current density of 0.8A and using ZnSO4 as electrolyte showed a good morphology called compact. 
+It gave a specific discharge of 210 cycles for more than 5 hours.

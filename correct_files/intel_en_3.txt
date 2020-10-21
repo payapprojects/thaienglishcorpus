@@ -1,0 +1,61 @@
+Whether you want to cut the cable or just stream your vacation videos, it’s easy to connect your laptop to your TV in one of these four ways.
+In their search for entertainment, many people have cut the cable (or satellite), preferring to get their programming off YouTube and other Internet sites for little or no cost. 
+However, they don’t always want to consume that content off the smaller screens that come with laptops and other devices. 
+The solution? Keep that big TV working by feeding it directly from your laptop. 
+There are several ways to do this, and it’s simpler than you might imagine.
+Get Wired Up
+The easiest way to connect your laptop to your television is with a cable that hooks into each device. 
+Most laptops built over the last Half-decade have an HDMI port (which stands for “High-Definition Multimedia Interface”). 
+The HDMI port looks like a longer and thinner version of the USB port that you’ve probably used for flash drives, printers, and other devices. 
+Most HDMI cables are inexpensive, and the port on your TV should be easy to find. 
+Connecting the two devices is no more difficult than using an extension cord.
+Set your TV to the correct input for HDMI, and the laptop should automatically configure to provide the best settings. 
+If your laptop does not automatically output its screen to the TV, go to your Desktop, Right-click your mouse, and go to Display Settings > Display > Adjust Resolution, you can also get there by going to the Control Panel. 
+Select the TV in the drop down box that appears. 
+You will also have the option of using different resolutions. 
+Try the recommended version, but if that doesn’t appeal to you, you can fiddle with other settings. 
+Select this video to view the easy connection and setup process.
+Cable Up an Older Laptop
+If you’re using an older laptop that doesn’t have an HDMI port, your answer might be VGA port. 
+No, this isn’t a professional golf organization. 
+It’s a different kind of port that is roughly rectangular with 15 pins in three rows of five. 
+VGA cables only provide the video output, so this method requires a second cable (what’s called a 3.5mm lead), which plugs into your TV and into your laptop’s headphone port.
+While HDMI and VGA are the two most common cable types, sometimes your laptop or TV will need a different cable, such as a DisplayPort (which carries both video and audio) or Composite Video (another Video-only cable that requires a second video for the sound). 
+If you’re puzzled about your ports, you can see images of the most common connections here.
+Of course, your computer and TV might not have the same type of connection. 
+For example, your TV might sport an HDMI connection, but your computer has a DisplayPort. 
+No need to toss up your hands in frustration and settle for the radio. 
+You simply need to buy an adapter, an inexpensive device that has a DisplayPort connection on one end, and an HDMI connection on the other end. 
+(There are adapters for most other combinations as well.) 
+Place the correct connection of the adapter into the cable that feeds into your laptop, and plug the other end into your TV.
+Like the HDMI cable, your devices should automatically recognize each other. If not, go into the control panel and adjust the settings just as you would with an HDMI cable.
+Mirror, Mirror on the TV 
+Since its introduction in July 2015, the Windows* 10 operating system allows you to mirror your computer screen to a TV, Blu-ray* player, or any device that’s compatible with the Miracast* standard, which has been around since 2013. 
+(Windows* 7, Windows* 8, and other earlier operating systems can support the standard as well.) 
+Miracast can be described as “HDMI over Wi-Fi” since it does the same thing as an HDMI cable without the cable—mirror the content on your laptop onto the television set to which it’s connected.
+This approach requires a little doohickey called a Miracast dongle. 
+These small devices come in different forms depending on the manufacturer, but they work in a similar way: A dongle plugs into the HDMI port on your laptop allowing the laptop to “discover” another device like your TV and make a direct connection to it. 
+It doesn’t require a Wi-Fi network.
+To turn your PC into a Miracast receiver, just open Windows* 10’s Start menu and open the “Connect” app. 
+If you don’t see this app, you need to upgrade to the Anniversary Update of the operating system.
+Streaming Is a Dream
+Another way to connect your laptop and TV is with a dedicated media stream, with the most common being Google's Chromecast*, Roku's Streaming Stick*, Amazon Fire Stick*, or Apple's TV*.
+These devices all work in a similar manner, so let’s look at how Chromecast operates. 
+You plug the dongle into the HDMI port on your television, and it will act as a transmitter that connects to your laptop or other mobile device over your Wi-Fi network.
+Chromecast doesn’t mirror the content on your laptop like the other methods in this list. 
+Instead, your mobile device (smart phone or tablet running Android or iOS or your computer running the Windows or Mac OS X operating systems) acts as a remote control. 
+It directs the dongle plugged into the TV to the Internet content you want to stream.
+The setup is easy. 
+As soon as you plug the dongle into your TV, it should recognize your laptop and walk you through the setup process.
+People debate about which is the best dedicated media streamer, but a common breakdown is:
+Chromecast is designed for people who primarily want to watch video from their computer on their TV or stream content that is available through a browser. 
+An Audio-only Chromecast device has also been produced for people who want to listen to music over their television.
+Roku Streaming Stick is aimed at people who want to view a large collection of TV apps. 
+Most of the streamers can access the major audio and video apps, like YouTube, but Roku is considered to offer the most choices.
+Amazon Fire Stick is for streaming (Subscription-based) Amazon Prime Video content, which includes its own original shows and movies plus content it obtains from other premium networks too.
+Apple TV is ideal for people who access a lot of material on iTunes or play phone and tablet games on their TVs. Not all the media streamers can access iTunes.
+There are lots of media streamer choices with different versions that have features such as voice navigation that allows you to search through content using voice commands. 
+The cost of the devices can run anywhere from $35 to $150.
+Cutting the cable (or satellite) doesn’t mean you have to give up your favorite programs. 
+And even if you keep cable or satellite, there may be times you want to stream content directly from your laptop to your TV anyway—such as to show photos and videos of your vacation. 
+So pick the approach that appeals most to you, and increase your entertainment options.

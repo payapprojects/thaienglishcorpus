@@ -1,0 +1,21 @@
+Java for OS X 2014-001: How to re-enable the Apple-provided Java SE 6 web plug-in and Web Start features
+Learn how to re-enable the Apple-provided Java SE 6 Java SE 6 web plug-in and Web Start features in OS X Lion and later.
+If, after installing Java for OS X 2014-001 and the latest version of Java 7 from Oracle, you want to disable Java 7 and re-enable the Apple-provided Java SE 6 web plug-in and Web Start functionality, follow these steps.
+Note: You must be logged in as an administrator. 
+-If prompted for your administrator password after a command, enter it and then press the Return or Enter key.
+Open Terminal, located in the Utilities folder.
+Enter this command, then press the Return or Enter key:
+sudo mkdir -p /Library/Internet\ Plug-Ins/disabled 
+Enter this command, then press the Return or Enter key:
+sudo mv /Library/Internet\ Plug-Ins/JavaAppletPlugin.plugin /Library/Internet\ Plug-Ins/disabled
+Enter this command, then press the Return or Enter key:
+sudo ln -sf /System/Library/Java/Support/Deploy.bundle/Contents/Resources/JavaPlugin2_NPAPI.plugin /Library/Internet\ Plug-Ins/JavaAppletPlugin.plugin 
+To re-enable Java SE 6 Web Start, enter this command, then press the Return or Enter key:
+sudo ln -sf /System/Library/Frameworks/JavaVM.framework/Commands/javaws /usr/bin/javaws
+Learn more
+The following steps will undo the above commands and restore Java 7 in OS X Lion and later.
+Disable Java SE 6 Web Start opening:
+Enter this command, then press the Return or Enter key:
+sudo ln -sf /System/Library/Frameworks/JavaVM.framework/Versions/Current/Commands/javaws /usr/bin/javaws
+When prompted, enter your administrator password, then press the Return or Enter key.
+Re-enable the Java 7 applet plug-in by downloading and reinstalling the latest version of Oracle Java 7 JRE.

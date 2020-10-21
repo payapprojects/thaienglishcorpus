@@ -1,0 +1,21 @@
+To examine the effects of supplemented vitamin C on endothelialnitric oxide synthase (eNOS) in diabetes mellitus, the animal model ofstreptozotocin (STZ)-induced diabetic rats (a single intravenous injectionof STZ ; 50 mg/kg BW) was used. 
+Male Spraque-Dawley rats weighing 200-250 gwere divided randomly into three groups of control (CON), diabetes (DM) anddiabetic supplementation with vitamin C (DM+Vit.C). 
+The supplementation ofvitamin C was performed by allowing the animals freely assessed to drinkingwater added 1 g/L of ascorbic acid (Sigma, Chemical Co., USA). 
+The experiment were performed at 12 and 24 weeks (wks) afterinjection of citrate buffer solution STZ. 
+On the day of experiment, bodyweight (BW), plasma vitamin C, blood sugar (BS) were evaluated for allanimals. 
+Isolated heart, aorta and lung used for Western blot analysis wereimmediately collected from every rats. 
+The results showed that both groups of 12 and 24 wks DM groups havethe significantly increase in blood glucose (BS), 
+but decrease in BW andplasma vitamin C levels as compared to their age-match control groups.
+However, the plasma vitamin C levels was significantly increased inDM+Vit.C group as compared to DM group (p<0.01). 
+The eNOS protein bands obtained by Western blot analysis usingmonoclonal antibody against eNOS were quantified by Global Lab Imagesoftware analysis. 
+The values of pixel numbers within each eNOS band fromimage analyzed were directly converted to amount of eNOS proteins of eachsample by the standard equation, Y = 5.9 x 10('3)X. 
+After that all convertedconcentration of eNOS proteins were then normalized using the correlationby 100% equal to 5 (+,m)g total protein. 
+It was found that the diabeticstate caused the reduction of eNOS protein expression in the heart but notin the lung for both 12 and 24 weeks. 
+Interestingly, it also found thatlung have significantly higher eNOS protein levels in DM+Vit.C as comparedto DM for both 12 and 24 wks (p<0.001). 
+In conclusion, the present study has demonstrated that theapplication of digital image analysis can be used for convertingqualitative method, such as Western blotting, to quantitative method. 
+Byusing standard protein, the sensitivity of its application is well enoughfor differentiate the changes of protein content in microgram level. 
+Andthe accuracy of this application is within (+,ฑ) 15.76%. 
+From the presentresults indicated that the endothelial dysfunction induced by diabetichyperglycemia has been resulted to the decrease in eNOS protein level inheart but not in lung of DM rats. 
+Therefore, we hypothesized that it mightdue to the difference of high-and low-flow, that mediated eNOS proteinsynthesis, in heart and lung, respectively. 
+However, this finding suggeststhat vitamin C supplementation could prevent the diabetic-inducedendothelial impairment, especially to prevent eNOS protein damage in highflow systemic circulation. 
+Therefore, it is suggested that vitamin C mightbe a great chemopreventive agent for diabetic cardiovascular complications.

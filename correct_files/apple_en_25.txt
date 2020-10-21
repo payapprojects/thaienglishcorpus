@@ -1,0 +1,54 @@
+Import photos using Apple camera adapters
+Learn how to import photos and videos from a digital camera or SD Card to your iPhone, iPad, or iPod touch using Apple camera adapters.
+You can import photos and videos from an SD card, digital camera, or other supported accessory to your iOS device using one of these:
+Lightning to SD Card Camera Reader
+Lightning to USB 3 Camera Adapter
+Lightning to USB Camera Adapter
+Apple USB-C to SD Card Reader
+If you have an iPhone 5 or later, it needs iOS 9.2 or later. 
+If you have an iPod touch or iPhone 4s, it needs iOS 9.3. 
+If you're using a Lightning to USB 3 Camera Adapter, you need an iPad with iOS 9.3.
+Import photos and videos
+To import from your SD card or digital camera, follow these steps:
+Connect the adapter to your iOS device.
+Connect your digital camera to the adapter by USB or insert an SD card.
+Photos should automatically open to the Import tab. 
+If it doesn't, open Photos and tap Import.
+Tap Import All to import your content, or tap specific items, then tap Import.
+When the import is complete, you might be asked to Keep or Delete the media on the camera or SD card.
+You can import content only to your iPhone, iPad, or iPod touch. 
+You can't export content to an SD card or digital camera.
+If you don’t see the import option
+If you don't see the Import tab, follow these steps:
+Make sure that your digital camera is on and in the correct mode to export images.
+Disconnect the adapter, wait 30 seconds, then reconnect it.
+Unplug the digital camera or SD card, wait 30 seconds, then reconnect.
+Restart your iOS device and turn your camera off and back on.
+If one is available, test with a different digital camera or SD card. 
+If you can import media with a different digital camera or SD card, there might be an issue with the data on the camera or SD card. 
+Try to import the data to another device or computer, then use your digital camera to format—or reset—the SD card. 
+Reformatting will erase all the images on the SD card. 
+Check the manual for your digital camera for more help.
+If you can’t import some content
+Apple camera adapters can import multiple types of media files from your digital camera or SD card. 
+If the format isn't compatible with iOS, you won’t be able to view them on your device, but can import them to your computer later.
+Apple camera adapters can import only content that was captured by digital cameras. 
+You might not be able to import content that was renamed, edited, or copied to the digital camera or SD card.
+Supported SD cards and image-transfer protocols
+Picture Transfer Protocol (PTP)
+Mass Storage Device protocol
+SDSC
+SDHC
+miniSD
+microSD
+MMC
+SDXC
+Flash or USB thumb drives aren't supported for image importing.
+If you're using a Lightning to USB 3 Camera Adapter, these iPad models transfer data at USB 3 speeds:
+iPad Pro 12.9-inch (2nd generation)
+iPad Pro 10.5-inch
+iPad Pro 12.9-inch
+All other adapters and iOS devices use USB 2 speeds.
+Learn more
+Learn more about USB Camera Adapters.
+Learn how to connect to other devices and accessories with the USB-C port.

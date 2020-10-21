@@ -1,0 +1,33 @@
+With an unlocked Intel® Core™ processor and an easy-to-use overclocking toolkit, you can tune your system to deliver maximum power.12
+The Rule: Maximize frequency and minimize voltage while extracting as much heat as possible so the system remains stable.
+STEP 1: Set Up Hardware
+1.1 - Start with a motherboard and power supply which are optimized for Intel® unlocked processors.
+Select a motherboard designed specifically to enable overclocking when paired with Intel® unlocked processors. 
+Utilize a robust ATX power supply which can handle the increased power draw. 
+Review the disclosure about overclocking below and make sure you understand the risks.
+1.2 - Apply aggressive cooling
+Utilize a robust cooling solution which can cool the processor well beyond the minimum processor requirements. 
+Liquid cooling is ideal, and added chassis fans will further improve overclocking potential.
+STEP 2: Tweak Software Settings
+2.1 - Increase power limits and Icc Max
+Using BIOS or software like the Intel® Extreme Tuning Utility, increase power limits and max current/ICC limits to match the capabilities of your motherboard, power supply, and cooling solution.
+2.2 - Increase frequency
+Increase the ratio for the subsystem you are attempting to overclock (processor core, graphics, ring/cache). 
+NOTE: The frequency is equal to ratio multiplied to the base clock. 
+For example: a target frequency increase to 5,000 MHz the ratio would be 50, if base clock is at default (100MHz). 
+Also note processor graphics overclocking ratio is multiplied by half of base clock.
+STEP 3: Run Stress Tests
+3.1 - Determine if stable
+Determine if the overclocked system is reliable by running one or more stress tests to confirm system stability. 
+NOTE: The Intel Extreme Tuning Utility contains several helpful stress tests and benchmarks.
+3.2 - If not stable: Increase voltage
+If the system was unstable during stress tests, try increasing the voltage. 
+This will be required when overclocking higher than 100 to 200 MHz. 
+Try increasing 5 to 10mV at a time and use the least voltage possible. 
+When increasing voltage no longer improves stability, you may have reached the maximum stable frequency. 
+It is recommended you select “adaptive” voltage mode before finalizing voltage settings.
+Note: advanced overclockers may choose to increase voltage ahead of frequency on subsequent attempts.
+3.3 - If stable: Push frequency higher or complete overclocking
+If the system is stable after stress testing, then you could push for a higher frequency, in which case go back to step 2.2. If satisfied with the overclocking results, the process is complete.
+STEP 4: Overclock Your Game
+Congratulations! You have successfully overclocked your system and ensured stability.

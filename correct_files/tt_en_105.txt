@@ -1,0 +1,4 @@
+This study is to design maintenance planning for humanplasma fractionation equipment at the national blood centrefor reducing equipment downtime causing production drop. 
+Itis found that the planing system Consists of 5 years mastermaintenance plan, annually maintenance plan, monthlymaintenance plan, weekly maintenance plan with computeraided planning should be carry out. 
+However, plan theorganization of maintenance department, job description ofemployee that concerned with maintenance, maintenanceinformation system should be support the plan. 
+By comparing the results of previous time with thoseof the designed maintenance system, it was found thatequipment availability of freezer 30 cubicfeet, refrigerator30 cubicfeet, mistral 6000 and mistral 3000i are increasedby 1.9%, 1.2%, 2.2%, 2.3% respectively.

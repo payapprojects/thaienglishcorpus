@@ -1,0 +1,7 @@
+A Mixed Cumulative Sum-Tukey’s Control Chart for Detecting Process Dispersion
+The objective of this research is to propose a mixed Cumulative Sum-Tukey Control Chart (CUSUMTCC) for detecting process dispersion using the range, when the process is symmetric and asymmetric distributions.
+The performance of CUSUM-TCC is compared with Tukey’s Control Chart (TCC), Cumulative Sum Control Chart (CUSUM) and Exponentially Weighted Moving Average -Tukey Control Charts (EWMATCC), measured by the Average Run Length (ARL). 
+The in control Average Run Length (ARL0) is given to 370 and 500. 
+In order to approximate ARL, the Monte Carlo simulation method is used and the numerical results reveal that CUSUM-TCC is superior to TCC, CUSUM and EWMA-TCC for all cases of asymmetric distributions. 
+However, for the case of ARL0 = 370 sample n = 1 and 5 and the process has laplace distribution, the performance of EWMA-TCC is superior to the mixed CUSUM-TCC and other control charts when the magnitudes of change in dispersion parameter δ ≤ 1.6. 
+In addition, for the case of ARL0 = 500 sample n = 1 and 5 the EWMA-TCC performs better than the mixed CUSUM-TCC and other control charts for all magnitudes of change.
