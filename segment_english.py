@@ -40,7 +40,7 @@ def split_into_sentences(text):
     text = text.replace(".",".<stop>")
     text = text.replace("?","?<stop>")
     text = text.replace("!","!<stop>")
-    text = text.replace(":",":<stop>")
+#    text = text.replace(":",":<stop>")  #colon for sinlge docs
     text = text.replace("<prd>",".")
     text = text.replace("<STP>",".")
     sentences = text.split("<stop>")
