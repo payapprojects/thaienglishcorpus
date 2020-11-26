@@ -1,2 +1,2 @@
-The python files will create the output fils in a folder called corpus_files. At present the html folder and the correct folder have limited the files to 1000 and therefore fall sort of the neccessary files.
-The corpus will be added shortly
+The python files will create the output files in a folder called corpus_files. At present the html folder and the correct folder are incomplete as they are limited on githib to 1000. If you wish to run the programs then run the controller after puting all the html files and correct files in the html_files folder and the correct_files folder.
+As the corpus will be 20,000 once the final files are evaluated the corpus is not presently complete at the time of the final report and project end date. The corpus will be added shortly.
