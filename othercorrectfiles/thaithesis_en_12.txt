@@ -1,0 +1,7 @@
+The purpose of this thesis is for collecting theinformation, designing the appropriate distributed database andprocessing system, which will increase performance of theinventory control system of the automobile assembly parts enableto process data accurately and efficiently. 
+In case that thecomputer system of any nodes fails, this system on the other nodestill keeps running data without any problems. 
+The design of this system is use the relational databasemodelling techniques to analyse the existing centralized data.
+From this analysis, a logical data model is created. 
+Data modelis EAR model that consisted of three important parts, as follows:Entity, Relationship and Attribute. Next step, the centralizedlogical data model is converted into the distributed logical datamodel which is modified to a distributed relational database byconsidering of fragmentation and allocation of data which is bestsuitabel for storing data of each node to easily accommodate anduse network communications with efficiency. 
+Beside the inventory process design, this system alsoincludes input design, output design and a transfer data to theother node to handle problem such as one of the node in thecomputer system is down. 
+Futhermore, the inventory controlsystem of this design is useful and helpful not only theautomobile assembly parts, but also the other businessenvironment.

@@ -1,0 +1,8 @@
+The purpose of this research is to develop the informationsystem for the Royal Thai Navy's naval operations. 
+The system isdivided into four subsystems based on four different levels ofusers. 
+They are inquiry, operational, management, andstrategic levels. 
+The system provides information about thereadiness and performance of ships, weapons, communications andelectronic warfare equipment. 
+Relational design technique was used to design thedatabase. 
+First, the existing data was analyzed to create alogical data model which was then normalized and translated intothe relational database. 
+Second, input, output, and processingdesigns were made. 
+Finally, interactive processing wasdeveloped using FoxPro relational database management system onmicrocomputer. The resulting information from the system will benefit thehigh ranking commanders of the Royal Thai Navy in managing andmaking decisions such as maritime search and rescue operationsand resource planning.

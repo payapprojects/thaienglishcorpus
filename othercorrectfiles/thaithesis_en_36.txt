@@ -1,0 +1,8 @@
+The purpose of the research is to study theapplication of information system to manage data in buildingconstruction. 
+The research was emphasized on data that wereused between contractors and owners. 
+The research beginswith the study of the problems caused by lack of datacommunications; the types of data used in buildingconstruction are then grouped. 
+The data was collected bymeans of questionnaires from 5 high-rise building projectsin Bangkok. 
+From the questionnaires, the group of data wasanalyzed to find out the appropriate data flows system byusing the methodology of information system developmentespecially in the part of the System Development Life Cycle(SDLC) and the Data Flow Diagrams (DFD). 
+It was found that, the problems caused by lack of datacommunications actually exist between contractors and ownersin building construction. 
+Using the application ofinformation system methodology to solve these problems, itwas enable to group the data for analyzing and show the flowdirection, input-output and filing data for the wholesystem. 
+The research also suggested data dictionaryprocedure,examples of input data forms and the systemreports.

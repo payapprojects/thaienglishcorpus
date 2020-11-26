@@ -1,0 +1,10 @@
+This objective of this thesis, the Development ofDistributed Files on the DECnet Network (DDFDN), was todevelop the file distribution protocol for computer systemswith centralized processing used in many businessorganizations. 
+The development was intended to keep theexisting application programs unchanged, to make any changetransparent to the users, and to increase the ability of thesystems to handle more data and users. 
+The DDFDN was mainlydeveloped for implementation on the Ethernet-based computernetwork using DECnet protocol and was tested with ManagementInformation System for Cellular Services computer network atThe Communications Authority of Thailand (CAT). 
+This thesis employs the structure analysis and designas the analysis tool to distribute files through out thenetwork. 
+The DECnet protocol was used to access filesremotely. 
+The test program to measure response-time andload-capacity was developed by using COBOL program andparameter. 
+The use of system processing time and powerbefore and after using DDFDN in the system was recorded byutility program of VMS operating system. 
+By testing DDFDN with the small prototype DECnetcomputer network, the testing result shows that afterdeploying DDFDN, the response time was 145% faster and theload-capacity (system ability) was improved about 80% whencompared to the original network. 
+Then, the DDFDN was portedto test in the CAT's Management Information System forCellular Services computer network. 
+The testing result wasstill the same, and also indicates that the computer networkhas more resource available and the users get no effect.
