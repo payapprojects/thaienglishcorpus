@@ -1,0 +1,10 @@
+X-rays has currently been used widely in industrial and medical application. 
+However, this method has some limitation in X-ray diagnosis, the operators and patients have high risk from radiation effects due to high intensity beam. 
+Additionally, the X-ray image cannot be immediately analyzed because it depends on chemical process. 
+To overcome these problem, the low intensity X-ray imaging system was developed in this research. 
+This system consists of three parts:- the low power X-ray generator (60 kV , 120 (+,m)A) , the X-ray imaging camera, and a personal computer. 
+The major part of this system is the X-ray image camera, which consists of an image intensifier ( Microchannel plate (MCP) type) and a CCD camera. 
+The X-ray image from the image intensifier was captured by the CCD camera and then send to display on the monitor in the real time mode via an image interfacing card. 
+The spatial resolution of this system obtained from the resolution test pattern is approximately 5 lp/mm when the X-ray generator is operated at 58 kV and 115 (+m)A. 
+Furthermore, the system was also tested with various real objects, such as human finger bones, an integrated circuit, a needle in a bar of cheese, a connector, an regulator IC, a variable capacitor, and a variable resistor. 
+It was found that the images were good quality with high contrast.

@@ -1,0 +1,9 @@
+This is a one-group pretest-posttest quasi-experimental research study. 
+The study objective wasto compare problem solving ability of professional nurses before and after using the computerprogram for decision support in nursing patients with head injury. 
+Subjects consisted of 19professional nurses who worked in an emergency unit for at least 1 year. 
+The researchinstruments included the computer program for decision support in nursing patients with headinjury, the experimental control instruments and the Modified Essay Question. 
+All instrumentswere validated. 
+The MEQ had a reliability of 0.97. 
+Data were analyzed by using mean, standarddeviation and dependent t-test. 
+Major research finding was concluded as follow. 
+Problem solving ability of professional nurses after using computer program for decisionsupport in nursing patients with head injury was significantly higher than that before usingthe computer program at a level of 0.05.

@@ -1,0 +1,11 @@
+This thesis is a study of the performance of exterior wallsystems to protect heat transfer the exterior environment intothe building.
+The performance of exterior wall systems is usedfor selection of wall material that reduce the cooling load ofthe air-conditioning system, while maintain economicalfeasibility, practical in construction and suitability forhot-humid climate in Thailand.
+Types of wall systems are categorized in four groups by twofactors heat transmission coefficient (U-Value) and mass.
+Thefour categories of wall systems are wall systems with low heattransmission coefficient and light construction, wall systemswith low heat transmission coefficient and heavy construction,wall systems with high heat transmission coefficient and lightconstruction and wall systems with high heat transmissioncoefficient and heavy construction.
+The experiment of theresearch is conducted by installing samples of those wallsystems, 2X2 ft('2), on the wall of a test building facing South.
+The air temperature inside the test building is controlled at 21degree C by a mechanical system.
+Temperatures at various pointsof the experiment are monitored by scientific instrumentsconsecutively for two weeks. 
+Then, the data of the experiment areanalyzed to compare the thermal performance and energyconsumption of each sample. 
+The result of the research indicates that the wall systemsthat have 0.10-0.20 Btu/Fft('2) .
+H U-value and that have massbelow six pounds per square feet can reduces cooling load of wallconduction heat gain by 60 percent comparing with four inchesthick brick wall, convention wall. 
+Compared with annual energyconsumption, that wall systems are appropriate for using inbuilding in Thailand.
