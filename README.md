@@ -1,3 +1,1 @@
-The python files will create the output files in a folder called corpus_files. At present the html folder and the correct folder are incomplete as they are limited on githib to 1000 files. If you wish to run the programs then run the controller after putting all the html files and correct files in the html_files folder and the correct_files folder.
-
-As the corpus will be 20,000 sentences once the final files are evaluated the corpus is not presently complete at the time of the project end date. Although the reports and project end processes must be completed, the work continues. The corpus will be added shortly.
+The two files en.txt and th.txt contain the 18,854 sentence corpus. Each file line contains the corresponding sentence in the Thai language or English. The system file are located in the code folder.
