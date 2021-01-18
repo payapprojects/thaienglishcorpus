@@ -1,8 +1,0 @@
-The purpose of this study was to investigate therelationship between self-esteem and English speakingability of physical education students at the highercertificate of education level. 
-The samples were 320first year physical education majored students in 1990academic year, 160 males and 160 females, selected from8 physical education colleges by the multiple-stagerandom sampling. 
-They were asked to complete theself-esteem inventory and the English speaking abilitytest. 
-The data were analyzed by means of Pearsonproduct-moment correlation coefficient by using thestatistical package for the social sciences-SPPSxprogram. 
-The findings were as follows: 
-1. There was no relationship between self-esteemand English speaking ability of physical educationstudents at the higher certificate of education levelat .05 level of significance. 
-2. There was no relationship between self-esteemand English speaking ability of male students at .05level of significance. 
-3. There was no relationship between self-esteemand English speaking ability of female students at .05level of significance.

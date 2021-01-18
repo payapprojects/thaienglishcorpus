@@ -1,8 +1,0 @@
-~bBackground~b: Urinary excretion of transforming growth factor-beta(TGF-(+,b)) are associated with progression of diabetic nephropathy (DN).
-Thiazolidinediones could reduce urinary protein excretion in patients withmicroalbuminuric DN.
-~bObjective~b: To evaluate the effect of pioglitazone, a thiazolidinedione,on urinary TGF-(+,b) excretions in type 2 diabetic patients withmacroalbuminuria.
-~bMethods~b: Patients with type 2 diabetes with macroalbuminuria(albuminuria &gt; 300 mg/d or proteinuria &gt; 500 mg/d) were randomly assigned toreceive pioglitazone (30mg/d, n=14) or placebo (n=16), for 12 weeks.
-~bResults~b: Glycemic control and blood pressure in both groups were notsignificantly different.
-Urinary TGF-(+,b) excretion was decreased by 47.8% inthe pioglitazone group but was elevated by 59.7% in the placebo group (p=0.011).
-Urinary protein excretion in the pioglitazone group was reduced from 1.64 to0.98 gram/day (g/d), or 40.1 % which was significantly different (p=0.016) fromthe 4.3% increase (from 1.72 to 1.80 g/d) in the placebo group.
-~bConclusions~b: Besides the effectiveness in blood sugar control,pioglitazone could salutarily reduce urinary TGF-(+,b) excretion and proteinuriain type 2 diabetic patients with macroalbuminuria.
