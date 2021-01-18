@@ -1,9 +1,0 @@
-Optimal Manufacturing Parameters of Rubberwood Flour/High Density Polyethylene Composites Using Box-Behnken Design.
-Experimental design is the revealing of statistical relationship between parameters of experiment and responses, which leads to finding the optimal parameters of experiment. Box–Behnken experimental design and response surface methodology were applied to investigate the effects of temperature, pressing time and density on properties of rubberwood flour/high density polyethylene composites as well as to optimize manufacturing parameters of the composites. 
-From the experiment, it was found that temperature, pressing time and density significantly affected modulus of rupture, modulus of elastic, tensile strength, tensile modulus and water absorption. 
-With increasing the temperature, pressing time and density resulted in increasing of flexural and tensile properties but decreasing of water absorption, whereas when the temperature is over 195oC, modulus of rupture, tensile strength and tensile modulus slowly reduced. 
-And, when the pressing time is over 11 min, modulus of elastic and tensile modulus also decreased clearly. 
-Furthermore, regression models fitted of the modulus of rupture, modulus of elastic, tensile strength, tensile modulus and water absorption were used to optimize the manufacturing parameters of the composites. 
-The optimal parameters found were the temperature 197oC, pressing time 13 min and density 1.0 g/cm3. 
-Likewise, the composites manufactured by these parameters having the different property from the model prediction is not over 3.78%.
-

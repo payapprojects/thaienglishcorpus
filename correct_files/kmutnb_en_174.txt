@@ -1,8 +1,0 @@
-Warehouse management costs are the major cost in the logistics system. 
-The main activity in the warehouse is storage, which comes with different storage systems ranging from block stacking to automated storage. 
-This study are concentrated on block stacking system, because of its widespread use, high flexibility, low cost and suitability for high inventory turnover. 
-However, it causes potential loss of storage space within the warehouse that affects the facility's space utilization. 
-Designing a block stacking system by determining the optimal lane depth is one way to solve the problem. 
-However, studies on determining the optimal lane depth under the finite production rate constraint has not been carried out so far. 
-This research applied two mathematical models to compute the optimal lane depth, the infinite model (P = ∞) does not consider the production rate but the finite model (P ≠ ∞) does in order to compare the average waste of storage space. 
-It has been found that the finite model gives less average waste of storage space than its counterpart.

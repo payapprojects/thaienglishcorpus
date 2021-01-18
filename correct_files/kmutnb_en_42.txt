@@ -1,6 +1,0 @@
-Design of a Database Program for Reducing Searching Time of History and Detail of Container Mainte
-The objective of this research was to reduce the time needed to search thehistory of container maintenance by using a database program. 
-The research is a case study of a transport and distribution center company in Thailand. 
-The maintenance department in charge of the containers has a number of files for recording container maintenance, and this database program can help to search the maintenance records more quickly and conveniently. 
-According to the results of an on-site test, by comparing the search time for the existing system and the new system, it was seen that the new system reduced the search time from 4 minutes 43 seconds (283 second) to 55 seconds. 
-This means that the search time was reduced by 80.57%, which makes it more convenient to search the history of container maintenance.

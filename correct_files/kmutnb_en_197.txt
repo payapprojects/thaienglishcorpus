@@ -1,8 +1,0 @@
-The research aims to assessed flood susceptibility area and catchment area in the four districts of Suphanburi province, Thailand. 
-The criteria using in the GIS analysis that has been provided from the Analytical Hierarchy Process (AHP). 
-The concerned parameter for provide a flood susceptibility map that were, i.e., rainfall, soil drainage, slope, distance from river, and land use. 
-While, the catchment area map used three parameters, i.e. slope, distance from river and land use. 
-The result shows that the moderate flood susceptibility area was the most area in a map (44.12%). 
-On the other hand, the high flood susceptibility area (29.15%) found that located on the Bangplama district and Songphinong district. 
-In the part of catchment area, these was found 849 km2 (22.19% of total area) suitable for developed to be the catchment. 
-The comparison results of flood susceptibility areas and suitable catchment areas these found that the four locations were suitable to developed being the catchment area, such as Jorakae Sampan subdistrict, Bangtakien subdistrict, Taling Chan subdistrict and the area junction between Cokcothow subdistrict and Cokkarm subdistrict.

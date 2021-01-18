@@ -1,7 +1,0 @@
-Antibacterial Membrane from Mixed Poly (vinylidene fluoride) Nanofiber and Poly (vinyl alcohol) Nanofiber
-Antibacterial Poly (vinylidene fluoride) (PVDF) nanofibers can be used to produce filter with the property of liquid filtering and bacteriostatic effect. 
-However, its present efficiency is still dissatisfied due to the low absorption of PVDF causing the limitation of antibacterial substances diffusion. 
-In this study, the researcher introduced hydrophilic membrane by spinning with Poly (vinyl alcohol) nanofiber (PVA) to produce FA filter. 
-The contact angle of FA filter has been reduced from 126 deg to 78 deg with the water absorption duration only of 1 minute and 20 seconds. 
-The FA 8M antibacterial filter has the thickness of 60±3 micrometers, a pore size of 0.40 micrometer, and the porosity of 70±3%. 
-The FA 8M antibacterial filter was compared with the commercial nitrocellulose membrane filter with the thickness of 125 micrometers and a pore size of 0.45 micrometers showing that the FA 8M antibacterial filter can effectively separate the bacteria from the water and still contain bacteriostatic effect though AgNO3 and BKC (Benzalkonium Chloride) added only 0.1% of the polymer weight.

@@ -1,7 +1,0 @@
-Positioning Error Reduction in Robotic Manipulator SEIKO D-TRAN RT3200 Using Repetitive Control
-Nowadays, automation machines are popular in Thai manufacturing industries. 
-An industrial robot arm is one kind of machine that has been widely used for tracking applications, such as spot welding or path welding, “pick and place” tasks, laser cutting, gluing, and painting. 
-Due to the imperfect mechanical parts of the robot arm, distance errors generally occur during the operation and sometimes this causes defects in the production line. 
-This issue has been seriously taken into account when applying the robot arm to high-precision tasks. 
-This research studies how to improve the performance of the industrial robot arm, SEIKO D-TRAN RT3200, performing a repetitive task by using 3 types of repetitive control designs: 1) a simple repetitive controller; 2) an optimal repetitive controller designed in the frequency domain; 3) and an optimal and robust repetitive controller designed in the frequency domain. 
-The stability and performance of the controllers are demonstrated in the simulation results.

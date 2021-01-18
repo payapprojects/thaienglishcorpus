@@ -1,8 +1,0 @@
-A Methodology to Determine the Number of Rolling Stock for Transportation Services and Preventive Maintenance
-Since rolling stock which is the key equipment in a railway business is very expensive, it must be used the most efficiently. 
-The objective of this paper is to determine the minimum number of the rolling stock that is sufficient for services in a given timetable and the preventive maintenance. 
-A mathematical model was used to determine the minimum number of the rolling stock for a given timetable. 
-As the results, at least 240 trains are needed for the future railway projects of Bangkok Metropolitan Region with the total service distance of 509 kilometers. 
-It was found that the minimum number of the rolling stock depends on the service distance and headway of services in the peak hour period. 
-Moreover, there may be some trains those are available from services during off-peak hour. 
-A heuristic approach was used to schedule services and preventive maintenance tasks and determine the minimum number of the rolling stock for transportation services and preventive maintenance.

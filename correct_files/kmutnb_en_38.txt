@@ -1,6 +1,0 @@
-White Stain Reduction in Electroplating Process of Flexible Printed Circuit Board by Using Design of Experiment
-This research aims to determine a factor setting that can reduce the white stain problem in the electroplating process of flexible printed circuit boards using the QXS model, which on average occurs in 2.77% of one production batch. 
-We first evaluated the performance of inspectors by using attribute agreement analysis (AAA) to ensure that they performed well for checking for a white stain. 
-Second, a factorial experiment with 3 replicates was conducted in order to determine the proper factor setting for the concerned factors, which were the pH of nickel solution, current density, and water changing frequency. 
-The results showed that the proper factor setting was to use the nickel solution with the pH of 3 and a current density of 3.0 A/dm2, and to change the water every day. 
-Based on this setting, the white stain problem was reduced to 0.41%, which would lead to a factory savings cost of 98,000 baht per month on average.

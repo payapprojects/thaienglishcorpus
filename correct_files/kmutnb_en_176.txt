@@ -1,8 +1,0 @@
-The Impact of Inrush Current from Medium Voltage Capacitor Banks Switching: A Case Study of MEA
-Increasing the stability of the power system is one of the methods used in the Metropolitan Electricity Authority (MEA). 
-This method compensates the reactive power from switching the capacitor banks into the electrical system by using a circuit breaker to connect the capacitor bank. 
-From the switching a high level of inrush current will be generated which can cause serious damage to the capacitor bank. 
-Therefore, this study investigates the impact of inrush current using circuit breaker to connect the capacitor bank by modeling electrical system with ATP-EMTP transient analysis program. 
-The result of the study reveals that the current and voltage while switching the capacitor bank can be determined the effect of switching on two cases. 
-Case 1: The simulation of switching power supply capacitor bank for one set showed that the peak current was 1.610 kA in phase A at 90 and 270 degrees and the maximum voltage in phase A was 16.751 kV at 90 and 270 degrees. 
-Case 2: the simulation of switching power supply capacitor bank for set together with another capacitor bank, showed the peak current was 1.829 kA at 90 and 270 degrees in phase A and the maximum voltage in phase A was 17.832 kV at 90 and 270 degrees.

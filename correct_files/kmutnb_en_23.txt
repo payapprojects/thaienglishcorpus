@@ -1,8 +1,0 @@
-Normally, the water level control for filter tank of a large water treatment uses the PID controller with fixed gain. 
-Due to the increase or decrease in production process in each period, the washing filter tank, and the amount of particle suspensions of different input raw water, the flow rate of raw water into the filter tank changes nonlinearly. 
-As a result, the static gain of the PID controller cannot respond well. 
-This causes a large butterfly outlet valve to work frequently while trying to maintain the water level in the filter tanks. 
-Hence, the motor and gear set of butterfly valve’s lifespan are shorten. 
-This research presents the 2−state fuzzy logic controller. 
-The aim is to reduce the working of butterfly valve, and to maintain water levels in the specified range. 
-The experimental result reveals that the proposed 2−stage fuzzy logic controller reduces the opening and closing of the butterfly valve considerably and has a better response to the water level maintaining than the PID controller with fixed gain. 

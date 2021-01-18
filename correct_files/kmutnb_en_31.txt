@@ -1,6 +1,0 @@
-Evaluation of Response Modification Factor for 4-story RC Shophouses
-This paper presents the evaluation of the response modification factor (R) for 4-story reinforced concrete shop houses in Thailand. 
-The buildings, some of which were designed for earthquakes and some that were not, were used as a case study. 
-For the seismic design, two different types of structural systems, intermediate RC moment resisting frames and special RC moment resisting frames, were considered and designed according to Thailand’s seismic design code, namely DPT-1302. 
-In this study, nonlinear static analysis (pushover analysis) was employed and the analytical results were compared with the DPT-1302 standard. 
-The results indicated that the response modification factors for both the intermediate RC moment resisting frames and the special RC moment resisting frames from the analysis were greater than the factors prescribed by the DPT-1302 standard.

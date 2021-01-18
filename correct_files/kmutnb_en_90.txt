@@ -1,8 +1,0 @@
-A Technique of Heat Pipe Filling with the Refrigerants Vapor Compression Method
-This study focuses on heat pipe filling with the saturated vapor of refrigerants, aiming to investigate the appropriate point of the saturated vapor volume and cooling temperatures. 
-The test pipe is made of straight copper tube with a 40-mL capacity. 
-The experiments were conducted with four types of refrigerants i.e. R22, R-134a, R32 and R404A. 
-The volume of saturated vapor for testing was 50, 100, 150, 200, and 300 mL and the cooling water temperature for condensation was set at 0, 5, 10, 15, 20, and 25°C respectively. 
-The saturated vapor compression system was carried out using the hydraulic press machine, allowing the saturated vapor of refrigerants to condense in the test pipe. 
-The experimental result shows that the compression technique was useful for heat pipe filling as it decreases the loss of refrigerants in the entire filling process. 
-The average uncertainty of mass filling was 3% when cooling water temperature lies between 0 to 5°C.

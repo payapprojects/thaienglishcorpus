@@ -1,6 +1,0 @@
-Extraction of essential oil from lemon basil (Ocimum citriodourum) straw using hexane, supercritical carbon dioxide (SCCO2) and hydrodistillation was investigated in this study. 
-The extracted samples were subjected to GC-MS to analyze the composition. 
-The extraction yield of hexane in Soxhlet extractor was highest as 4.04%. 
-The extraction yields of supercritical carbon dioxide (350 bar and 70oC) and hydrodistillation were 1.5% and 0.29%, respectively. 
-The main components in essential oil from hexane extraction were caryophyllene oxide, neral, and geranial which were similar to sample from supercritical carbon dioxide extraction. 
-The major components in essential oil from hydrodistillation were caryophyllene oxide, trans-alpha-bergamotene and linalool.

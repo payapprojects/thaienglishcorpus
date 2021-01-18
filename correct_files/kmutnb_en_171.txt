@@ -1,9 +1,0 @@
-The Confidence Interval of the Coefficient of Variation for a Zero - Inflated Poisson Distribution
-This research was to present the confidence interval of the coefficient of variation for Zero-Inflated Poisson (ZIP) distribution by using the principle parameter estimation of ZIP distribution with Maximum Likelihood Estimator and to create the confidence interval of the coefficient of variation for ZIP distribution. 
-The efficiency of the interval was considered by the coverage probability and the average width of the confidence interval. 
-The R program was employed to simulate the repetition of numerous data set, which coefficient of variation (κ) was at 0.39 to 3.32. 
-The parameters of ZIP distribution were average number of events in a specified region (λ), equal to 5(5)25. 
-The proportions of observed zero (ω) were 0.1(0.1)0.9 and the sample sizes (n) were 30, 40, 50, 100 and 200 with the confidence levels of 0.90, 0.95 and 0.99. 
-The results showed that at the confidence levels of 0.90 and 0.95, the proposed confidence interval gave the coverage probability as criteria defined in all cases of λ when n = 50, 100, 200 and ω = 0.2–0.9. 
-For the confidence level of 0.99, found that the coverage probability meets the defined criteria in all cases of ω when n = 200 and λ = 20, 25 In addition, the results showed that the average width of the proposed confidence interval decreases when ω increase. 
-However, as n increases, the average width of the confidence interval decreases for all levels of λ and ω.

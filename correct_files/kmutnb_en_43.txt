@@ -1,8 +1,0 @@
-Development of a Database System for Managing Spare Parts in Engineering and Maintenance Department: A Case Study in Coil Center Industry
-The objective of this research is to develop a database management system in the engineering and maintenance department by improving inventory parts data collection methods. 
-It aims to improve working performance, improve searching time of the parts and reduce the mean time to repair machine. 
-Presently, the parts disbursement controlling problems found at the case study factory are caused from the data management and the data record which is complicated and double searching. 
-According to double ordering parts waiting, the average searching time for parts is 34 minutes. 
-The Management Information System (MIS) is applied by using Microsoft Access 2010 program to develop and solve the problem. 
-Referring to the program, comparing with the previous system, it can be concluded that the new developed database system can reduce the working time by 31.99 minutes to 1.44 minutes or 95.69 percent. 
-As a result, the database system can increase the performance of maintenance section.

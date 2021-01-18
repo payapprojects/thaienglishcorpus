@@ -1,9 +1,0 @@
-Extracting Silica from Biomass Fly Ash by Using Alkaline Hydrothermal Treatment and Silica Precipitation by Using Organic Acids
-This study aims to investigate the optimal condition to extract and precipitate silica from biomass fly ash. 
-Results showed that the best condition to extract silica from fly ash in this study was by treating fly ash with 3M NaOH solution using fly ash-to-solution ratio of 1 : 10 g/ml at 90oC for 24 h. 
-The findings indicate that these studied variables are of importance to the dissolution of silica from biomass fly ash. 
-In the study on precipitating silica using organic acid solution, results showed that the use of citric acid and precipitation condition at pH of 4 were the appropriate conditions by giving the maximum silica precipitation (98.5%). 
-This was because of sufficient acidic conditions to precipitate silica and the appropriate dissociation constant of organic acid. 
-The obtained silica was analyzed by using X-ray diffraction was amorphous silica. 
-X-ray fluorescence analysis showed that the obtained product was mainly composed of silica at 95.6%. 
-Therefore, the use of biomass fly ash as a raw material for silica production is an interesting way to enhance value for biomass fly ash.

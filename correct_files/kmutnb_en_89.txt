@@ -1,9 +1,0 @@
-Experimental Study on Drying Conditions of Solar Fish Dryer with Temperature Controlled by Open-closed Ventilating System
-This research aims to conduct an experimental study on the solar fish dryer with temperature controlled by open-closed ventilating system. 
-In the experiment, three cases of the study were examined by the different drying conditions The first case including the air velocity of 2.5 m/s and the ventilating area of 480 cm2 were applied to dry the fish until the moisture content below 70% dry basis. 
-The second case was conducted for 2 days. 
-The air velocity of 5.5 m/s and the ventilating area of 480 cm2 were applied to test in first day of the drying time while on the second day, the air velocity of 2.5 m/s and the ventilating area of 480 cm2 were set as the drying condition. 
-For the third case, the drying condition was similar to that of the second case except the ventilating area of 4,800 cm2 was applied in the first day of the drying time. 
-From the experimental results, it can be seen that the third case can provide the faster drying rate than the fish drying the direct sun dry system in the first three hours drying time because the ventilating area plays a significant effect on the drying rate. 
-In other words, at the same velocity, the area of 4,800 cm2 can make the higher drying rate than the ventilating area of 480 cm2 when the dryer with the larger area has a drying rate range of 0.18-0.56 g water/ g dry matter h, thermal efficiency of drying system of 32.18% and specific energy consumption of 2,087.72 Wh/kg. 
-Therefore, in the first day of drying time, the dryer with larger ventilating area providing the lower drying temperature can operate with a higher drying rate than the dryer with smaller ventilating area.

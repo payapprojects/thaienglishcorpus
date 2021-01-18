@@ -1,9 +1,0 @@
-A Simple Device with a Smartphone Camera for Determination of Salicylic Acid in Foods, Drugs and Cosmetics
-A simple colorimetric detection device using a smartphone camera was designed and developed for determination of salicylic acid in some foods, drugs, and cosmetics. 
-The reaction between salicylic acid and iron (III) chloride solution was employed to produce the violet solution, which was further analyzed for color intensity of red, green, and blue using the common color analysis application program. 
-As a result, intensity of green color showed the best linear relationship to the concentration of salicylic acid. 
-Under the optimum conditions, i.e. concentration of iron (III) chloride of 0.05% (weight/volume); the pH range of 2–9; and the reaction time of 30 minutes, the device was set to analyze salicylic acid content in 13 samples using 3 different camera resolution smartphones. 
-The smartphone with camera resolution of 12–13 megapixel provided consistent results with that obtained by UV-Vis spectrophotometry and showed good precision with percentage of relative standard deviation less than 5. 
-The concentration of salicylic acid in samples can be successfully determined by our simple device. 
-This experiment bring a significant benefit, serving as a guideline to create a simple tool for analyzing any colored substances, an ideal alternative for expensive, advanced instruments. 
-More importantly, the device can be used as a simple tool for teaching chemistry in the secondary education level.

@@ -1,8 +1,0 @@
-Extraction and Characterization of Residual Oil from Spent Bleaching Earth
-Spent Bleaching Earth (SBE) is an industrial waste of edible vegetable oil production generated from bleaching process of crude oil. 
-As spent bleaching earth contains between 20–40% oil by weight, its disposal by landfill or incineration may cause the dangers of fire and pollution. 
-In addition, the combustion of residual oil in spent bleaching earth leads to the emission of greenhouse gases into the atmosphere. 
-Extraction of residual oil from spent bleaching earth before disposal thus becomes a promising approach and issue of interest to eliminate these problems.
-From previous research, solvent extraction is the most popular method for extraction of the residual oil. 
-This paper therefore reviews factors that affect the extraction efficiency and properties of extracted oil. 
-The information contained in this review would serve as a guideline with the greatest capacity for the mentioned procedure.

@@ -1,8 +1,0 @@
-Intelligence Online System for Automatic Route Planning by Using Genetic Algorithm
-This research proposes the application of genetic algorithms to create online automated routes by using the distributer staff’s routes to analyze and improve the distribution routes in the transportation system in Udon Thani province in Thailand in order to determine the best and shortest routes, the lowest cost, and the shortest and most convenient period of time in order to serve the customer needs by using minimal resources. 
-The distributor staff will define a delivery destinations according to the number of packages. 
-Then the system’s process begins to find the best routes to travel to all of the desired destinations by using a genetic algorithm. 
-The research effectiveness was tested by comparing the algorithm’s search with the Greedy Best First Search, the A*search and the manual search by the distributer staff who are experts in delivery. 
-The results revealed that the method proposed can handle the deliveries better than the other methods both in terms of the distance and time. 
-The user satisfaction test result was at the good level. 
-The tests indicated that the proposed method is able to determine the proper route effectively and is a suitable tool for helping the distributor staff to work more efficiently.

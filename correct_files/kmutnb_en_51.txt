@@ -1,9 +1,0 @@
-This research proposed to study milk fouling in the flow channels of shell and tube heat exchangers used in the raw milk preheating process. 
-The study considered the formation of fouling by probing the changes in the pressure drop across a 2-meter long milk fouling test unit. 
-The effect of flow rates (4,000 l/h, 9,000 l/h and 12,000 l/h) was studied at a controlled hot water temperature (80°C) at a fixed experimental period of 2 hours. 
-It was found that, at higher flow rate, the pressure drop was lower with thinner calculated scale layer thickness ranging from 1.42 cm to 0.53 cm and 0.17 cm, respectively. 
-This might be because the protein ß-Lactoglobulin could not attach and spread out easily on the heat exchanger surface at high flow rates. 
-As a result, the efficiency of the heat exchanger was increased, leading to lower energy consumption and longer production time. 
-In addition, this research proposed to use a theoretical model to link between the calculated scale layer thickness and the reduction of heat transfer. 
-This model was proved by comparing with the actual plant operation to work well and could be used for the economic evaluation of the process. 
-It was found that by increasing the flow rate from 9,000 l/h to 12,000 l/h, the cleaning cycle could be delayed from every 8 h to every 17 h, leading to significant saving in the dairy industry.

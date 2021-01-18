@@ -1,9 +1,0 @@
-An interfacing card for nuclear measuring systemhas been developed for data communications between theNIM system and a 16-bit IBM personal computer, XT/AT orcompatible, to improve performance of the measuringsystem. 
-It can be applied for both data analyzing andnucleonic controlling systems. 
-The software package foroperating the card is programmed with the BASIC andassembly languages. 
-This package is devided into twomajor parts, i.e., control and utility programs, whichare designed to display on a monochrome monitor withHercules card and 12772-byte program size. 
-The control program consists of four menus. 
-Theyare the scaler service routine, the ratemeter serviceroutine, the single channel analyzer service routineand the nucleonic control service routine. 
-Theuniversal interfacing card can transfer the BCDcounting data from a scaler with six-digit capacity andrecieve a signal level from 8 modules of ratemeter withmultiplexing system. 
-Each channel can accept the signalof 0 to 100 mV with an error of less than (+,-)3.6percent full scale. 
-The card can generate a 0-to 10-Vlow level discriminator scanning signal with resolutionof 10 Mv and linearity of 0.998. Besides, it cancontrol eight sets of external devices through thesignal obtained by compairing the result from theratemeter with that from the reference point.

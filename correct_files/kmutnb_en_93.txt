@@ -1,6 +1,0 @@
-Optimal Factor Settings for Nonwoven Carpet Processes by Using Sequential Experiment and Analyze Variability
-This research aims to determine optimal factor settings for nonwoven carpet processes, which are seat back, floor carpet, and headliner processes. 
-The optimal settings are determined in order to control the width of seat back and floor carpet and the weight of headliner within customer acceptable ranges. 
-A sequential experiment and analyze variability are conducted to determine the optimal settings. 
-The results show that the optimal settings obtain the width of seat back and floor carpet of 175.65 cm and 192.41 cm with the minimum standard deviation of 0.252 cm and 0.044 cm, and also obtain the weight of headliner of 190.57 gsm with the minimum standard deviation of 0.881 gsm. 
-The obtained width and weight are within the acceptable ranges with the lowest standard deviation value.

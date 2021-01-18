@@ -1,8 +1,0 @@
-A Comparative Forecasting Model of Monthly Rainfall in the Northeast of Thailand
-The purpose of this study was to compare 5 forecasting models, i.e. Ratio-to-Trend Method, Holt-Winters Exponential Smoothing Method, Regression Dummy Variables Method, Theta Method, and Combined Forecasting Method. 
-These methods were used to forecast the maximum monthly rainfall (MMR) and accumulated monthly rainfall (AMR) in 3 northeastern provinces of Thailand, including Sakon Nakhon, Nakhon Phanom and Mukdahan. 
-Related data collected by Meteorological Department of Thailand during 1984 through 2017 were investigated for the accuracy of the forecasting models. 
-The Mean Square Error (MSE) was used to determine the model accuracy while the smallest MSE values indicate the optimal forecasting model. 
-The R programming was used for data analysis. 
-Rainfall time series and seasonal variability were detected. 
-As results, the optimal model was found to be Combined Forecasting Method; followed by other 4 tops models: the Ratio-to-Trend Method, Theta Method, Holt-Winters Exponential Smoothing Method and Regression Dummy Method respectively.

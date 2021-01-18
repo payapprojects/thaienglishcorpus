@@ -1,9 +1,0 @@
-Flood Susceptibility Mapping Using Geographic Information System and Frequency Ratio Analysis in the Lang Suan Watershed, Southern Thailand
-Flood susceptibility map is one of the important tools for flood management planning. 
-Therefore, the objective of this study was to produce a flood susceptibility map for the Lang Suan Watershed, Southern Thailand, by using Geographic Information System (GIS) and Frequency Ratio analysis (FR) a well-known statistical method for susceptibility mapping. 
-In this study, 116 (70%) floods were used as training data and 8 flood conditioning factors, including 30-yr mean annual rainfall, road density, slope angle, elevation, drainage density, land use, soil drainage and distance from drainage for analysis, and 50 (30%) floods were used for validation of model by using the Area Under a Curve (AUC). 
-The results showed that the very low flood susceptibility area was the most area (47.78%) whereas the very high flood susceptibility area was the least area (7.39%). 
-On the other hand, the very high flood susceptibility area was the most community area (76 communities) whereas the low flood susceptibility area was the least community area (2 communities). 
-Moreover, it found that the model was highly efficient. 
-It produced a high accuracy value of AUC which had the success rate of 88.98% and the prediction rate of 84.98%. 
-Hence, it confirmed that the result could be used for supporting flood management planning to administration and organization in the Lang Suan watershed, especially the local administration and organization in high and very high flood susceptibility area that was the dangerous area and population density (115 communities), such as Hat Yai, Wang Tako, Pho Daeng, Na Phaya and Ban Khaun Sub-District, Lang Suan District, Chumphon Province.

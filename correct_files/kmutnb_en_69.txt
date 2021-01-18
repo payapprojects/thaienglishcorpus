@@ -1,6 +1,0 @@
-Performance Improvement for Gas Turbine by Inlet Air Cooling Method
-This paper studies the performance improvement for gas turbine with a capacity of 292 MW by applying the inlet air cooling method. 
-The effect of operating conditions on the performance of gas turbine is simulated by using the computational program, Aspen Hysys version 8.6. 
-The simulation was verified with the actual modified operating condition at the ambient air temperature of 34°C and the relative humidity of 49%. 
-The current study compares the effect of inlet air cooling in 3 cases which are 1) Normal operation (without the inlet air cooling system), 2) With the fogging spray system, 3) With the electric chiller system. 
-The results indicated that the gas turbine with the fogging spray system and the electric chiller system can increase the power output by 7.02% and 13%, respectively.

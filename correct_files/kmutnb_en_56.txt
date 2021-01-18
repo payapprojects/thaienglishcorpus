@@ -1,7 +1,0 @@
-Inverse problems could be described as the relationship between system inputs and outputs. 
-In general, a solution obtained from numerical solving for an inverse problem is said to be unstable. 
-So the inverse problems can be ill-posed problems according to the Hadamand’s criteria. 
-By relaxing the process of solving the problem with the corresponding regularization theorem, the stability of the solution will be obtained. 
-In this review article, the mathematical analysis for solving inverse problems and a comprehensive account of regularization theorem are presented. 
-Finally, we show some examples for solving local volatility in financial derivatives which is deemed an important aspect of inverse problems concerning the field of applied mathematics for finance.
-

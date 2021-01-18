@@ -1,9 +1,0 @@
-Study of Solidification Shrinkage Behavior in Cast Irons by Linear Displacement Method
-This research aims to study the solidification behavior in Gray Iron (GI), Compacted Graphite Iron (CGI) and Ductile Iron (DI). 
-In order to achieve this goal, the special equipment was devised by applying a linear displacement method. 
-The equipment consisted of spherical additive-manufactured sand molds encased in steel jackets. 
-The jackets were equipped with a thermocouple and quartz rod (connected to the LVDT) to record the temperature and the displacement simultaneously. 
-Irons with various Carbon Equivalent (CE) 3.7, 4.0, 4.3 and 4.6 were produced for this experiment. 
-It was found that the contraction and the expansion behaviors of three types of cast irons exhibited slight differences. 
-The graphite expansion and graphite expansion time increased with increasing carbon equivalent ranged from 0.2–1.8 mm and 230–450 s respectively. 
-In addition, the austenite shrinkage was observed for some conditions at CE lower than 4.3. No significant difference was seen between types of irons.

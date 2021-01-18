@@ -1,6 +1,0 @@
-Integration of Blockchain to Cloud Computing in e-Portfolio
-The technology application for education has carried on from the past to present and has more obviously seen when e-Learning has proposed to support teaching and learning around 1990s. 
-It is the new approach in education to rise up learning quality effectively and efficiency. 
-But, when the 21st century has reached, there have been two new technologies changing that affect business and industry around the world resulting in reorganization again. 
-The first technology is the cloud computing technology that changes organization processing pattern for a better effective cost and the second technology is the blockchain technology causing a big change on global financial business. 
-This paper has proposed the way to bring both technologies for applying to education by using Blockchain to create a confidence of e-Portfolio transaction via cloud computing resource that facilitate to develop system in platform as a service (PaaS) and enable the integration between e-Portfolio and Blockchain.

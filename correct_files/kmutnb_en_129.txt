@@ -1,9 +1,0 @@
-Flatness Improvement of Fiber-Cement Flat Sheet Using Split Plot Experiment with Uncontrollable Factor
-Currently, the flatness of fiber-cement flat sheets produced from the selected factory does not meet the customer's specification (8–10.55 μm). 
-This leads to many customer claims, of which the estimating costs may reach 100,000 baht per month approximately. 
-This paper aims to determine an optimal factor setting of fiber-cement flat sheet process to deal with the issue. 
-Based on the study, the factors concerned are feeding speed, roll gap, roll pressure, and relative humidity. 
-A split-plot design is then selected since the feeding speed is a hard-to-change factor. 
-The relative humidity is treated as a covariate factor in the experiment since it is known but still uncontrollable. 
-The result shows that the feeding speed, roll gap and pressure, and relative humidity should be set as 60 m/s, 7 mm, 90 bar, and 27.98% respectively. 
-The flatness obtained from this setting is about 8.73 μm. Based on the setting, the factory can improve the flatness and can handle the claim cost caused by the flatness problem as well.

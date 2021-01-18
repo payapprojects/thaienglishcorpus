@@ -1,8 +1,0 @@
-The Supply Chain of Materials in Construciton Works of Prachin Buri Province
-The supply chain of construction work materials in non-permanent forms and the construction process that has no absolute typical processes results in diverse and unique logistics processes. 
-This study presents the implementation of the supply chain for construction materials in Prachin Buri province in Thailand. 
-Included in the discussion is a list of activities and the time frame that occurred between the contractor and material supplier regarding 3 types of construction material trading. 
-The results revealed that the type of material directly affected the time employed for each activity. 
-In addition, the critical path method analysis, which considered the sequence and relationship among activities, demonstrated that the amount of time that each party employed was influenced by the performance of the other party. 
-Therefore, in increasing the efficiency of the supply chain, it might be necessary to adopt the supply chain management model from the manufacturing industry, where each party is involved in the operations of the other relevant parties. 
-Furthermore, studying the supply chain or scheduling of the logistics process should take into account the type or nature of materials in conjunction with the efficiency of each party involved.

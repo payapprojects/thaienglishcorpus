@@ -1,9 +1,0 @@
-This study aims to investigate inappropriate words that Thai students frequently use in writing by comparing students written corpora with comparable English native speakers corpora. 
-To make the initial results more worthwhile, this study also examines the students use of writing strategies, that may influence the selection of words, and the students reasons for using the inappropriate words. 
-The students involved in this study were the first-year engineering students at King Mongkuts University of Technology Thonburi. 
-For the identification of inappropriate words, all of the students in the class, thirty-eight of them, participated. 
-They were assigned to write essays on three written topics and to send their works to the researcher via E-mail. 
-Then their works were compiled as ~iStudents Corpus~i 1, 2, and 3, respectively, depending on the written topics, in order to be compared with the English ~iNative Speakers Corpus~i 1, 2, and 3, of the same topics, collected from the internet. 
-After the comparison of each written topic was done, ten students from each topic were selected to be subjects of an interview for gathering the use of writing strategies and reasons for using those words. 
-From the analysis, there are twenty-nine inappropriate words found. 
-In addition, the interview signifies the fruitful information of the use of writing strategies and reasons for using those inappropriate words which will be useful to classroom teaching afterward.

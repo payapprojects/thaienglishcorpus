@@ -1,8 +1,0 @@
-During festivals or long weekend, people often drive to travel or visit their hometown, which results in a great number of cars on many major highways. 
-It is observed that the traffic stream on these highways flows under stop-and-go condition due to the occurrence of bottlenecks. 
-This study aimed to explore ways to locate the bottlenecks on highways. 
-Data were collected by driving along Mittraphap Road from Nakhon Ratchasima to Khon Kaen during the beginning of New Year (December 27–29, 2013), which was a total of 16 trips. 
-Each trip started every three hours and a designated survey form was used to record the locations of the bottlenecks as well as factors contributing to their occurrences. 
-The findings revealed 97 locations of the bottlenecks and 12 factors causing their occurrences. 
-Binary logistic regression model was utilized to analyze and build forecasting models, which differed primarily in such factors as types of gas stations and overpasses. 
-It was found that the most efficient model was the model using PTT gas stations and unclassified overpasses.

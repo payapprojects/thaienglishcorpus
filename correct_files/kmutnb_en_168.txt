@@ -1,8 +1,0 @@
-Price Forecasting of Ribbed Smoked Rubber Sheet No. 3 with a Markov Chain Model
-This research proposes a Markov Chain model for forecasting the price of ribbed rubber sheet grade 3 (RSS3) in Thailand. 
-The model was parameterized with daily prices from January 2014 to March 2016, with the sample size of 536 sets. 
-This study also considers the effect of sample sizes (536 and 196) and the effect of the number of price interval was at 5, 10, 15, 20, 25, and 30. 
-The transition matrix was parameterized for each case, and the daily prices were simulated for 1,000 values. 
-The case of 536 samples and 15 intervals and the case of 196 samples at 5 intervals have the mean of absolute percentage error close to 4%.
-
-

@@ -1,7 +1,0 @@
-The aim of this research project was to study the effect of intensity of electric field to inactivate microorganism and quality of milk tea after pulsed electric field pasteurization. 
-The experimental results were compared with these belonging to thermal pasteurization. 
-Quality analysis of milk tea including physical properties which were color, viscosity and sensory, chemical properties which were pH, total soluble solid, fat and protein content and biological properties in term of E. coli reduction. 
-The results showed that the electric field intensity of 20 kV/cm with pulse number of 1,250 was optimum. 
-This setting could inactivate E. coli for 5 log reduction. 
-The results from the analysis of physical quality including color and viscosity showed that both pasteurization gave similar value. 
-Chemical properties results including fat and protein contents showed that the amount of fat in milk tea by thermal pasteurization was more than the pulsed electric field while the protein contents were similar.

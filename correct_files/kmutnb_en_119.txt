@@ -1,5 +1,0 @@
-The Development of Biomass Fuel from Peanut Shell
-This research was the development of biomass fuel from peanut shell by studying the mechanical and thermal properties of biomass fuel prepared from peanut shells with starch and rice husk were used as a binder at two hydraulic pressures of 4.5×105 and 13.2×105 lbm/ft2. 
-From the study, it was found that the biomass fuel under the use of high hydraulic pressure fuel had a better mechanical property than that the use of low hydraulic pressure in term of an increase in shatter index and densification 4.20% and 9%, respectively. 
-In contrast, the thermal property of biomass fuel used low hydraulic pressure was enhanced in term of a higher high heating value and a better thermal efficiency corresponding to the lower water penetration rate and moisture content. 
-Moreover, rice husk cannot use as a binder due to its cylindrical characteristic and high ash content of 19.97%.

@@ -1,9 +1,0 @@
-Development of MATLAB GUI for Induction Motor Fault Diagnosis
-This paper presents a software development for stator and rotor fault diagnoses in induction motors based on the MATLAB GUI. 
-The concept of the detection is to detect the fault spectra caused by the failures of the stator and rotor. 
-The important analytical technique is the Motor Current Signature Analysis (MCSA). 
-Two intelligent methods including an Artificial Neural Network (ANN) and a Support Vector Machine (SVM) are selected to carry out fault classification and diagnosis. 
-The software starts to analyze when users enter the important information i.e. 
-the motor stator current in the time domain. 
-Subsequently, the software will analyze and show the results in the window of the MATLAB GUI, which is easy to read the results and to plan the maintenance. 
-In addition, the fault classification performances are satisfactory with more than 85% accuracy.

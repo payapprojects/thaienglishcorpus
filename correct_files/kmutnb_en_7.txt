@@ -1,9 +1,0 @@
-Inventory Management of Spare Parts under Uncertain Demand: A Case Study of Particle Board Manufacturer
-The Inventory management consists of a couple important factors that the top management is always paying attention. 
-These are Total Cost and Service level. 
-This kind of research focuses on cost analysis and decision support for top management trade-off. 
-The researcher uses the stochastic model called Monte-Carlo Simulation to find out which purchasing policy is optimal in term of total cost and service level. 
-The purchasing policies are 
-1) the current purchasing policy 
-2) the purchasing policy from EOQ ROP formula and 
-3) the purchasing policy from Microsoft Excel Solver, the results of the calculations and simulations found that the total cost of the 3rd purchasing policy is the lowest total cost and it provides a similar service level with other policies.

@@ -1,9 +1,0 @@
-pH Monitoring: 24 hrs, 48 hrs Capsule Bravo
-The 24 hrs pH monitoring is used to assess diseases brought about by irregular gastroesophageal function causing reflexes of the acid gastric juice which results in irritation, ulcer or burning in the chest.
-This diagnostic technology is better tolerated and patients can carry out their normal activities during the test. 
-There are two options of pH monitoring:
-Digitrapper catheter-pH monitoring: a measurement tube is inserted through the patient’s nose into the esophagus to collect signals for 24 hours. 
-The results are then analyzed by a Digitrapper computer.
-Capsule Bravo pH monitoring: a capsule is inserted through an endoscope to be attached to the esophageal wall.
-The capsule view emits radio signals to the receiver outside the patient’s body. 
-After the data is collected, the capsule will fall off and be excreted naturally.

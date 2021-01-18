@@ -1,6 +1,0 @@
-Many-Objective Car Sequencing Problem on Mixed-model Two-sided Assembly Lines
-A Multi-objective Evolutionary Algorithm based on Decomposition (MOEA/D) is an evolutionary metaheuristic which has been developed to solve Many-Objective Optimization Problems (MaOPs). 
-The concept of searching for answers is to decompose the original problem into subproblems for finding the optimal solution of each subproblem. 
-This study proposes a MOEA/D compared with a Multi-Objective Differential Evolution algorithm (MODE) in order to solve many-objective car sequencing problem on twosided assembly lines which is classified as a MaOPs and be non-deterministic polynomial hard problem (NP-Hard problem) due to complexity and a large number of solutions. 
-Five objectives were simultaneously evaluated, including the minimal number of color changes, of vehicle violations, along with the minimum amount of unfinished production, of total idle time of the line, and of total variation in rate of production. 
-The experiments showed that MOEA/D has better aspects of convergence performance and time consumption than MODE counterpart.

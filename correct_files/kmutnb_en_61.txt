@@ -1,5 +1,0 @@
-High Speed Turbine Aerators with Air Feeding into Hollowed Shaft
-This research aims to study and fabricate a high speed submerged turbine aerator in pilot scale. 
-All aeration experiments were conducted in a glass square tank with dimension of 50×50×50 cm, tested water volume of 100 l, air flowrate of 15 l/min. 
-Three types of turbine, namely, Flat Disc–6–Blade Turbine, 45° Pitch–4–Blade Turbine and 45° Flat Disc–6–Blade Turbine were studied with various rotor speeds in the range of 800 to 1200 rpm. 
-Results showed that the 45° Flat Disc–6–Blade Turbine gave the maximum Standard Aeration Efficiency (SAED) of 1.334 kgO2/kW-h at 800 rpm of the rotor speed.

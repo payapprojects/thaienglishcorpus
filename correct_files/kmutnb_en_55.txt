@@ -1,5 +1,0 @@
-The objectives of this study were to determine the 10-micron particulate matter (PM10) and polycyclic aromatic hydrocarbons (PAHs) levels in indoor air at a religious site in Thailand. 
-The 36 samples were collected at different sampling points; near the pollutant source (incense burner) and four meters from the pollutant source using a Deployable Particulate Sampler. 
-The relationships among the meteorological data, wind speed, temperature, relative humidity, and PM10 and PAHs levels were also determined. 
-The results showed that the PM10 mean levels were 677.83–719.83 μg/m3, the PAHs mean levels were 4.07–5.38 ng/m3, and the PM10 and PAHs levels at different sampling points were not significantly different. 
-The relationship results showed that temperature was negatively related with the PM10 at 95% confidence interval, but the wind speed and relative humidity were not shown to be significantly related with the PM10 and PAHs levels.

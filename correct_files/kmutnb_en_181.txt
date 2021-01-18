@@ -1,7 +1,0 @@
-Spatial Distribution of Drought Return Periods for the Mun Basin Using a Bivariate Copula Method
-Droughts are major natural disasters with significant impacts on environment, economic and society. 
-In the assessment of the drought, the important parameters are drought severity and drought duration which are rarely taken into consideration together. 
-This study aimed to assess the bivariate droughts in the Mun basin, to identify drought severity and duration, and to analyze the bivariate probability distribution for these two drought characteristics from Clayton copula method. 
-The results of univariate and bivariate analyses of return period showed that the bivariate return period for each characteristic was smaller than that of the relying univariate return period. 
-The return period of spatial distribution of extreme drought in the Mun basin was between 1.8–2.9 years. 
-This showed that there was high probability of extreme drought occurring in the Mum basin with high frequency and fairly uniform distribution.

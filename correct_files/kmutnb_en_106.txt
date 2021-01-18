@@ -1,8 +1,0 @@
-Performance of SWAT Hydrologic Model for Runoff Simulation in Wang River Basin
-The purpose of this study was to evaluate the efficiency of SWAT hydrological model for runoff simulation in Wang River Basin. 
-The input data includes the daily meteorological observation data during the year 2004–2013, land-use of the year 2009 and topographical data. 
-The analyses were divided the whole basin into 18 sub-basins and defined the basin outlets at 10 stations of observed daily runoff data to calibrate the SWAT model. 
-In addition, the basin physical parameters including surface water, groundwater, watershed, soil, and channel flow, have been adjusted to improve the efficiency of the model in the runoff simulation. 
-The results showed that the SWAT model was effective in simulating the runoff of the Wang River Basin, especially in the non-dam sub-basin and the end of the Wang River Basin. 
-The model is appropriate to simulate the runoff during the wet season rather than the dry season. 
-However, the SWAT model has limitations on the maximum monthly runoff model, especially in the month of flood problem, the maximum monthly runoff from the model was lower than the observed value.
